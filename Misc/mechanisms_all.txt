@@ -1,0 +1,50 @@
+cation (out) ⇌ cation (in)
+H2O (out) → H2O (in), solute (out) → solute (in)       
+Cl- (out) ⇌ Cl- (in), Cations (out) ⇌ Cations (in)
+ions (in) ⇌ ions (out)
+Mg2+ (out) ⇌ Mg2+ (in), Ca2+ (out) ⇌ Ca2+ (in)
+Nan
+Ca2+ (out) ⇌ Ca2+ (in), C+ and Ca2+ (out) ⇌ C+ and Ca2+ (in)
+cations (in) ⇌ cations (out)
+Na+ (out) ⇌ Na+ (in), Cation (out) ⇌ cation (in)
+Me+ (out) ⇌ Me+ (in),  Me2+ (out) ⇌ Me2+ (in)
+Substrate (out) →(pmf) Substrate (periplasm)
+Nan
+Solute (out) ⇌ Solute (in)
+(Anionic) metabolites (out) ⇌ anionic metabolites (intermembrane space)
+Protein virulence factor (periplasm) → protein virulence factor (external milieu)
+OMPs (periplasm) → OMPs (outer membrane)
+Substrate (out) ⇌ substrate (periplasm)
+Nan
+Nan
+Nan
+Small and large molecules (in) ⇌ small and large molecules (out)
+Ions (in) ⇌ ions (out)
+Nan
+proteins (bacterial cytoplasm) → proteins (host cell cytoplasm)
+Solutes (in) ⇌ solutes (out)
+Small and large molecules (in) → small and large molecules (out)
+Small molecules (in) ⇌ small molecules (out)
+Nan
+Small molecules (in) ⇌ small molecules (out)
+Ions (in) ⇌ ions (out)
+S (out) ⇌ S (in), S (out) + H+ (or Na+) (out) ⇌ S (in) + H+ (or Na+) (in), S1 (out) + S2 (in) ⇌ S1 (in) + S2 (out) (S1 may be H+ or a solute)
+Nan
+Substrates (in) + nH+ (out) → Substrates (out) + nH+ (in)
+S1 (out) + S2 (in) ⇌ S1 (in) + S2 (out)
+S (out) + nH+ (out) → S (in) + nH+ (in), S1 (out) + S2 (in) ⇌ S1 (in) + S2 (out)
+Nan
+Me2+ (out) →(pmf) Me2+ (in)
+Substrate (out) + nH+ (out) → Substrate (in) + nH+ (in)
+solute (out) + nH+ (out) → solute (in) + nH+ (in)
+Na+ (out) + H+ (in) ⇌ Na+ (in) + H+ (out)
+Solute (out) + ATP → Solute (in) + ADP + Pi, Substrate (in) + ATP → Substrate (out) + ADP + Pi
+Protein or nucleoprotein (donor cytoplasm) + ATP (in) → Protein or nucleoprotein (recipient cytoplasm or medium) + ADP (in) + Pi (in)
+nH+ (in) + ATP ⇌ nH+ (out) + ADP + Pi, nNa+ (in) + ATP ⇌ nNa+ (out) + ADP + Pi
+nMe1 (out) + mMe2 (in) + ATP → nMe1 (in) + mMe2 (out) + ADP + Pi, Phospholipid (outer leaflet of the membrane) + ATP → Phospholipid (inner leaflet) + ADP + Pi
+ATP + unfolded protein (cytoplasm) ⇌(pmf) ADP + Pi + unfolded protein (periplasm or cytoplasmic membrane)
+misfolded protein (ER)  → misfolded protein (cytosol)
+Protein and/or DNA (cytoplasm of the donor) → Protein and/or DNA (cytoplasm of the recipient)
+protein (cytoplasm) → protein (peroxisomal matrix/membrane)
+Protein (bacterial cytoplasm) + ATP + H+ or Na+ (out) →(pmf/smf) Protein (out or in the host cell cytoplasm) +  ADP + Pi + H+ or Na+ (in)
+Nan
