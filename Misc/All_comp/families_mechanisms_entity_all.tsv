@@ -39,7 +39,7 @@ Family	Mechanism	Acting Entity
 2.A.18	Substrate (out) + nH+ (out) â†’ Substrate (in) + nH+ (in)	Substrate
 2.A.56	solute (out) + nH+ (out) â†’ solute (in) + nH+ (in)	solute
 2.A.36	Na+ (out) + H+ (in) â‡Œ Na+ (in) + H+ (out)	Na+
-3.A.1	Substrate (out) + ATP â†’ Substrate (in) + ADP + Pi	Substrate
+3.A.1	Solute (in) + ATP â†’ Solute (out) + ADP + Pi, Substrate (out) + ATP â†’ Substrate (in) + ADP + Pi	Solute, Substrate
 3.A.7	(Nucleo)protein (donor cytoplasm) + ATP (in) â†’ (Nucleo)protein (recipient cytoplasm or medium) + ADP (in) + Pi (in)	(Nucleo)protein
 3.A.2	nH+ (in) + ATP â‡Œ nH+ (out) + ADP + Pi, nNa+ (in) + ATP â‡Œ nNa+ (out) + ADP + Pi	
 3.A.3	nMe1 (out) + mMe2 (in) + ATP â†’ nMe1 (in) + mMe2 (out) + ADP + Pi, Phospholipid (outer leaflet of the membrane) + ATP â†’ Phospholipid (inner leaflet) + ADP + Pi	Me1/Me2, Phospholipid
