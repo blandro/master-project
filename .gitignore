@@ -1,4 +1,4 @@
 ChEBI_complete_3star.sdf
 chebi.owl
-UniProt/query2.csv
-UniProt/uid_rhea_refseq.tsv
+UniProt/Raw_queries/*
+UniProt/Modified_queries/*
