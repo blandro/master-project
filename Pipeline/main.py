@@ -2,11 +2,11 @@ import argparse
 import subprocess
 import pandas as pd
 
-def run_blast(user_fasta, reference_db, evalue, identity):
+def run_blast(user_fasta, reference_db, evalue, identity, num_threads=8):
     """Run BLASTp against reference and filter results."""
     
     # Run BLAST
-    blast_cmd = f"blastp -query {user_fasta} -db {reference_db} -outfmt 6 -evalue {evalue} -out results.txt"
+    blast_cmd = f"blastp -query {user_fasta} -db {reference_db} -outfmt 6 -evalue {evalue} -num_threads {num_threads} -out results.txt"
     subprocess.run(blast_cmd, shell=True)
 
     # Parse results
@@ -40,9 +40,10 @@ if __name__ == "__main__":
     parser.add_argument("--df_path", required=True, help="Path to transport reaction DataFrame TSV")
     parser.add_argument("--evalue", type=float, default=1e-5, help="E-value threshold")
     parser.add_argument("--identity", type=float, default=30.0, help="Identity threshold")
+    parser.add_argument("--num_threads", type=int, default=8, help="Number of CPU threads for BLAST")
 
     args = parser.parse_args()
 
     # Run BLAST and extract reactions
-    filtered_hits = run_blast(args.user_fasta, args.reference_db, args.evalue, args.identity)
+    filtered_hits = run_blast(args.user_fasta, args.reference_db, args.evalue, args.identity, args.num_threads)
     extract_reactions(filtered_hits, args.df_path)
