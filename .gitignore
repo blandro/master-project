@@ -2,3 +2,5 @@ ChEBI_complete_3star.sdf
 chebi.owl
 UniProt/Raw_queries/*
 UniProt/Modified_queries/*
+1+2/misc_pipeline_testing/identified_proteins.tsv
+Pipelines/Pipeline 1+2/outp/identified_proteins.tsv
