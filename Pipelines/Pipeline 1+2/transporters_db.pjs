@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "transporters_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "transporters.fasta",
+  "number-of-letters": 10640135,
+  "number-of-sequences": 24162,
+  "last-updated": "2025-03-28T12:00:00",
+  "number-of-volumes": 1,
+  "bytes-total": 14235345,
+  "bytes-to-cache": 10857702,
+  "files": [
+    "transporters_db.pdb",
+    "transporters_db.phr",
+    "transporters_db.pin",
+    "transporters_db.pot",
+    "transporters_db.psq",
+    "transporters_db.ptf",
+    "transporters_db.pto"
+  ]
+}
