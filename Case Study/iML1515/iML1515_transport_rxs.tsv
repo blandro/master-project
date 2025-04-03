@@ -1,119 +1,5 @@
 Reaction ID	Name	Subsystem	Reaction (IDs)	Reaction (Names)	Genes
-EX_pi_e	Phosphate exchange	Extracellular exchange	1.0 pi_e → 	1.0 Phosphate → 	Unknown
-EX_co2_e	CO2 exchange	Extracellular exchange	1.0 co2_e → 	1.0 CO2 CO2 → 	Unknown
-EX_met__L_e	L-Methionine exchange	Extracellular exchange	1.0 met__L_e → 	1.0 L-Methionine → 	Unknown
-EX_metsox_S__L_e	L-Methionine S-oxide exchange	Extracellular exchange	1.0 metsox_S__L_e → 	1.0 L-Methionine Sulfoxide → 	Unknown
-EX_acgam_e	N-Acetyl-D-glucosamine exchange	Extracellular exchange	1.0 acgam_e → 	1.0 N-Acetyl-D-glucosamine → 	Unknown
-EX_cellb_e	Cellobiose exchange	Extracellular exchange	1.0 cellb_e → 	1.0 Cellobiose → 	Unknown
-EX_crn_e	L-Carnitine exchange	Extracellular exchange	1.0 crn_e → 	1.0 L-Carnitine → 	Unknown
-EX_hxan_e	Hypoxanthine exchange	Extracellular exchange	1.0 hxan_e → 	1.0 Hypoxanthine → 	Unknown
-EX_ile__L_e	L-Isoleucine exchange	Extracellular exchange	1.0 ile__L_e → 	1.0 L-Isoleucine → 	Unknown
-EX_chol_e	Choline exchange	Extracellular exchange	1.0 chol_e → 	1.0 Choline C5H14NO → 	Unknown
-EX_fe3_e	Fe3+ exchange	Extracellular exchange	1.0 fe3_e → 	1.0 Iron (Fe3+) → 	Unknown
-EX_lac__L_e	L-Lactate exchange	Extracellular exchange	1.0 lac__L_e → 	1.0 L-Lactate → 	Unknown
-EX_leu__L_e	L-Leucine exchange	Extracellular exchange	1.0 leu__L_e → 	1.0 L-Leucine → 	Unknown
-EX_glcn_e	D-Gluconate exchange	Extracellular exchange	1.0 glcn_e → 	1.0 D-Gluconate → 	Unknown
-EX_no3_e	Nitrate exchange	Extracellular exchange	1.0 no3_e → 	1.0 Nitrate → 	Unknown
-EX_h_e	H+ exchange	Extracellular exchange	1.0 h_e → 	1.0 H+ → 	Unknown
-EX_orn_e	Ornithine exchange	Extracellular exchange	1.0 orn_e → 	1.0 Ornithine → 	Unknown
-EX_gln__L_e	L-Glutamine exchange	Extracellular exchange	1.0 gln__L_e → 	1.0 L-Glutamine → 	Unknown
-EX_pro__L_e	L-Proline exchange	Extracellular exchange	1.0 pro__L_e → 	1.0 L-Proline → 	Unknown
-EX_glyc_e	Glycerol exchange	Extracellular exchange	1.0 glyc_e → 	1.0 Glycerol → 	Unknown
-EX_man_e	D-Mannose exchange	Extracellular exchange	1.0 man_e → 	1.0 D-Mannose → 	Unknown
-EX_ade_e	Adenine exchange	Extracellular exchange	1.0 ade_e → 	1.0 Adenine → 	Unknown
-EX_mn2_e	Mn2+ exchange	Extracellular exchange	1.0 mn2_e → 	1.0 Manganese → 	Unknown
-EX_4abut_e	4-Aminobutanoate exchange	Extracellular exchange	1.0 4abut_e → 	1.0 4-Aminobutanoate → 	Unknown
-EX_ac_e	Acetate exchange	Extracellular exchange	1.0 ac_e → 	1.0 Acetate → 	Unknown
-EX_akg_e	2-Oxoglutarate exchange	Extracellular exchange	1.0 akg_e → 	1.0 2-Oxoglutarate → 	Unknown
-EX_ala__L_e	L-Alanine exchange	Extracellular exchange	1.0 ala__L_e → 	1.0 L-Alanine → 	Unknown
-EX_arg__L_e	L-Arginine exchange	Extracellular exchange	1.0 arg__L_e → 	1.0 L-Arginine → 	Unknown
-EX_asp__L_e	L-Aspartate exchange	Extracellular exchange	1.0 asp__L_e → 	1.0 L-Aspartate → 	Unknown
-EX_pyr_e	Pyruvate exchange	Extracellular exchange	1.0 pyr_e → 	1.0 Pyruvate → 	Unknown
-EX_succ_e	Succinate exchange	Extracellular exchange	1.0 succ_e → 	1.0 Succinate → 	Unknown
-EX_thymd_e	Thymidine exchange	Extracellular exchange	1.0 thymd_e → 	1.0 Thymidine C10H14N2O5 → 	Unknown
-EX_rib__D_e	D-Ribose exchange	Extracellular exchange	1.0 rib__D_e → 	1.0 D-Ribose → 	Unknown
-EX_tyr__L_e	L-Tyrosine exchange	Extracellular exchange	1.0 tyr__L_e → 	1.0 L-Tyrosine → 	Unknown
-EX_cytd_e	Cytidine exchange	Extracellular exchange	1.0 cytd_e → 	1.0 Cytidine → 	Unknown
-EX_dcyt_e	Deoxycytidine exchange	Extracellular exchange	1.0 dcyt_e → 	1.0 Deoxycytidine → 	Unknown
-EX_fum_e	Fumarate exchange	Extracellular exchange	1.0 fum_e → 	1.0 Fumarate → 	Unknown
-EX_sbt__D_e	D-Sorbitol exchange	Extracellular exchange	1.0 sbt__D_e → 	1.0 D-Sorbitol → 	Unknown
-EX_glu__L_e	L-Glutamate exchange	Extracellular exchange	1.0 glu__L_e → 	1.0 L-Glutamate → 	Unknown
-EX_gua_e	Guanine exchange	Extracellular exchange	1.0 gua_e → 	1.0 Guanine → 	Unknown
-EX_btn_e	Biotin exchange	Extracellular exchange	1.0 btn_e → 	1.0 Biotin → 	Unknown
-EX_ptrc_e	Putrescine exchange	Extracellular exchange	1.0 ptrc_e → 	1.0 Putrescine → 	Unknown
-EX_spmd_e	Spermidine exchange	Extracellular exchange	1.0 spmd_e → 	1.0 Spermidine → 	Unknown
-EX_thym_e	Thymine exchange	Extracellular exchange	1.0 thym_e → 	1.0 Thymine C5H6N2O2 → 	Unknown
-EX_xtsn_e	Xanthosine exchange	Extracellular exchange	1.0 xtsn_e → 	1.0 Xanthosine → 	Unknown
-EX_fe2_e	Fe2+ exchange	Extracellular exchange	1.0 fe2_e → 	1.0 Fe2+ mitochondria → 	Unknown
-EX_glc__D_e	D-Glucose exchange	Extracellular exchange	1.0 glc__D_e → 	1.0 D-Glucose → 	Unknown
-EX_alltn_e	Allantoin exchange	Extracellular exchange	1.0 alltn_e → 	1.0 Allantoin → 	Unknown
-EX_ura_e	Uracil exchange	Extracellular exchange	1.0 ura_e → 	1.0 Uracil → 	Unknown
-EX_val__L_e	L-Valine exchange	Extracellular exchange	1.0 val__L_e → 	1.0 L-Valine → 	Unknown
-EX_xan_e	Xanthine exchange	Extracellular exchange	1.0 xan_e → 	1.0 Xanthine → 	Unknown
-EX_dgsn_e	Deoxyguanosine exchange	Extracellular exchange	1.0 dgsn_e → 	1.0 Deoxyguanosine → 	Unknown
-EX_arab__L_e	L-Arabinose exchange	Extracellular exchange	1.0 arab__L_e → 	1.0 L-Arabinose → 	Unknown
-EX_fru_e	D-Fructose exchange	Extracellular exchange	1.0 fru_e → 	1.0 D-Fructose → 	Unknown
-EX_gal_e	D-Galactose exchange	Extracellular exchange	1.0 gal_e → 	1.0 D-Galactose → 	Unknown
-EX_xyl__D_e	D-Xylose exchange	Extracellular exchange	1.0 xyl__D_e → 	1.0 D-Xylose → 	Unknown
-EX_duri_e	Deoxyuridine exchange	Extracellular exchange	1.0 duri_e → 	1.0 Deoxyuridine → 	Unknown
-EX_for_e	Formate exchange	Extracellular exchange	1.0 for_e → 	1.0 Formate → 	Unknown
-EX_gly_e	Glycine exchange	Extracellular exchange	1.0 gly_e → 	1.0 Glycine → 	Unknown
-EX_h2_e	H2 exchange	Extracellular exchange	1.0 h2_e → 	1.0 Hydrogen → 	Unknown
-EX_lys__L_e	L-Lysine exchange	Extracellular exchange	1.0 lys__L_e → 	1.0 L-Lysine → 	Unknown
-EX_ser__L_e	L-Serine exchange	Extracellular exchange	1.0 ser__L_e → 	1.0 L-Serine → 	Unknown
-EX_thm_e	Thiamin exchange	Extracellular exchange	1.0 thm_e → 	1.0 Thiamin → 	Unknown
-EX_trp__L_e	L-Tryptophan exchange	Extracellular exchange	1.0 trp__L_e → 	1.0 L-Tryptophan → 	Unknown
-EX_din_e	Deoxyinosine exchange	Extracellular exchange	1.0 din_e → 	1.0 Deoxyinosine → 	Unknown
-EX_fmn_e	FMN exchange	Extracellular exchange	1.0 fmn_e → 	1.0 FMN C17H19N4O9P → 	Unknown
-EX_gthox_e	Oxidized glutathione exchange	Extracellular exchange	1.0 gthox_e → 	1.0 Oxidized glutathione → 	Unknown
-EX_tmao_e	Trimethylamine N-oxide exchange	Extracellular exchange	1.0 tmao_e → 	1.0 Trimethylamine N-oxide → 	Unknown
-EX_acald_e	Acetaldehyde exchange	Extracellular exchange	1.0 acald_e → 	1.0 Acetaldehyde → 	Unknown
-EX_melib_e	Melibiose exchange	Extracellular exchange	1.0 melib_e → 	1.0 Melibiose C12H22O11 → 	Unknown
-EX_sucr_e	Sucrose exchange	Extracellular exchange	1.0 sucr_e → 	1.0 Sucrose C12H22O11 → 	Unknown
-EX_tre_e	Trehalose exchange	Extracellular exchange	1.0 tre_e → 	1.0 Trehalose → 	Unknown
-EX_zn2_e	Zinc exchange	Extracellular exchange	1.0 zn2_e → 	1.0 Zinc → 	Unknown
-EX_hdcea_e	Hexadecenoate (n-C16:1) exchange	Extracellular exchange	1.0 hdcea_e → 	1.0 Hexadecenoate (n-C16:1) → 	Unknown
-EX_lac__D_e	D-lactate exchange	Extracellular exchange	1.0 lac__D_e → 	1.0 D-Lactate → 	Unknown
-EX_ttdcea_e	Tetradecenoate (n-C14:1) exchange	Extracellular exchange	1.0 ttdcea_e → 	1.0 Tetradecenoate (n-C14:1) → 	Unknown
-EX_h2s_e	Hydrogen sulfide exchange	Extracellular exchange	1.0 h2s_e → 	1.0 Hydrogen sulfide → 	Unknown
-EX_gthrd_e	Reduced glutathione exchange	Extracellular exchange	1.0 gthrd_e → 	1.0 Reduced glutathione → 	Unknown
-EX_26dap__M_e	Meso-2,6-Diaminoheptanedioate exchange	Extracellular exchange	1.0 26dap__M_e → 	1.0 Meso-2,6-Diaminoheptanedioate → 	Unknown
-EX_acnam_e	N-Acetylneuraminate exchange	Extracellular exchange	1.0 acnam_e → 	1.0 N-Acetylneuraminate → 	Unknown
-EX_amp_e	AMP exchange	Extracellular exchange	1.0 amp_e → 	1.0 AMP C10H12N5O7P → 	Unknown
-EX_dha_e	Dihydroxyacetone exchange	Extracellular exchange	1.0 dha_e → 	1.0 Dihydroxyacetone → 	Unknown
-EX_fuc__L_e	L-Fucose exchange	Extracellular exchange	1.0 fuc__L_e → 	1.0 L-Fucose → 	Unknown
-EX_met__D_e	D-Methionine exchange	Extracellular exchange	1.0 met__D_e → 	1.0 D-Methionine → 	Unknown
-EX_tartr__L_e	L-tartrate exchange	Extracellular exchange	1.0 tartr__L_e → 	1.0 L-tartrate → 	Unknown
-EX_taur_e	Taurine exchange	Extracellular exchange	1.0 taur_e → 	1.0 Taurine C2H7NO3S → 	Unknown
-EX_maltpt_e	Maltopentaose exchange	Extracellular exchange	1.0 maltpt_e → 	1.0 Maltopentaose → 	Unknown
-EX_glyald_e	D-Glyceraldehyde exchange	Extracellular exchange	1.0 glyald_e → 	1.0 D-Glyceraldehyde → 	Unknown
-EX_glcur_e	D-Glucuronate exchange	Extracellular exchange	1.0 glcur_e → 	1.0 D-Glucuronate → 	Unknown
-EX_nmn_e	NMN exchange	Extracellular exchange	1.0 nmn_e → 	1.0 NMN C11H14N2O8P → 	Unknown
-EX_urea_e	Urea exchange	Extracellular exchange	1.0 urea_e → 	1.0 Urea CH4N2O → 	Unknown
-EX_f6p_e	D-fructose 6-phosphate exchange	Extracellular exchange	1.0 f6p_e → 	1.0 D-Fructose 6-phosphate → 	Unknown
-EX_rmn_e	L-Rhamnose exchange	Extracellular exchange	1.0 rmn_e → 	1.0 L-Rhamnose → 	Unknown
-EX_ttdca_e	Tetradecanoate (n-C14:0) exchange	Extracellular exchange	1.0 ttdca_e → 	1.0 Tetradecanoate (n-C14:0) → 	Unknown
-EX_glyclt_e	Glycolate exchange	Extracellular exchange	1.0 glyclt_e → 	1.0 Glycolate C2H3O3 → 	Unknown
 H2SO	Hydrogen sulfide oxidation	Inorganic Ion Transport and Metabolism	1.0 h2s_c + 2.0 o2_c → 2.0 h_c + 1.0 so4_c	1.0 Hydrogen sulfide + 2.0 O2 O2 → 2.0 H+ + 1.0 Sulfate	Unknown
-EX_g6p_e	D-Glucose 6-phosphate exchange	Extracellular exchange	1.0 g6p_e → 	1.0 D-Glucose 6-phosphate → 	Unknown
-EX_2ddglcn_e	2-Dehydro-3-deoxy-D-gluconate exchange	Extracellular exchange	1.0 2ddglcn_e → 	1.0 2-Dehydro-3-deoxy-D-gluconate → 	Unknown
-EX_mmet_e	S-Methyl-L-methionine exchange	Extracellular exchange	1.0 mmet_e → 	1.0 S-Methyl-L-methionine → 	Unknown
-EX_galct__D_e	D-Galactarate exchange	Extracellular exchange	1.0 galct__D_e → 	1.0 D-Galactarate → 	Unknown
-EX_idon__L_e	L-Idonate exchange	Extracellular exchange	1.0 idon__L_e → 	1.0 L-Idonate → 	Unknown
-EX_indole_e	Indole exchange	Extracellular exchange	1.0 indole_e → 	1.0 Indole → 	Unknown
-EX_3hcinnm_e	3-hydroxycinnamic acid exchange	Extracellular exchange	1.0 3hcinnm_e → 	1.0 3-hydroxycinnamic acid → 	Unknown
-EX_acac_e	Acetoacetate exchange	Extracellular exchange	1.0 acac_e → 	1.0 Acetoacetate → 	Unknown
-EX_acmana_e	N-Acetyl-D-mannosamine exchange	Extracellular exchange	1.0 acmana_e → 	1.0 N-Acetyl-D-mannosamine → 	Unknown
-EX_galur_e	D-Galacturonate exchange	Extracellular exchange	1.0 galur_e → 	1.0 D-Galacturonate → 	Unknown
-EX_adn_e	Adenosine exchange	Extracellular exchange	1.0 adn_e → 	1.0 Adenosine → 	Unknown
-EX_ins_e	Inosine exchange	Extracellular exchange	1.0 ins_e → 	1.0 Inosine → 	Unknown
-EX_mg2_e	Mg exchange	Extracellular exchange	1.0 mg2_e → 	1.0 Magnesium → 	Unknown
-EX_glyc3p_e	Glycerol 3-phosphate exchange	Extracellular exchange	1.0 glyc3p_e → 	1.0 Glycerol 3-phosphate → 	Unknown
-EX_but_e	Butyrate (n-C4:0) exchange	Extracellular exchange	1.0 but_e → 	1.0 Butyrate (n-C4:0) → 	Unknown
-EX_lcts_e	Lactose exchange	Extracellular exchange	1.0 lcts_e → 	1.0 Lactose C12H22O11 → 	Unknown
-EX_ocdca_e	Octadecanoate (n-C18:0) exchange	Extracellular exchange	1.0 ocdca_e → 	1.0 Octadecanoate (n-C18:0) → 	Unknown
-EX_cbl1_e	Cob(I)alamin exchange	Extracellular exchange	1.0 cbl1_e → 	1.0 Cob(I)alamin → 	Unknown
-EX_nac_e	Nicotinate exchange	Extracellular exchange	1.0 nac_e → 	1.0 Nicotinate → 	Unknown
 26DAHtex	Meso-2,6-Diaminoheptanedioate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 26dap__M_e → 1.0 26dap__M_p	1.0 Meso-2,6-Diaminoheptanedioate → 1.0 Meso-2,6-Diaminoheptanedioate	phoE, ompF, ompN, ompC
 HCINNMtex	3-hydroxycinnamic acid transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 3hcinnm_e → 1.0 3hcinnm_p	1.0 3-hydroxycinnamic acid → 1.0 3-hydroxycinnamic acid	phoE, ompF, ompN, ompC
 HPPPNtex	3-(3-hydroxyphenyl)propionate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 3hpppn_e → 1.0 3hpppn_p	1.0 3-(3-hydroxy-phenyl)propionate → 1.0 3-(3-hydroxy-phenyl)propionate	ompF, ompN, ompC, phoE
@@ -127,26 +13,15 @@ SUCptspp	Sucrose transport via PEP:Pyr  (periplasm)	Transport, Inner Membrane	1.
 SULabcpp	Sulfate transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 h2o_c + 1.0 so4_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 so4_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Sulfate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Sulfate	cysW, cysU, cysA, cysP, modB, modC, modA, cysA, cysW, cysU, sbp
 TSULabcpp	Thiosulfate transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 h2o_c + 1.0 tsul_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 tsul_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Thiosulfate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Thiosulfate	cysW, cysA, cysU, sbp, cysA, cysP, cysU, cysW
 TARTRt7pp	Tartrate/succinate antiporter (periplasm)	Transport, Inner Membrane	1.0 succ_c + 1.0 tartr__L_p → 1.0 succ_p + 1.0 tartr__L_c	1.0 Succinate + 1.0 L-tartrate → 1.0 Succinate + 1.0 L-tartrate	ttdT
-EX_dad_2_e	Deoxyadenosine exchange	Extracellular exchange	1.0 dad_2_e → 	1.0 Deoxyadenosine → 	Unknown
-EX_ser__D_e	D-Serine exchange	Extracellular exchange	1.0 ser__D_e → 	1.0 D-Serine → 	Unknown
-EX_gam6p_e	D-Glucosamine 6-phosphate exchange	Extracellular exchange	1.0 gam6p_e → 	1.0 D-Glucosamine 6-phosphate → 	Unknown
-EX_15dap_e	1,5-Diaminopentane exchange	Extracellular exchange	1.0 15dap_e → 	1.0 1,5-Diaminopentane → 	Unknown
-EX_ocdcea_e	Octadecenoate (n-C18:1) exchange	Extracellular exchange	1.0 ocdcea_e → 	1.0 Octadecenoate (n-C18:1) → 	Unknown
-EX_cynt_e	Cyanate exchange	Extracellular exchange	1.0 cynt_e → 	1.0 Cyanate → 	Unknown
-EX_galctn__D_e	D-Galactonate exchange	Extracellular exchange	1.0 galctn__D_e → 	1.0 D-Galactonate → 	Unknown
-EX_glyb_e	Glycine betaine exchange	Extracellular exchange	1.0 glyb_e → 	1.0 Glycine betaine → 	Unknown
 TAURabcpp	Taurine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 taur_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 taur_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Taurine C2H7NO3S → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Taurine C2H7NO3S	tauA, tauC, tauB
 THMDt2pp_copy1	Thymidine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 thymd_p → 1.0 h_c + 1.0 thymd_c	1.0 H+ + 1.0 Thymidine C10H14N2O5 → 1.0 H+ + 1.0 Thymidine C10H14N2O5	nupG, nupC
 NMNt7pp	NMN transport via NMN glycohydrolase (periplasm)	Transport, Inner Membrane	1.0 h2o_c + 1.0 nmn_p → 1.0 h_c + 1.0 ncam_c + 1.0 r5p_c	1.0 H2O H2O + 1.0 NMN C11H14N2O8P → 1.0 H+ + 1.0 Nicotinamide + 1.0 Alpha-D-Ribose 5-phosphate	Unknown
-EX_ca2_e	Calcium exchange	Extracellular exchange	1.0 ca2_e → 	1.0 Calcium → 	Unknown
-EX_so3_e	Sulfite exchange	Extracellular exchange	1.0 so3_e → 	1.0 Sulfite → 	Unknown
 GLUtex	L-glutamate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glu__L_e → 1.0 glu__L_p	1.0 L-Glutamate → 1.0 L-Glutamate	phoE, ompF, ompN, ompC
 Kt2pp	Potassium transport in via proton symport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 h_p + 1.0 k_p → 1.0 h_c + 1.0 k_c	1.0 H+ + 1.0 Potassium → 1.0 H+ + 1.0 Potassium	trkH, sapD, trkA, kch, sapD, trkG, trkA, kup
 GLYtex	Glycine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gly_e → 1.0 gly_p	1.0 Glycine → 1.0 Glycine	phoE, ompF, ompN, ompC
 GLYALDtex	Glyceraldehyde transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glyald_e → 1.0 glyald_p	1.0 D-Glyceraldehyde → 1.0 D-Glyceraldehyde	phoE, ompF, ompN, ompC
 AKGt2rpp	2-oxoglutarate reversible transport via symport (periplasm)	Transport, Inner Membrane	1.0 akg_p + 1.0 h_p → 1.0 akg_c + 1.0 h_c	1.0 2-Oxoglutarate + 1.0 H+ → 1.0 2-Oxoglutarate + 1.0 H+	kgtP
 XYLt2pp	D-xylose transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 xyl__D_p → 1.0 h_c + 1.0 xyl__D_c	1.0 H+ + 1.0 D-Xylose → 1.0 H+ + 1.0 D-Xylose	xylE
-EX_ascb__L_e	L-Ascorbate exchange	Extracellular exchange	1.0 ascb__L_e → 	1.0 L-Ascorbate → 	Unknown
 GLYBtex	Glycine betaine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glyb_e → 1.0 glyb_p	1.0 Glycine betaine → 1.0 Glycine betaine	phoE, ompF, ompN, ompC
 GLYCtex	Glycerol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glyc_e → 1.0 glyc_p	1.0 Glycerol → 1.0 Glycerol	phoE, ompF, ompN, ompC
 GLYC3Ptex	Glycerol-3-phosphate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glyc3p_e → 1.0 glyc3p_p	1.0 Glycerol 3-phosphate → 1.0 Glycerol 3-phosphate	phoE, ompF, ompN, ompC
@@ -154,24 +29,10 @@ GLYCLTtex	Glycolate transport via diffusion (extracellular to periplasm)	Transpo
 GTPtex	GTP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gtp_e → 1.0 gtp_p	1.0 GTP C10H12N5O14P3 → 1.0 GTP C10H12N5O14P3	ompN, ompC, phoE, ompF
 GUAtex	Guanine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 gua_e → 1.0 gua_p	1.0 Guanine → 1.0 Guanine	tsx
 Htex	Proton transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 h_e → 1.0 h_p	1.0 H+ → 1.0 H+	phoE, ompF, ompN, ompC
-EX_ala_B_e	Beta-Alanine exchange	Extracellular exchange	1.0 ala_B_e → 	1.0 Beta-Alanine → 	Unknown
-EX_agm_e	Agmatine exchange	Extracellular exchange	1.0 agm_e → 	1.0 Agmatine → 	Unknown
-EX_minohp_e	Myo-Inositol hexakisphosphate exchange	Extracellular exchange	1.0 minohp_e → 	1.0 Myo-Inositol hexakisphosphate → 	Unknown
-EX_ppt_e	Phosphonate exchange	Extracellular exchange	1.0 ppt_e → 	1.0 Phosphonate → 	Unknown
-EX_hxa_e	Hexanoate (n-C6:0) exchange	Extracellular exchange	1.0 hxa_e → 	1.0 Hexanoate (n-C6:0) → 	Unknown
 H2tex	Hydrogen transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 h2_e → 1.0 h2_p	1.0 Hydrogen → 1.0 Hydrogen	phoE, ompF, ompN, ompC
 H2Otex	H2O transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 h2o_e → 1.0 h2o_p	1.0 H2O H2O → 1.0 H2O H2O	ompL, , ompG, ompA, ompC, phoE, ompN, ompF
-EX_lyx__L_e	L-Lyxose exchange	Extracellular exchange	1.0 lyx__L_e → 	1.0 L-Lyxose → 	Unknown
-EX_acmum_e	N-Acetylmuramate exchange	Extracellular exchange	1.0 acmum_e → 	1.0 N-Acetylmuramate → 	Unknown
-EX_dca_e	Decanoate (n-C10:0) exchange	Extracellular exchange	1.0 dca_e → 	1.0 Decanoate (n-C10:0) → 	Unknown
-EX_all__D_e	D-Allose exchange	Extracellular exchange	1.0 all__D_e → 	1.0 D-Allose → 	Unknown
 O2tpp	O2 transport via diffusion (periplasm)	Inorganic Ion Transport and Metabolism	1.0 o2_p → 1.0 o2_c	1.0 O2 O2 → 1.0 O2 O2	
-EX_octa_e	Octanoate (n-C8:0) exchange	Extracellular exchange	1.0 octa_e → 	1.0 Octanoate (n-C8:0) → 	Unknown
-EX_gbbtn_e	Gamma-butyrobetaine exchange	Extracellular exchange	1.0 gbbtn_e → 	1.0 Gamma-butyrobetaine → 	Unknown
 PYRt2rpp	Pyruvate reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 pyr_p → 1.0 h_c + 1.0 pyr_c	1.0 H+ + 1.0 Pyruvate → 1.0 H+ + 1.0 Pyruvate	Unknown
-EX_xylu__L_e	L-Xylulose exchange	Extracellular exchange	1.0 xylu__L_e → 	1.0 L-Xylulose → 	Unknown
-EX_gdp_e	GDP exchange	Extracellular exchange	1.0 gdp_e → 	1.0 GDP C10H12N5O11P2 → 	Unknown
-EX_gtp_e	GTP exchange	Extracellular exchange	1.0 gtp_e → 	1.0 GTP C10H12N5O14P3 → 	Unknown
 THMabcpp	Thiamine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 thm_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 thm_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Thiamin → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Thiamin	thiQ, thiB, thiP
 THMDt2pp_copy2	Thymidine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 thymd_p → 1.0 h_c + 1.0 thymd_c	1.0 H+ + 1.0 Thymidine C10H14N2O5 → 1.0 H+ + 1.0 Thymidine C10H14N2O5	xapB
 THRabcpp	L-threonine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 thr__L_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 thr__L_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 L-Threonine → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 L-Threonine	livM, livG, livJ, livH, livF
@@ -180,7 +41,6 @@ XANtpp	Xanthine reversible transport (periplasm)	Transport, Inner Membrane	1.0 x
 DAPtex	1,5-Diaminopentane transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 15dap_e → 1.0 15dap_p	1.0 1,5-Diaminopentane → 1.0 1,5-Diaminopentane	phoE, ompF, ompN, ompC
 TRPt2rpp	L-tryptophan reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 trp__L_p → 1.0 h_c + 1.0 trp__L_c	1.0 H+ + 1.0 L-Tryptophan → 1.0 H+ + 1.0 L-Tryptophan	mtr, tnaB, aroP
 TYRt2rpp	L-tyrosine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 tyr__L_p → 1.0 h_c + 1.0 tyr__L_c	1.0 H+ + 1.0 L-Tyrosine → 1.0 H+ + 1.0 L-Tyrosine	tyrP, aroP
-EX_tma_e	Trimethylamine exchange	Extracellular exchange	1.0 tma_e → 	1.0 Trimethylamine → 	Unknown
 URIt2pp_copy1	Uridine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 uri_p → 1.0 h_c + 1.0 uri_c	1.0 H+ + 1.0 Uridine → 1.0 H+ + 1.0 Uridine	nupG, nupC
 URIt2pp_copy2	Uridine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 uri_p → 1.0 h_c + 1.0 uri_c	1.0 H+ + 1.0 Uridine → 1.0 H+ + 1.0 Uridine	xapB
 VALabcpp	L-valine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 val__L_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 val__L_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 L-Valine → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 L-Valine	livH, livM, livJ, livG, livF
@@ -193,10 +53,8 @@ THRt4pp	L-threonine  via sodium symport (periplasm)	Transport, Inner Membrane	1.
 GALURtex	D-galacturonate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 galur_e → 1.0 galur_p	1.0 D-Galacturonate → 1.0 D-Galacturonate	phoE, ompF, ompN, ompC
 FDMO	FMNH2-dependent monooxygenase	Inorganic Ion Transport and Metabolism	1.0 fmnh2_c + 1.0 isetac_c + 1.0 o2_c → 1.0 fmn_c + 1.0 gcald_c + 1.0 h2o_c + 1.0 h_c + 1.0 so3_c	1.0 Reduced FMN + 1.0 Isethionic acid + 1.0 O2 O2 → 1.0 FMN C17H19N4O9P + 1.0 Glycolaldehyde + 1.0 H2O H2O + 1.0 H+ + 1.0 Sulfite	ssuD
 FEOXAMabcpp	Ferroxamine transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 feoxam_p + 1.0 h2o_c → 1.0 adp_c + 1.0 feoxam_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Generic ferrioxamine-Fe-III + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Generic ferrioxamine-Fe-III + 1.0 H+ + 1.0 Phosphate	fhuD, fhuB, fhuC
-EX_fruur_e	D-Fructuronate exchange	Extracellular exchange	1.0 fruur_e → 	1.0 D-Fructuronate → 	Unknown
 GALtex	D-galactose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gal_e → 1.0 gal_p	1.0 D-Galactose → 1.0 D-Galactose	phoE, ompF, ompN, ompC
 CBL1abcpp	Cob(1)alamin transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 cbl1_p + 1.0 h2o_c → 1.0 adp_c + 1.0 cbl1_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Cob(I)alamin + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Cob(I)alamin + 1.0 H+ + 1.0 Phosphate	btuD, btuF, btuC
-EX_malttr_e	Maltotriose exchange	Extracellular exchange	1.0 malttr_e → 	1.0 Maltotriose C18H32O16 → 	Unknown
 ACACt2pp	Acetoacetate transport via proton symport  (periplasm)	Transport, Inner Membrane	1.0 acac_p + 1.0 h_p → 1.0 acac_c + 1.0 h_c	1.0 Acetoacetate + 1.0 H+ → 1.0 Acetoacetate + 1.0 H+	atoE
 ACGAptspp	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS  (periplasm)	Transport, Inner Membrane	1.0 acgam_p + 1.0 pep_c → 1.0 acgam6p_c + 1.0 pyr_c	1.0 N-Acetyl-D-glucosamine + 1.0 Phosphoenolpyruvate → 1.0 N-Acetyl-D-glucosamine 6-phosphate + 1.0 Pyruvate	ptsI, crr, ptsH, ptsG, ptsH, ptsI, nagE
 ACMANAptspp	N-acetyl-D-mannosamine transport via PTS  (periplasm)	Transport, Inner Membrane	1.0 acmana_p + 1.0 pep_c → 1.0 acmanap_c + 1.0 pyr_c	1.0 N-Acetyl-D-mannosamine + 1.0 Phosphoenolpyruvate → 1.0 N-Acetyl-D-mannosamine 6-phosphate + 1.0 Pyruvate	ptsH, manY, ptsI, manX, manZ
@@ -204,12 +62,7 @@ ACNAMt2pp	N-acetylneuraminate proton symport (periplasm)	Transport, Inner Membra
 GALCTtex	D-galactarte transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 galct__D_e → 1.0 galct__D_p	1.0 D-Galactarate → 1.0 D-Galactarate	phoE, ompF, ompN, ompC
 GALCTNtex	D-galactonate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 galctn__D_e → 1.0 galctn__D_p	1.0 D-Galactonate → 1.0 D-Galactonate	phoE, ompF, ompN, ompC
 GALTtex	Galactitol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 galt_e → 1.0 galt_p	1.0 Galactitol → 1.0 Galactitol	phoE, ompF, ompN, ompC
-EX_cbi_e	Cobinamide exchange	Extracellular exchange	1.0 cbi_e → 	1.0 Cobinamide → 	Unknown
-EX_arbtn_fe3_e	Aerobactin exchange	Extracellular exchange	1.0 arbtn_fe3_e → 	1.0 Aerobactin → 	Unknown
-EX_cpgn_e	Coprogen exchange	Extracellular exchange	1.0 cpgn_e → 	1.0 Coprogen → 	Unknown
-EX_ch4_e	EX ch4 LPAREN e RPAREN 	Extracellular exchange	1.0 ch4_e → 	1.0 Methane → 	Unknown
 FEENTERabcpp	Fe-enterobactin transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 feenter_p + 1.0 h2o_c → 1.0 adp_c + 1.0 feenter_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Fe-enterobactin + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Fe-enterobactin + 1.0 H+ + 1.0 Phosphate	fepG, fepB, fepD, fepC
-EX_adocbl_e	Adenosylcobalamin exchange	Extracellular exchange	1.0 adocbl_e → 	1.0 Adenosylcobalamin → 	Unknown
 FECRMabcpp	Ferrichrome transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 fecrm_p + 1.0 h2o_c → 1.0 adp_c + 1.0 fecrm_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Ferrichrome + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Ferrichrome + 1.0 H+ + 1.0 Phosphate	fhuB, fhuD, fhuC
 GAMtex	D-glucosamine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gam_e → 1.0 gam_p	1.0 D-Glucosamine → 1.0 D-Glucosamine	phoE, ompF, ompN, ompC
 GBBTNtex	Gamma-butyrobetaine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gbbtn_e → 1.0 gbbtn_p	1.0 Gamma-butyrobetaine → 1.0 Gamma-butyrobetaine	phoE, ompF, ompN, ompC
@@ -253,7 +106,6 @@ GLCNtex	D-gluconate transport via diffusion (extracellular to periplasm)	Transpo
 GLCURtex	D-glucuronat transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glcur_e → 1.0 glcur_p	1.0 D-Glucuronate → 1.0 D-Glucuronate	phoE, ompF, ompN, ompC
 GLNtex	L-glutamine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gln__L_e → 1.0 gln__L_p	1.0 L-Glutamine → 1.0 L-Glutamine	ompF, ompN, ompC, phoE
 O2tex	Oxygen transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 o2_e → 1.0 o2_p	1.0 O2 O2 → 1.0 O2 O2	phoE, ompF, ompN, ompC
-EX_ppa_e	Propionate exchange	Extracellular exchange	1.0 ppa_e → 	1.0 Propionate (n-C3:0) → 	Unknown
 OCTAtex	Octanoate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 octa_e → 1.0 octa_p	1.0 Octanoate (n-C8:0) → 1.0 Octanoate (n-C8:0)	phoE, ompF, ompN, ompC
 D_LACtex	D-lactate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 lac__D_e → 1.0 lac__D_p	1.0 D-Lactate → 1.0 D-Lactate	phoE, ompF, ompN, ompC
 ORNtex	Ornithine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 orn_e → 1.0 orn_p	1.0 Ornithine → 1.0 Ornithine	phoE, ompF, ompN, ompC
@@ -261,9 +113,7 @@ FRULYStex	Fructoselysine transporter via diffusion (extracellular)	Transport, Ou
 MALTtexi	MaltoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 malt_e → 1.0 malt_p	1.0 Maltose C12H22O11 → 1.0 Maltose C12H22O11	lamB
 CITt7pp	Citrate transport via succinate antiport (periplasm)	Transport, Inner Membrane	1.0 cit_p + 1.0 succ_c → 1.0 cit_c + 1.0 succ_p	1.0 Citrate + 1.0 Succinate → 1.0 Citrate + 1.0 Succinate	citT
 CRNt7pp	Carnitine/butyrobetaine antiporter (periplasm)	Transport, Inner Membrane	1.0 crn_p + 1.0 gbbtn_c → 1.0 crn_c + 1.0 gbbtn_p	1.0 L-Carnitine + 1.0 Gamma-butyrobetaine → 1.0 L-Carnitine + 1.0 Gamma-butyrobetaine	caiT
-EX_ni2_e	Ni2+ exchange	Extracellular exchange	1.0 ni2_e → 	1.0 Nickel → 	Unknown
 GLCtex_copy1	Glucose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 glc__D_e → 1.0 glc__D_p	1.0 D-Glucose → 1.0 D-Glucose	lamB
-EX_no_e	Nitric oxide exchange	Extracellular exchange	1.0 no_e → 	1.0 Nitric oxide → 	Unknown
 CHLabcpp	Choline transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 chol_p + 1.0 h2o_c → 1.0 adp_c + 1.0 chol_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Choline C5H14NO + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Choline C5H14NO + 1.0 H+ + 1.0 Phosphate	yehX, yehW, osmF, yehY
 DGSNt2pp	Deoxyguanosine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 dgsn_p + 1.0 h_p → 1.0 dgsn_c + 1.0 h_c	1.0 Deoxyguanosine + 1.0 H+ → 1.0 Deoxyguanosine + 1.0 H+	nupG
 FE3DCITtonex	Ferric-dicitrate transport via ton system (extracellular)	Transport, Outer Membrane	1.0 fe3dcit_e + 1.0 h_p → 1.0 fe3dcit_p + 1.0 h_c	1.0 Fe(III)dicitrate + 1.0 H+ → 1.0 Fe(III)dicitrate + 1.0 H+	tonB, exbD, exbB, fecA
@@ -272,7 +122,6 @@ DURIt2pp	Deoxyuridine transport in via proton symport (periplasm)	Transport, Inn
 FE2abcpp	Iron (II) transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 fe2_p + 1.0 h2o_c → 1.0 adp_c + 1.0 fe2_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Fe2+ mitochondria + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Fe2+ mitochondria + 1.0 H+ + 1.0 Phosphate	feoB
 FRUptspp	D-fructose transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 fru_p + 1.0 pep_c → 1.0 f1p_c + 1.0 pyr_c	1.0 D-Fructose + 1.0 Phosphoenolpyruvate → 1.0 D-Fructose 1-phosphate + 1.0 Pyruvate	ptsH, fruA, fruB, ptsI
 FUCtpp	L-fucose transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 fuc__L_p + 1.0 h_p → 1.0 fuc__L_c + 1.0 h_c	1.0 L-Fucose + 1.0 H+ → 1.0 L-Fucose + 1.0 H+	fucP
-EX_fad_e	Exchange of Flavin adenine dinucleotide oxidized	Extracellular exchange	1.0 fad_e → 	1.0 Flavin adenine dinucleotide oxidized → 	Unknown
 GALCTt2rpp	D-galactarte transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 galct__D_p + 1.0 h_p → 1.0 galct__D_c + 1.0 h_c	1.0 D-Galactarate + 1.0 H+ → 1.0 D-Galactarate + 1.0 H+	gudP, garP
 GALt2pp	D-galactose transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 gal_p + 1.0 h_p → 1.0 gal_c + 1.0 h_c	1.0 D-Galactose + 1.0 H+ → 1.0 D-Galactose + 1.0 H+	galP
 ASPtex	L-aspartate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 asp__L_e → 1.0 asp__L_p	1.0 L-Aspartate → 1.0 L-Aspartate	phoE, ompF, ompN, ompC
@@ -294,24 +143,12 @@ ACALDtpp	Acetaldehyde reversible transport (periplasm)	Transport, Inner Membrane
 ACt2rpp	Acetate reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 ac_p + 1.0 h_p → 1.0 ac_c + 1.0 h_c	1.0 Acetate + 1.0 H+ → 1.0 Acetate + 1.0 H+	satP
 DDGLCNt2rpp	2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 2ddglcn_p + 1.0 h_p → 1.0 2ddglcn_c + 1.0 h_c	1.0 2-Dehydro-3-deoxy-D-gluconate + 1.0 H+ → 1.0 2-Dehydro-3-deoxy-D-gluconate + 1.0 H+	kdgT
 RMNtex	L-rhamnose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 rmn_e → 1.0 rmn_p	1.0 L-Rhamnose → 1.0 L-Rhamnose	phoE, ompC, ompF, ompN
-EX_meoh_e	Methanol exchange	Extracellular exchange	1.0 meoh_e → 	1.0 Methanol → 	Unknown
-EX_fe3dcit_e	Fe(III)dicitrate exchange	Extracellular exchange	1.0 fe3dcit_e → 	1.0 Fe(III)dicitrate → 	Unknown
-EX_fe3hox_e	Fe(III)hydroxamate exchange	Extracellular exchange	1.0 fe3hox_e → 	1.0 Fe(III)hydroxamate → 	Unknown
-EX_fecrm_e	Ferrichrome exchange	Extracellular exchange	1.0 fecrm_e → 	1.0 Ferrichrome → 	Unknown
-EX_feenter_e	Fe-enterobactin exchange	Extracellular exchange	1.0 feenter_e → 	1.0 Fe-enterobactin → 	Unknown
-EX_feoxam_e	Ferroxamine exchange	Extracellular exchange	1.0 feoxam_e → 	1.0 Generic ferrioxamine-Fe-III → 	Unknown
 MALTTRtexi	Maltotriose transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 malttr_e → 1.0 malttr_p	1.0 Maltotriose C18H32O16 → 1.0 Maltotriose C18H32O16	lamB
 MALTTTRtexi	MaltotetraoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 maltttr_e → 1.0 maltttr_p	1.0 Maltotetraose → 1.0 Maltotetraose	lamB
 MALTPTtexi	MaltopentaoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 maltpt_e → 1.0 maltpt_p	1.0 Maltopentaose → 1.0 Maltopentaose	lamB
-EX_3amp_e	3'-AMP exchange	Extracellular exchange	1.0 3amp_e → 	1.0 3  AMP C10H12N5O7P → 	Unknown
-EX_3gmp_e	3'-GMP exchange	Extracellular exchange	1.0 3gmp_e → 	1.0 Guanosine 3  phosphate C10H12N5O8P → 	Unknown
-EX_3ump_e	3'-UMP exchange	Extracellular exchange	1.0 3ump_e → 	1.0 3  UMP C9H11N2O9P → 	Unknown
-EX_cu2_e	Cu2+ exchange	Extracellular exchange	1.0 cu2_e → 	1.0 Copper → 	Unknown
 LCTStex	Lactose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 lcts_e → 1.0 lcts_p	1.0 Lactose C12H22O11 → 1.0 Lactose C12H22O11	phoE, ompF, ompN, ompC
 LEUtex	L-leucine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 leu__L_e → 1.0 leu__L_p	1.0 L-Leucine → 1.0 L-Leucine	phoE, ompF, ompN, ompC
 LYStex	L-lysine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 lys__L_e → 1.0 lys__L_p	1.0 L-Lysine → 1.0 L-Lysine	phoE, ompF, ompN, ompC
-EX_glyc__R_e	(R)-Glycerate exchange	Extracellular exchange	1.0 glyc__R_e → 	1.0 (R)-Glycerate → 	Unknown
-EX_eca4colipa_e	(enterobacterial common antigen)x4 core oligosaccharide lipid A exchange	Extracellular exchange	1.0 eca4colipa_e → 	1.0 (enterobacterial common antigen)x4 core oligosaccharide lipid A → 	Unknown
 FDMO3	FMNH2-dependent monooxygenase (ethanesulfonate)	Inorganic Ion Transport and Metabolism	1.0 ethso3_c + 1.0 fmnh2_c + 1.0 o2_c → 1.0 acald_c + 1.0 fmn_c + 1.0 h2o_c + 1.0 h_c + 1.0 so3_c	1.0 Ethanesulfonate + 1.0 Reduced FMN + 1.0 O2 O2 → 1.0 Acetaldehyde + 1.0 FMN C17H19N4O9P + 1.0 H2O H2O + 1.0 H+ + 1.0 Sulfite	ssuD
 LYXtex	L-Lyxose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 lyx__L_e → 1.0 lyx__L_p	1.0 L-Lyxose → 1.0 L-Lyxose	phoE, ompF, ompN, ompC
 MANtex	D-mannose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 man_e → 1.0 man_p	1.0 D-Mannose → 1.0 D-Mannose	phoE, ompF, ompN, ompC
@@ -323,11 +160,8 @@ ETHSO3abcpp	Ethanesulfonate transport via ABC system (periplasm)	Transport, Inne
 MELIBtex	Melibiose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 melib_e → 1.0 melib_p	1.0 Melibiose C12H22O11 → 1.0 Melibiose C12H22O11	phoE, ompF, ompN, ompC
 DMSOtex	Dimethyl sulfoxide transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dmso_e → 1.0 dmso_p	1.0 Dimethyl sulfoxide → 1.0 Dimethyl sulfoxide	phoE, ompF, ompN, ompC
 DURItex	Deoxyuridine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 duri_e → 1.0 duri_p	1.0 Deoxyuridine → 1.0 Deoxyuridine	tsx
-EX_mal__D_e	D-Malate exchange	Extracellular exchange	1.0 mal__D_e → 	1.0 D-Malate → 	Unknown
 FRUtex	D-fructose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 fru_e → 1.0 fru_p	1.0 D-Fructose → 1.0 D-Fructose	phoE, ompF, ompN, ompC
 FUCtex	L-fucose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 fuc__L_e → 1.0 fuc__L_p	1.0 L-Fucose → 1.0 L-Fucose	phoE, ompF, ompN, ompC
-EX_sel_e	Selenate exchange	Extracellular exchange	1.0 sel_e → 	1.0 Selenate → 	Unknown
-EX_hg2_e	Hg2+ exchange	Extracellular exchange	1.0 hg2_e → 	1.0 Mercury  charged 2  Hg → 	Unknown
 FUMtex	Fumarate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 fum_e → 1.0 fum_p	1.0 Fumarate → 1.0 Fumarate	phoE, ompF, ompN, ompC
 FE2tex	Iron (II) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 fe2_e → 1.0 fe2_p	1.0 Fe2+ mitochondria → 1.0 Fe2+ mitochondria	ompN, ompC, phoE, ompF
 NMNtex	NMN transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 nmn_e → 1.0 nmn_p	1.0 NMN C11H14N2O8P → 1.0 NMN C11H14N2O8P	phoE, ompF, ompN, ompC
@@ -345,10 +179,8 @@ CADVtpp	Lysine/Cadaverine antiporter (periplasm)	Transport, Inner Membrane	1.0 1
 3AMPtex	3AMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 3amp_e → 1.0 3amp_p	1.0 3  AMP C10H12N5O7P → 1.0 3  AMP C10H12N5O7P	phoE, ompF, ompN, ompC
 3CMPtex	3CMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 3cmp_e → 1.0 3cmp_p	1.0 3  CMP C9H12N3O8P → 1.0 3  CMP C9H12N3O8P	phoE, ompF, ompN, ompC
 GDPtex	GDP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gdp_e → 1.0 gdp_p	1.0 GDP C10H12N5O11P2 → 1.0 GDP C10H12N5O11P2	ompF, ompN, ompC, phoE
-EX_cobalt2_e	Co2+ exchange	Extracellular exchange	1.0 cobalt2_e → 	1.0 Co2+ → 	Unknown
 FEENTERtpp	Enterochelin transport (secretion)	Transport, Inner Membrane	1.0 enter_c + 1.0 h_p → 1.0 enter_p + 1.0 h_c	1.0 Enterochelin + 1.0 H+ → 1.0 Enterochelin + 1.0 H+	entS
 TMAtex	Trimethylamine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tma_e → 1.0 tma_p	1.0 Trimethylamine → 1.0 Trimethylamine	phoE, ompF, ompN, ompC
-EX_pheme_e	Protoheme exchange	Extracellular exchange	1.0 pheme_e → 	1.0 Protoheme C34H30FeN4O4 → 	Unknown
 TMAOtex	Trimethylamine N-oxide transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tmao_e → 1.0 tmao_p	1.0 Trimethylamine N-oxide → 1.0 Trimethylamine N-oxide	phoE, ompF, ompN, ompC
 TREtex	Trehalose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tre_e → 1.0 tre_p	1.0 Trehalose → 1.0 Trehalose	phoE, ompF, ompN, ompC
 FEENTERtex	Enterochelin transport (secretion periplasm)	Inorganic Ion Transport and Metabolism	1.0 enter_p + 1.0 h_p → 1.0 enter_e + 1.0 h_c	1.0 Enterochelin + 1.0 H+ → 1.0 Enterochelin + 1.0 H+	tolC
@@ -381,10 +213,6 @@ METSOX1abcpp	L-methionine S-oxide transport via ABC system (periplasm)	Transport
 PPTtex	Phosphonate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ppt_e → 1.0 ppt_p	1.0 Phosphonate → 1.0 Phosphonate	phoE, ompF, ompN, ompC
 GALBDtex	Beta D-galactose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gal_bD_e → 1.0 gal_bD_p	1.0 Beta D-Galactose → 1.0 Beta D-Galactose	ompC, phoE, ompF, ompN
 PTRCtex	Putrescine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ptrc_e → 1.0 ptrc_p	1.0 Putrescine → 1.0 Putrescine	phoE, ompF, ompN, ompC
-EX_mso3_e	Methanesulfonate exchange	Extracellular exchange	1.0 mso3_e → 	1.0 Methanesulfonate → 	Unknown
-EX_23camp_e	2',3'-Cyclic AMP exchange	Extracellular exchange	1.0 23camp_e → 	1.0 2',3'-Cyclic AMP → 	Unknown
-EX_23cgmp_e	2',3'-Cyclic GMP exchange	Extracellular exchange	1.0 23cgmp_e → 	1.0 2',3'-Cyclic GMP → 	Unknown
-EX_23cump_e	2',3'-Cyclic UMP exchange	Extracellular exchange	1.0 23cump_e → 	1.0 2',3'-Cyclic UMP → 	Unknown
 FE3HOXR3	Fe(III)hydroxamate reductase	Inorganic Ion Transport and Metabolism	2.0 fe3hox_c + 1.0 rbflvrd_c → 2.0 fe2_c + 2.0 fe3hox_un_c + 2.0 h_c + 1.0 ribflv_c	2.0 Fe(III)hydroxamate + 1.0 Reduced riboflavin → 2.0 Fe2+ mitochondria + 2.0 Fe(III)hydoxamate, unloaded + 2.0 H+ + 1.0 Riboflavin C17H20N4O6	Unknown
 FEENTERR1	Fe-enterobactin reduction (Fe(III)-unloading)	Inorganic Ion Transport and Metabolism	1.0 fadh2_c + 2.0 feenter_c → 2.0 enter_c + 1.0 fad_c + 2.0 fe2_c + 2.0 h_c	1.0 Flavin adenine dinucleotide reduced + 2.0 Fe-enterobactin → 2.0 Enterochelin + 1.0 Flavin adenine dinucleotide oxidized + 2.0 Fe2+ mitochondria + 2.0 H+	Unknown
 PYRtex	Pyruvate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 pyr_e → 1.0 pyr_p	1.0 Pyruvate → 1.0 Pyruvate	phoE, ompF, ompN, ompC
@@ -392,9 +220,6 @@ CU1abcpp	Copper (Cu +1) ABC transporter (periplasm)	Inorganic Ion Transport and 
 HG2abcpp	Mercury (Hg+2) ABC transporter (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 h2o_c + 1.0 hg2_c → 1.0 adp_c + 1.0 h_c + 1.0 hg2_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Mercury  charged 2  Hg → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Mercury  charged 2  Hg + 1.0 Phosphate	zntA
 FEENTERR3	Fe-enterobactin reduction (Fe(III)-unloading)	Inorganic Ion Transport and Metabolism	2.0 feenter_c + 1.0 rbflvrd_c → 2.0 enter_c + 2.0 fe2_c + 2.0 h_c + 1.0 ribflv_c	2.0 Fe-enterobactin + 1.0 Reduced riboflavin → 2.0 Enterochelin + 2.0 Fe2+ mitochondria + 2.0 H+ + 1.0 Riboflavin C17H20N4O6	Unknown
 SULFACtex	Sulfoaceate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 sulfac_e → 1.0 sulfac_p	1.0 Sulfoacetate → 1.0 Sulfoacetate	ompN, ompC, phoE, ompF
-EX_sulfac_e	Sulfoacetate exchange	Extracellular exchange	1.0 sulfac_e → 	1.0 Sulfoacetate → 	Unknown
-EX_butso3_e	Butanesulfonate exchange	Extracellular exchange	1.0 butso3_e → 	1.0 Butanesulfonate → 	Unknown
-EX_ethso3_e	Ethanesulfonate exchange	Extracellular exchange	1.0 ethso3_e → 	1.0 Ethanesulfonate → 	Unknown
 DSERtex	D-serine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ser__D_e → 1.0 ser__D_p	1.0 D-Serine → 1.0 D-Serine	phoE, ompF, ompN, ompC
 SERtex	L-serine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ser__L_e → 1.0 ser__L_p	1.0 L-Serine → 1.0 L-Serine	phoE, ompF, ompN, ompC
 NOtex	Nitric oxide transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 no_e → 1.0 no_p	1.0 Nitric oxide → 1.0 Nitric oxide	phoE, ompF, ompN, ompC
@@ -436,12 +261,10 @@ FECRMR1	Ferrichrome reductase	Inorganic Ion Transport and Metabolism	1.0 fadh2_c
 FECRMR2	Ferrichrome reductase	Inorganic Ion Transport and Metabolism	2.0 fecrm_c + 1.0 fmnh2_c → 2.0 fe2_c + 2.0 fecrm_un_c + 1.0 fmn_c + 2.0 h_c	2.0 Ferrichrome + 1.0 Reduced FMN → 2.0 Fe2+ mitochondria + 2.0 Ferrichrome minus Fe(III) + 1.0 FMN C17H19N4O9P + 2.0 H+	Unknown
 3GMPtex	3GMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 3gmp_e → 1.0 3gmp_p	1.0 Guanosine 3  phosphate C10H12N5O8P → 1.0 Guanosine 3  phosphate C10H12N5O8P	phoE, ompF, ompN, ompC
 FALDtpp	Formaldehyde transport via diffusion (periplasm)	Transport, Inner Membrane	1.0 fald_p → 1.0 fald_c	1.0 Formaldehyde → 1.0 Formaldehyde	
-EX_tym_e	Tyramine exchange	Extracellular exchange	1.0 tym_e → 	1.0 Tyramine → 	Unknown
 SO4tex	Sulfate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 so4_e → 1.0 so4_p	1.0 Sulfate → 1.0 Sulfate	phoE, ompF, ompN, ompC
 FECRMexs	Ferrichrome Fe(III)-loading reaction (spontaneous)	Inorganic Ion Transport and Metabolism	1.0 fe3_e + 1.0 fecrm_un_e → 1.0 fecrm_e	1.0 Iron (Fe3+) + 1.0 Ferrichrome minus Fe(III) → 1.0 Ferrichrome	
 ARBTNR1	Aerobactin reductase	Inorganic Ion Transport and Metabolism	2.0 arbtn_fe3_c + 1.0 fadh2_c → 2.0 arbtn_c + 1.0 fad_c + 2.0 fe2_c + 2.0 h_c	2.0 Aerobactin + 1.0 Flavin adenine dinucleotide reduced → 2.0 Aerobactin minus Fe3 + 1.0 Flavin adenine dinucleotide oxidized + 2.0 Fe2+ mitochondria + 2.0 H+	Unknown
 ARBTNR2	Aerobactin reductase	Inorganic Ion Transport and Metabolism	2.0 arbtn_fe3_c + 1.0 fmnh2_c → 2.0 arbtn_c + 2.0 fe2_c + 1.0 fmn_c + 2.0 h_c	2.0 Aerobactin + 1.0 Reduced FMN → 2.0 Aerobactin minus Fe3 + 2.0 Fe2+ mitochondria + 1.0 FMN C17H19N4O9P + 2.0 H+	Unknown
-EX_imp_e	IMP exchange	Extracellular exchange	1.0 imp_e → 	1.0 IMP C10H11N4O8P → 	Unknown
 DOPAtex	Dopamine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dopa_e → 1.0 dopa_p	1.0 Dopamine → 1.0 Dopamine	phoE, ompF, ompN, ompC
 4HOXPACDtex	4-hydroxyphenylacetaldehyde transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 4hoxpacd_e → 1.0 4hoxpacd_p	1.0 4-Hydroxyphenylacetaldehyde → 1.0 4-Hydroxyphenylacetaldehyde	phoE, ompF, ompN, ompC
 ARBTNR3	Aerobactin reductase	Inorganic Ion Transport and Metabolism	2.0 arbtn_fe3_c + 1.0 rbflvrd_c → 2.0 arbtn_c + 2.0 fe2_c + 2.0 h_c + 1.0 ribflv_c	2.0 Aerobactin + 1.0 Reduced riboflavin → 2.0 Aerobactin minus Fe3 + 2.0 Fe2+ mitochondria + 2.0 H+ + 1.0 Riboflavin C17H20N4O6	Unknown
@@ -502,8 +325,6 @@ ACGAtex	N-Acetyl-D-glucosamine transport via diffusion (extracellular to peripla
 DDCAtexi	Fatty acid (dodecanoate) transport via facilitated irreversible diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 ddca_e → 1.0 ddca_p	1.0 Dodecanoate (n-C12:0) → 1.0 Dodecanoate (n-C12:0)	fadL
 TTDCAtexi	Tetradecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 ttdca_e → 1.0 ttdca_p	1.0 Tetradecanoate (n-C14:0) → 1.0 Tetradecanoate (n-C14:0)	fadL
 HDCAtexi	Hexadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 hdca_e → 1.0 hdca_p	1.0 Hexadecanoate (n-C16:0) → 1.0 Hexadecanoate (n-C16:0)	fadL
-EX_fe3hox_un_e	Fe(III)hydoxamate, unloaded exchange	Extracellular exchange	1.0 fe3hox_un_e → 	1.0 Fe(III)hydoxamate, unloaded → 	Unknown
-EX_23dappa_e	2,3-diaminopropionate exchange	Extracellular exchange	1.0 23dappa_e → 	1.0 2,3-diaminopropionate → 	Unknown
 RMNtpp	L-rhamnose transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 rmn_p → 1.0 h_c + 1.0 rmn_c	1.0 H+ + 1.0 L-Rhamnose → 1.0 H+ + 1.0 L-Rhamnose	rhaT
 SERt4pp	L-serine via sodium symport (periplasm)	Transport, Inner Membrane	1.0 na1_p + 1.0 ser__L_p → 1.0 na1_c + 1.0 ser__L_c	1.0 Sodium + 1.0 L-Serine → 1.0 Sodium + 1.0 L-Serine	sstT
 METDtex	D-methionine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 met__D_e → 1.0 met__D_p	1.0 D-Methionine → 1.0 D-Methionine	phoE, ompF, ompN, ompC
@@ -513,7 +334,6 @@ NAt3_1p5pp	Sodium proton antiporter (H:NA is 1.5) (periplasm)	Inorganic Ion Tran
 NAt3_2pp	Sodium proton antiporter (H:NA is 2) (periplasm)	Inorganic Ion Transport and Metabolism	2.0 h_p + 1.0 na1_c → 2.0 h_c + 1.0 na1_p	2.0 H+ + 1.0 Sodium → 2.0 H+ + 1.0 Sodium	nhaA
 NH4tpp	Ammonia reversible transport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 nh4_p → 1.0 nh4_c	1.0 Ammonium → 1.0 Ammonium	, amtB
 METtex	L-methionine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 met__L_e → 1.0 met__L_p	1.0 L-Methionine → 1.0 L-Methionine	phoE, ompF, ompN, ompC
-EX_cd2_e	Cadmium exchange	Extracellular exchange	1.0 cd2_e → 	1.0 Cadmium → 	Unknown
 NMNPtpp	NMN permease (periplasm)	Transport, Inner Membrane	1.0 nmn_p → 1.0 nmn_c	1.0 NMN C11H14N2O8P → 1.0 NMN C11H14N2O8P	pnuC
 NO2t2rpp	Nitrite transport in via proton symport, reversible (periplasm)	Inorganic Ion Transport and Metabolism	1.0 h_p + 1.0 no2_p → 1.0 h_c + 1.0 no2_c	1.0 H+ + 1.0 Nitrite → 1.0 H+ + 1.0 Nitrite	narK, nirC
 NO3t7pp	Nitrate transport in via nitrite antiport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 no2_c + 1.0 no3_p → 1.0 no2_p + 1.0 no3_c	1.0 Nitrite + 1.0 Nitrate → 1.0 Nitrite + 1.0 Nitrate	narK, narU
@@ -542,16 +362,8 @@ NI2uabcpp	Nickel transport via ABC system (uptake, periplasm)	Inorganic Ion Tran
 FECRMtonex	Ferrichrome transport via ton system (extracellular)	Transport, Outer Membrane	1.0 fecrm_e + 1.0 h_p → 1.0 fecrm_p + 1.0 h_c	1.0 Ferrichrome + 1.0 H+ → 1.0 Ferrichrome + 1.0 H+	tonB, exbD, exbB, fhuA
 ARBTNtonex	Aerobactin transport via ton system (extracellular)	Transport, Outer Membrane	1.0 arbtn_fe3_e + 1.0 h_p → 1.0 arbtn_fe3_p + 1.0 h_c	1.0 Aerobactin + 1.0 H+ → 1.0 Aerobactin + 1.0 H+	Unknown
 ADOCBLabcpp	Adenosylcobalamin transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 adocbl_p + 1.0 atp_c + 1.0 h2o_c → 1.0 adocbl_c + 1.0 adp_c + 1.0 h_c + 1.0 pi_c	1.0 Adenosylcobalamin + 1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O → 1.0 Adenosylcobalamin + 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate	btuD, btuF, btuC
-EX_enter_e	Enterochelin exchange	Extracellular exchange	1.0 enter_e → 	1.0 Enterochelin → 	Unknown
-EX_fecrm_un_e	Ferrichrome minus Fe(III) exchange	Extracellular exchange	1.0 fecrm_un_e → 	1.0 Ferrichrome minus Fe(III) → 	Unknown
-EX_cgly_e	Cys-Gly exchange	Extracellular exchange	1.0 cgly_e → 	1.0 Cys Gly C5H10N2O3S → 	Unknown
 NI2tex	Nickel transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ni2_e → 1.0 ni2_p	1.0 Nickel → 1.0 Nickel	phoE, ompF, ompN, ompC
-EX_chtbs_e	Chitobiose exchange	Extracellular exchange	1.0 chtbs_e → 	1.0 N,N'-diacetylchitobiose → 	Unknown
-EX_gmp_e	GMP exchange	Extracellular exchange	1.0 gmp_e → 	1.0 GMP C10H12N5O8P → 	Unknown
 NACtex	Nicotinic acid transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 nac_e → 1.0 nac_p	1.0 Nicotinate → 1.0 Nicotinate	phoE, ompF, ompN, ompC
-EX_h2o2_e	Hydrogen peroxide exchange	Extracellular exchange	1.0 h2o2_e → 	1.0 Hydrogen peroxide → 	Unknown
-EX_ump_e	UMP exchange	Extracellular exchange	1.0 ump_e → 	1.0 UMP C9H11N2O9P → 	Unknown
-EX_pydam_e	Pyridoxamine exchange	Extracellular exchange	1.0 pydam_e → 	1.0 Pyridoxamine → 	Unknown
 CRNabcpp	L-carnitine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 crn_p + 1.0 h2o_c → 1.0 adp_c + 1.0 crn_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 L-Carnitine + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 L-Carnitine + 1.0 H+ + 1.0 Phosphate	proX, proV, proW
 CRNDabcpp	D-carnitine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 crn__D_p + 1.0 h2o_c → 1.0 adp_c + 1.0 crn__D_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 D-Carnitine + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 D-Carnitine + 1.0 H+ + 1.0 Phosphate	proX, proV, proW
 CTBTabcpp	Crotonobetaine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 ctbt_p + 1.0 h2o_c → 1.0 adp_c + 1.0 ctbt_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Crotonobetaine + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Crotonobetaine + 1.0 H+ + 1.0 Phosphate	proW, proV, proX
@@ -566,7 +378,6 @@ ALAtex	L-alanine transport via diffusion (extracellular to periplasm)	Transport,
 BALAtex	Beta-alanine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ala_B_e → 1.0 ala_B_p	1.0 Beta-Alanine → 1.0 Beta-Alanine	phoE, ompF, ompN, ompC
 DALAtex	D-Alanine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ala__D_e → 1.0 ala__D_p	1.0 D-Alanine → 1.0 D-Alanine	phoE, ompF, ompN, ompC
 MANGLYCtex	2-O-alpha-mannosyl-D-glycerate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 manglyc_e → 1.0 manglyc_p	1.0 2(alpha-D-Mannosyl)-D-glycerate → 1.0 2(alpha-D-Mannosyl)-D-glycerate	phoE, ompF, ompN, ompC
-EX_frulys_e	Fructoselysine exchange	Extracellular exchange	1.0 frulys_e → 	1.0 Fructoselysine → 	Unknown
 AMPtex	AMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 amp_e → 1.0 amp_p	1.0 AMP C10H12N5O7P → 1.0 AMP C10H12N5O7P	ompC, phoE, ompF, ompN
 FRUURt2rpp	D-fructuronate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 fruur_p + 1.0 h_p → 1.0 fruur_c + 1.0 h_c	1.0 D-Fructuronate + 1.0 H+ → 1.0 D-Fructuronate + 1.0 H+	gntP
 FRUURtex	D-fructuronate transport via diffusion (extracellular)	Transport, Outer Membrane Porin	1.0 fruur_e → 1.0 fruur_p	1.0 D-Fructuronate → 1.0 D-Fructuronate	phoE, ompF, ompN, ompC
@@ -576,9 +387,7 @@ ASCBtex	L-ascorbate transport via diffusion (extracellular to periplasm)	Transpo
 RIBabcpp	D-ribose transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 rib__D_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 rib__D_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 D-Ribose → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 D-Ribose	ytfT, ytfQ, ytfR, yjfF, rbsC, rbsB, rbsA, rbsD, alsB, alsC, alsA
 GLYCAt2rpp	D-glycerate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 glyc__R_p + 1.0 h_p → 1.0 glyc__R_c + 1.0 h_c	1.0 (R)-Glycerate + 1.0 H+ → 1.0 (R)-Glycerate + 1.0 H+	garP, gudP
 GLYCAtex	D-glycerate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glyc__R_e → 1.0 glyc__R_p	1.0 (R)-Glycerate → 1.0 (R)-Glycerate	phoE, ompF, ompN, ompC
-EX_enlipa_e	Phosphoethanolamine KDO(2)-lipid (A) exchange	Extracellular exchange	1.0 enlipa_e → 	1.0 Phosphoethanolamine KDO(2)-lipid (A) → 	Unknown
 BUTtex	Butyrate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 but_e → 1.0 but_p	1.0 Butyrate (n-C4:0) → 1.0 Butyrate (n-C4:0)	phoE, ompF, ompN, ompC
-EX_hacolipa_e	Hepta-acylated core oligosaccharide lipid A (E. coli) exchange	Extracellular exchange	1.0 hacolipa_e → 	1.0 Hepta-acylated core oligosaccharide lipid A (E. coli) → 	Unknown
 FE3HOXtonex	Fe(III)hydroxamine transport via ton system (extracellular)	Transport, Outer Membrane	1.0 fe3hox_e + 1.0 h_p → 1.0 fe3hox_p + 1.0 h_c	1.0 Fe(III)hydroxamate + 1.0 H+ → 1.0 Fe(III)hydroxamate + 1.0 H+	tonB, exbD, exbB, fhuA
 CU2abcpp	Copper (Cu+2) ABC transporter (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 cu2_c + 1.0 h2o_c → 1.0 adp_c + 1.0 cu2_p + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Copper + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Copper + 1.0 H+ + 1.0 Phosphate	zntA
 COBALT2abcpp	Cobalt (Co+2) ABC transporter (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 cobalt2_c + 1.0 h2o_c → 1.0 adp_c + 1.0 cobalt2_p + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Co2+ + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Co2+ + 1.0 H+ + 1.0 Phosphate	zntA
@@ -607,7 +416,6 @@ HISt2rpp	L-histidine reversible transport via proton symport (periplasm)	Transpo
 GLUt4pp	Na+/glutamate symport (periplasm)	Transport, Inner Membrane	1.0 glu__L_p + 1.0 na1_p → 1.0 glu__L_c + 1.0 na1_c	1.0 L-Glutamate + 1.0 Sodium → 1.0 L-Glutamate + 1.0 Sodium	gltS
 GLYALDtpp	Glyceraldehyde facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 glyald_p → 1.0 glyald_c	1.0 D-Glyceraldehyde → 1.0 D-Glyceraldehyde	glpF
 CRNtex	L-carnitine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 crn_e → 1.0 crn_p	1.0 L-Carnitine → 1.0 L-Carnitine	phoE, ompF, ompN, ompC
-EX_etha_e	Ethanolamine exchange	Extracellular exchange	1.0 etha_e → 	1.0 Ethanolamine → 	Unknown
 LYSabcpp	L-lysine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 lys__L_p → 1.0 adp_c + 1.0 h_c + 1.0 lys__L_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 L-Lysine → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 L-Lysine + 1.0 Phosphate	hisQ, hisP, argT, hisM
 COBALT2tex	Cobalt (Co+2) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cobalt2_e → 1.0 cobalt2_p	1.0 Co2+ → 1.0 Co2+	phoE, ompF, ompN, ompC
 LCTSt3ipp	Lactose transport via proton aniport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 lcts_c → 1.0 h_c + 1.0 lcts_p	1.0 H+ + 1.0 Lactose C12H22O11 → 1.0 H+ + 1.0 Lactose C12H22O11	ydeA, setB, setA
@@ -616,8 +424,6 @@ ARBt3ipp	L-arabinose transport via proton antiport (periplasm)	Transport, Inner 
 14GLUCANtexi	1,4-alpha-D-glucan transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 14glucan_e → 1.0 14glucan_p	1.0 1,4-alpha-D-glucan → 1.0 1,4-alpha-D-glucan	lamB
 DINStex	Deoxyinosine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 din_e → 1.0 din_p	1.0 Deoxyinosine → 1.0 Deoxyinosine	phoE, ompF, ompN, ompC
 DIMPtex	DIMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dimp_e → 1.0 dimp_p	1.0 DIMP C10H12N4O7P → 1.0 DIMP C10H12N4O7P	phoE, ompF, ompN, ompC
-EX_hdca_e	Hexadecanoate (n-C16:0) exchange	Extracellular exchange	1.0 hdca_e → 	1.0 Hexadecanoate (n-C16:0) → 	Unknown
-EX_glcr_e	D-Glucarate exchange	Extracellular exchange	1.0 glcr_e → 	1.0 D-Glucarate → 	Unknown
 DMStex	Dimethyl sulfide transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dms_e → 1.0 dms_p	1.0 Dimethyl sulfide → 1.0 Dimethyl sulfide	phoE, ompF, ompN, ompC
 GALTptspp	Galactitol transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 galt_p + 1.0 pep_c → 1.0 galt1p_c + 1.0 pyr_c	1.0 Galactitol + 1.0 Phosphoenolpyruvate → 1.0 Galactitol 1-phosphate + 1.0 Pyruvate	gatC, ptsH, gatA, gatB, ptsI
 GALURt2rpp	D-galacturonate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 galur_p + 1.0 h_p → 1.0 galur_c + 1.0 h_c	1.0 D-Galacturonate + 1.0 H+ → 1.0 D-Galacturonate + 1.0 H+	exuT
@@ -634,88 +440,46 @@ PPPNt2rpp	3-phenylpropionate transport via proton symport, reversible (periplasm
 PTRCORNt7pp	Putrescine/ornithine antiporter (periplasm)	Transport, Inner Membrane	1.0 orn_c + 1.0 ptrc_p → 1.0 orn_p + 1.0 ptrc_c	1.0 Ornithine + 1.0 Putrescine → 1.0 Ornithine + 1.0 Putrescine	potE
 GLCURt2rpp	D-glucuronate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 glcur_p + 1.0 h_p → 1.0 glcur_c + 1.0 h_c	1.0 D-Glucuronate + 1.0 H+ → 1.0 D-Glucuronate + 1.0 H+	kdgT, exuT
 ACMUMptspp	N-acetylmuramate transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 acmum_p + 1.0 pep_c → 1.0 acmum6p_c + 1.0 pyr_c	1.0 N-Acetylmuramate + 1.0 Phosphoenolpyruvate → 1.0 N-acetylmuramate 6-phosphate + 1.0 Pyruvate	crr, ptsI, ptsH, murP
-EX_h2o_e	H2O exchange	Extracellular exchange	1.0 h2o_e → 	1.0 H2O H2O → 	Unknown
-EX_ala__D_e	D-Alanine exchange	Extracellular exchange	1.0 ala__D_e → 	1.0 D-Alanine → 	Unknown
 SPMDabcpp	Spermidine transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 spmd_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 spmd_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Spermidine → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Spermidine	potD, potB, potC, potA, ydcV, ydcU, ydcT, ydcS
 CYNTtex	Cyanate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cynt_e → 1.0 cynt_p	1.0 Cyanate → 1.0 Cyanate	ompC, phoE, ompF, ompN
 HG2tex	Mercury (Hg+2) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 hg2_e → 1.0 hg2_p	1.0 Mercury  charged 2  Hg → 1.0 Mercury  charged 2  Hg	phoE, ompF, ompN, ompC
 XTSNtex	Xanthosine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 xtsn_e → 1.0 xtsn_p	1.0 Xanthosine → 1.0 Xanthosine	phoE, ompF, ompN, ompC
 CYStex	L-cysteine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cys__L_e → 1.0 cys__L_p	1.0 L-Cysteine → 1.0 L-Cysteine	phoE, ompF, ompN, ompC
-EX_mnl_e	D-Mannitol exchange	Extracellular exchange	1.0 mnl_e → 	1.0 D-Mannitol → 	Unknown
-EX_malt_e	Maltose exchange	Extracellular exchange	1.0 malt_e → 	1.0 Maltose C12H22O11 → 	Unknown
 CYTDtex	Cytidine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cytd_e → 1.0 cytd_p	1.0 Cytidine → 1.0 Cytidine	phoE, ompF, ompN, ompC
 DADNtex	Deoxyadenosine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 dad_2_e → 1.0 dad_2_p	1.0 Deoxyadenosine → 1.0 Deoxyadenosine	tsx
 4PEPTtex	LalaDgluMdapDala (pentapeptide) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 LalaDgluMdapDala_e → 1.0 LalaDgluMdapDala_p	1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine → 1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine	phoE, ompF, ompN, ompC
-EX_pnto__R_e	(R)-Pantothenate exchange	Extracellular exchange	1.0 pnto__R_e → 	1.0 (R)-Pantothenate → 	Unknown
 DHAtex	Dihydroxyacetone transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dha_e → 1.0 dha_p	1.0 Dihydroxyacetone → 1.0 Dihydroxyacetone	phoE, ompF, ompN, ompC
 ETOHtex	Ethanol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 etoh_e → 1.0 etoh_p	1.0 Ethanol → 1.0 Ethanol	phoE, ompF, ompN, ompC
 GALabcpp	D-galactose transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 gal_p + 1.0 h2o_c → 1.0 adp_c + 1.0 gal_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 D-Galactose + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 D-Galactose + 1.0 H+ + 1.0 Phosphate	mglC, mglA, mglB, ytfQ, ytfT, ytfR, yjfF
 GLYCLTt2rpp	Glycolate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 glyclt_p + 1.0 h_p → 1.0 glyclt_c + 1.0 h_c	1.0 Glycolate C2H3O3 + 1.0 H+ → 1.0 Glycolate C2H3O3 + 1.0 H+	lldP, glcA
 GUAt2pp	Guanine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 gua_p + 1.0 h_p → 1.0 gua_c + 1.0 h_c	1.0 Guanine + 1.0 H+ → 1.0 Guanine + 1.0 H+	xanP
 HPPPNt2rpp	3-(3-hydroxyphenyl)propionate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 3hpppn_p + 1.0 h_p → 1.0 3hpppn_c + 1.0 h_c	1.0 3-(3-hydroxy-phenyl)propionate + 1.0 H+ → 1.0 3-(3-hydroxy-phenyl)propionate + 1.0 H+	mhpT
-EX_asn__L_e	L-Asparagine exchange	Extracellular exchange	1.0 asn__L_e → 	1.0 L-Asparagine → 	Unknown
 DCAtex	Decanoate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dca_e → 1.0 dca_p	1.0 Decanoate (n-C10:0) → 1.0 Decanoate (n-C10:0)	phoE, ompF, ompN, ompC
-EX_cit_e	Citrate exchange	Extracellular exchange	1.0 cit_e → 	1.0 Citrate → 	Unknown
-EX_mal__L_e	L-Malate exchange	Extracellular exchange	1.0 mal__L_e → 	1.0 L-Malate → 	Unknown
-EX_no2_e	Nitrite exchange	Extracellular exchange	1.0 no2_e → 	1.0 Nitrite → 	Unknown
 DCYTtex	Deoxycytidine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 dcyt_e → 1.0 dcyt_p	1.0 Deoxycytidine → 1.0 Deoxycytidine	tsx
-EX_gam_e	D-Glucosamine exchange	Extracellular exchange	1.0 gam_e → 	1.0 D-Glucosamine → 	Unknown
 ACACtex	Acetoacetate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 acac_e → 1.0 acac_p	1.0 Acetoacetate → 1.0 Acetoacetate	phoE, ompF, ompN, ompC
 ACNAMtex	N-acetylneuraminate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 acnam_e → 1.0 acnam_p	1.0 N-Acetylneuraminate → 1.0 N-Acetylneuraminate	nanC, ompF, ompC
 ARBTNabcpp	Aerobactin transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 arbtn_fe3_p + 1.0 atp_c + 1.0 h2o_c → 1.0 adp_c + 1.0 arbtn_fe3_c + 1.0 h_c + 1.0 pi_c	1.0 Aerobactin + 1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Aerobactin + 1.0 H+ + 1.0 Phosphate	fhuC, fhuB, fhuD
-EX_inost_e	Myo-Inositol exchange	Extracellular exchange	1.0 inost_e → 	1.0 Myo-Inositol → 	Unknown
-EX_mobd_e	Molybdate exchange	Extracellular exchange	1.0 mobd_e → 	1.0 Molybdate → 	Unknown
 DGSNtex	Deoxyguanosine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dgsn_e → 1.0 dgsn_p	1.0 Deoxyguanosine → 1.0 Deoxyguanosine	phoE, ompF, ompN, ompC
 ASO3t8pp	Arsenite efflux via ATP hydrolysis (periplasm)	Transport, Inner Membrane	1.0 aso3_c + 1.0 atp_c + 1.0 h2o_c → 1.0 adp_c + 1.0 aso3_p + 1.0 h_c + 1.0 pi_c	1.0 Arsenite + 1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Arsenite + 1.0 H+ + 1.0 Phosphate	arsB
 H2Stex	H2s transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 h2s_e → 1.0 h2s_p	1.0 Hydrogen sulfide → 1.0 Hydrogen sulfide	ompN, ompC, phoE, ompF
-EX_so4_e	Sulfate exchange	Extracellular exchange	1.0 so4_e → 	1.0 Sulfate → 	Unknown
-EX_phe__L_e	L-Phenylalanine exchange	Extracellular exchange	1.0 phe__L_e → 	1.0 L-Phenylalanine → 	Unknown
-EX_thr__L_e	L-Threonine exchange	Extracellular exchange	1.0 thr__L_e → 	1.0 L-Threonine → 	Unknown
-EX_uri_e	Uridine exchange	Extracellular exchange	1.0 uri_e → 	1.0 Uridine → 	Unknown
 H2St1pp	H2s transport (periplasm)	Transport, Inner Membrane	1.0 h2s_c → 1.0 h2s_p	1.0 Hydrogen sulfide → 1.0 Hydrogen sulfide	
-EX_nh4_e	Ammonia exchange	Extracellular exchange	1.0 nh4_e → 	1.0 Ammonium → 	Unknown
-EX_ddca_e	Dodecanoate (n-C12:0) exchange	Extracellular exchange	1.0 ddca_e → 	1.0 Dodecanoate (n-C12:0) → 	Unknown
 CELBpts	Cellobiose transport via PEPPyr PTS	Transport, Inner Membrane	1.0 cellb_e + 1.0 pep_c → 1.0 6pgg_c + 1.0 pyr_c	1.0 Cellobiose + 1.0 Phosphoenolpyruvate → 1.0 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose + 1.0 Pyruvate	ascF, ptsI, ptsH, ptsI, chbB, chbC, chbA, ptsH
 FORt2pp	Formate transport via proton symport (uptake only, periplasm)	Transport, Inner Membrane	1.0 for_p + 1.0 h_p → 1.0 for_c + 1.0 h_c	1.0 Formate + 1.0 H+ → 1.0 Formate + 1.0 H+	focA, focB
-EX_r5p_e	Alpha-D-Ribose 5-phosphate exchange	Extracellular exchange	1.0 r5p_e → 	1.0 Alpha-D-Ribose 5-phosphate → 	Unknown
-EX_glyc2p_e	Glycerol 2-phosphate exchange	Extracellular exchange	1.0 glyc2p_e → 	1.0 Glycerol 2-phosphate → 	Unknown
-EX_halipa_e	Hepta-acylated KDO(2)-lipid (A) exchange	Extracellular exchange	1.0 halipa_e → 	1.0 Hepta-acylated KDO(2)-lipid (A) → 	Unknown
 MANptspp	D-mannose transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 man_p + 1.0 pep_c → 1.0 man6p_c + 1.0 pyr_c	1.0 D-Mannose + 1.0 Phosphoenolpyruvate → 1.0 D-Mannose 6-phosphate + 1.0 Pyruvate	manZ, manY, manX, ptsI, ptsH
-EX_cmp_e	CMP exchange	Extracellular exchange	1.0 cmp_e → 	1.0 CMP C9H12N3O8P → 	Unknown
-EX_malthx_e	Maltohexaose exchange	Extracellular exchange	1.0 malthx_e → 	1.0 Maltohexaose → 	Unknown
-EX_csn_e	Cytosine exchange	Extracellular exchange	1.0 csn_e → 	1.0 Cytosine → 	Unknown
-EX_etoh_e	Ethanol exchange	Extracellular exchange	1.0 etoh_e → 	1.0 Ethanol → 	Unknown
 TYMtex	Tyramine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tym_e → 1.0 tym_p	1.0 Tyramine → 1.0 Tyramine	phoE, ompF, ompN, ompC
-EX_g3pe_e	Sn-Glycero-3-phosphoethanolamine exchange	Extracellular exchange	1.0 g3pe_e → 	1.0 Sn-Glycero-3-phosphoethanolamine → 	Unknown
-EX_pacald_e	Phenylacetaldehyde exchange	Extracellular exchange	1.0 pacald_e → 	1.0 Phenylacetaldehyde → 	Unknown
-EX_his__L_e	L-Histidine exchange	Extracellular exchange	1.0 his__L_e → 	1.0 L-Histidine → 	Unknown
-EX_k_e	K+ exchange	Extracellular exchange	1.0 k_e → 	1.0 Potassium → 	Unknown
-EX_na1_e	Sodium exchange	Extracellular exchange	1.0 na1_e → 	1.0 Sodium → 	Unknown
 ARGORNt7pp	Arginine/ornithine antiporter (periplasm)	Transport, Inner Membrane	1.0 arg__L_p + 1.0 orn_c → 1.0 arg__L_c + 1.0 orn_p	1.0 L-Arginine + 1.0 Ornithine → 1.0 L-Arginine + 1.0 Ornithine	ydgI
-EX_dmso_e	Dimethyl sulfoxide exchange	Extracellular exchange	1.0 dmso_e → 	1.0 Dimethyl sulfoxide → 	Unknown
 CMPtex	CMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cmp_e → 1.0 cmp_p	1.0 CMP C9H12N3O8P → 1.0 CMP C9H12N3O8P	phoE, ompF, ompN, ompC
 DUMPtex	DUMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dump_e → 1.0 dump_p	1.0 DUMP C9H11N2O8P → 1.0 DUMP C9H11N2O8P	phoE, ompF, ompN, ompC
 XMPtex	XMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 xmp_e → 1.0 xmp_p	1.0 Xanthosine 5'-phosphate → 1.0 Xanthosine 5'-phosphate	phoE, ompF, ompN, ompC
 3PEPTtex	LalaDgluMdap (tripeptide) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 LalaDgluMdap_e → 1.0 LalaDgluMdap_p	1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate → 1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate	phoE, ompF, ompN, ompC
-EX_12ppd__S_e	(S)-Propane-1,2-diol exchange	Extracellular exchange	1.0 12ppd__S_e → 	1.0 (S)-Propane-1,2-diol → 	Unknown
-EX_pppn_e	Phenylpropanoate exchange	Extracellular exchange	1.0 pppn_e → 	1.0 Phenylpropanoate → 	Unknown
 ANHGMtex	GlcNAc-anhMurNAc transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 anhgm_e → 1.0 anhgm_p	1.0 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid → 1.0 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid	phoE, ompF, ompN, ompC
 MALTptspp	Maltose transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 malt_p + 1.0 pep_c → 1.0 malt6p_c + 1.0 pyr_c	1.0 Maltose C12H22O11 + 1.0 Phosphoenolpyruvate → 1.0 Maltose 6'-phosphate + 1.0 Pyruvate	malX, crr, ptsH, ptsI
-EX_acgam1p_e	N-Acetyl-D-glucosamine 1-phosphate exchange	Extracellular exchange	1.0 acgam1p_e → 	1.0 N-Acetyl-D-glucosamine 1-phosphate → 	Unknown
-EX_galt_e	Galactitol exchange	Extracellular exchange	1.0 galt_e → 	1.0 Galactitol → 	Unknown
 FALDtex	Formaldehyde transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 fald_e → 1.0 fald_p	1.0 Formaldehyde → 1.0 Formaldehyde	phoE, ompF, ompN, ompC
 CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cu2_e → 1.0 cu2_p	1.0 Copper → 1.0 Copper	ompN, ompC, phoE, ompF
-EX_glcur1p_e	D-Glucuronate 1-phosphate exchange	Extracellular exchange	1.0 glcur1p_e → 	1.0 D-Glucuronate 1-phosphate → 	Unknown
 FECRMUtex	Ferrichrome (minus Fe) secretion (to extracellular)	Inorganic Ion Transport and Metabolism	1.0 fecrm_un_p + 1.0 h_p → 1.0 fecrm_un_e + 1.0 h_c	1.0 Ferrichrome minus Fe(III) + 1.0 H+ → 1.0 Ferrichrome minus Fe(III) + 1.0 H+	Unknown
-EX_thrp_e	L-Threonine O-3-phosphate exchange	Extracellular exchange	1.0 thrp_e → 	1.0 L-Threonine O-3-phosphate → 	Unknown
 CLtex	Chloride (Cl-1) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cl_e → 1.0 cl_p	1.0 Chloride → 1.0 Chloride	phoE, ompF, ompN, ompC
 CYSDtex	D-cysteine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cys__D_e → 1.0 cys__D_p	1.0 D-Cysteine → 1.0 D-Cysteine	phoE, ompF, ompN, ompC
 CYSDabcpp	D-cysteine uptake via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 cys__D_p + 1.0 h2o_c → 1.0 adp_c + 1.0 cys__D_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 D-Cysteine + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 D-Cysteine + 1.0 H+ + 1.0 Phosphate	Unknown
-EX_fald_e	Formaldehyde exchange	Extracellular exchange	1.0 fald_e → 	1.0 Formaldehyde → 	Unknown
-EX_pydxn_e	Pyridoxine exchange	Extracellular exchange	1.0 pydxn_e → 	1.0 Pyridoxine → 	Unknown
-EX_acgal_e	N-Acetyl-D-galactosamine exchange	Extracellular exchange	1.0 acgal_e → 	1.0 N-Acetyl-D-galactosamine → 	Unknown
-EX_so2_e	Sulfur dioxide exchange	Extracellular exchange	1.0 so2_e → 	1.0 Sulfur dioxide → 	Unknown
-EX_dms_e	Dimethyl sulfide exchange	Extracellular exchange	1.0 dms_e → 	1.0 Dimethyl sulfide → 	Unknown
 GMPtex	GMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gmp_e → 1.0 gmp_p	1.0 GMP C10H12N5O8P → 1.0 GMP C10H12N5O8P	ompC, phoE, ompF, ompN
 IMPtex	IMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 imp_e → 1.0 imp_p	1.0 IMP C10H11N4O8P → 1.0 IMP C10H11N4O8P	phoE, ompF, ompN, ompC
 G3PItex	Glycero-3-phospho-1-inositol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 g3pi_e → 1.0 g3pi_p	1.0 Sn-Glycero-3-phospho-1-inositol → 1.0 Sn-Glycero-3-phospho-1-inositol	phoE, ompF, ompN, ompC
@@ -732,37 +496,13 @@ MNt2pp	Manganese (Mn+2) transport in via proton symport (periplasm)	Transport, I
 GLCabcpp	D-glucose transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 glc__D_p + 1.0 h2o_c → 1.0 adp_c + 1.0 glc__D_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 D-Glucose + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 D-Glucose + 1.0 H+ + 1.0 Phosphate	mglA, mglC, mglB
 MNtex	Manganese (Mn+2) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 mn2_e → 1.0 mn2_p	1.0 Manganese → 1.0 Manganese	phoE, ompF, ompN, ompC
 GAL1Ptex	D-galactose 1-phosphate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gal1p_e → 1.0 gal1p_p	1.0 Alpha-D-Galactose 1-phosphate → 1.0 Alpha-D-Galactose 1-phosphate	phoE, ompF, ompN, ompC
-EX_acgal1p_e	N-Acetyl-D-galactosamine 1-phosphate exchange	Extracellular exchange	1.0 acgal1p_e → 	1.0 N-Acetyl-D-galactosamine 1-phosphate → 	Unknown
-EX_cyan_e	Hydrogen cyanide exchange	Extracellular exchange	1.0 cyan_e → 	1.0 Hydrogen cyanide → 	Unknown
-EX_tyrp_e	Phosphotyrosine exchange	Extracellular exchange	1.0 tyrp_e → 	1.0 Phosphotyrosine → 	Unknown
 O2Stex	Superoxide anion transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 o2s_e → 1.0 o2s_p	1.0 Superoxide anion → 1.0 Superoxide anion	ompN, ompC, phoE, ompF
-EX_uacgam_e	UDP-N-acetyl-D-glucosamine exchange	Extracellular exchange	1.0 uacgam_e → 	1.0 UDP-N-acetyl-D-glucosamine → 	Unknown
 Kt3pp	Potassium transport out via proton antiport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 h_p + 1.0 k_c → 1.0 h_c + 1.0 k_p	1.0 H+ + 1.0 Potassium → 1.0 H+ + 1.0 Potassium	kefB, kefC, chaA, mdfA
-EX_udpacgal_e	UDP-N-acetyl-D-galactosamine exchange	Extracellular exchange	1.0 udpacgal_e → 	1.0 UDP-N-acetyl-D-galactosamine → 	Unknown
-EX_udpg_e	UDPglucose exchange	Extracellular exchange	1.0 udpg_e → 	1.0 UDPglucose → 	Unknown
-EX_udpgal_e	UDPgalactose exchange	Extracellular exchange	1.0 udpgal_e → 	1.0 UDPgalactose → 	Unknown
-EX_udpglcur_e	UDP-D-glucuronate exchange	Extracellular exchange	1.0 udpglcur_e → 	1.0 UDP-D-glucuronate → 	Unknown
-EX_14glucan_e	1,4-alpha-D-glucan exchange	Extracellular exchange	1.0 14glucan_e → 	1.0 1,4-alpha-D-glucan → 	Unknown
-EX_pser__L_e	O-Phospho-L-serine exchange	Extracellular exchange	1.0 pser__L_e → 	1.0 O-Phospho-L-serine → 	Unknown
-EX_xmp_e	Xanthosine 5'-phosphate exchange	Extracellular exchange	1.0 xmp_e → 	1.0 Xanthosine 5'-phosphate → 	Unknown
-EX_damp_e	DAMP exchange	Extracellular exchange	1.0 damp_e → 	1.0 DAMP C10H12N5O6P → 	Unknown
-EX_dimp_e	DIMP exchange	Extracellular exchange	1.0 dimp_e → 	1.0 DIMP C10H12N4O7P → 	Unknown
-EX_isetac_e	Isethionic acid exchange	Extracellular exchange	1.0 isetac_e → 	1.0 Isethionic acid → 	Unknown
 HOMt2pp	L-homoserineserine efflux via proton symport	Transport, Inner Membrane	1.0 h_p + 1.0 hom__L_c → 1.0 h_c + 1.0 hom__L_p	1.0 H+ + 1.0 L-Homoserine → 1.0 H+ + 1.0 L-Homoserine	rhtA, rhtB
-EX_aso3_e	Arsenite exchange	Extracellular exchange	1.0 aso3_e → 	1.0 Arsenite → 	Unknown
-EX_tcynt_e	Thiocyanate exchange	Extracellular exchange	1.0 tcynt_e → 	1.0 Thiocyanate → 	Unknown
-EX_fe3dhbzs_e	Ferric 2,3-dihydroxybenzoylserine exchange	Extracellular exchange	1.0 fe3dhbzs_e → 	1.0 Ferric 2,3-dihydroxybenzoylserine → 	Unknown
-EX_feoxam_un_e	Ferroxamine minus Fe(3) exchange	Extracellular exchange	1.0 feoxam_un_e → 	1.0 Ferroxamine minus Fe(3) → 	Unknown
 HOMtex	L-homoserine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 hom__L_e → 1.0 hom__L_p	1.0 L-Homoserine → 1.0 L-Homoserine	phoE, ompF, ompN, ompC
 SO2tex	SO2 transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 so2_e → 1.0 so2_p	1.0 Sulfur dioxide → 1.0 Sulfur dioxide	phoE, ompF, ompN, ompC
 SO2tpp	SO2 transport via diffusion (periplasm)	Inorganic Ion Transport and Metabolism	1.0 so2_p → 1.0 so2_c	1.0 Sulfur dioxide → 1.0 Sulfur dioxide	
-EX_g3pc_e	Sn-Glycero-3-phosphocholine exchange	Extracellular exchange	1.0 g3pc_e → 	1.0 Sn-Glycero-3-phosphocholine → 	Unknown
-EX_g3pg_e	Glycerophosphoglycerol exchange	Extracellular exchange	1.0 g3pg_e → 	1.0 Glycerophosphoglycerol → 	Unknown
-EX_g3pi_e	Sn-Glycero-3-phospho-1-inositol exchange	Extracellular exchange	1.0 g3pi_e → 	1.0 Sn-Glycero-3-phospho-1-inositol → 	Unknown
 CYStpp	L-cysteine export via facilitated transport	Transport, Inner Membrane	1.0 cys__L_c → 1.0 cys__L_p	1.0 L-Cysteine → 1.0 L-Cysteine	eamB, eamA
-EX_g3ps_e	Glycerophosphoserine exchange	Extracellular exchange	1.0 g3ps_e → 	1.0 Glycerophosphoserine → 	Unknown
-EX_peamn_e	Phenethylamine exchange	Extracellular exchange	1.0 peamn_e → 	1.0 Phenethylamine → 	Unknown
-EX_34dhpac_e	3,4-Dihydroxyphenylacetaldehyde exchange	Extracellular exchange	1.0 34dhpac_e → 	1.0 3,4-Dihydroxyphenylacetaldehyde → 	Unknown
 DAMPtex	DAMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 damp_e → 1.0 damp_p	1.0 DAMP C10H12N5O6P → 1.0 DAMP C10H12N5O6P	phoE, ompF, ompN, ompC
 DCMPtex	DCMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dcmp_e → 1.0 dcmp_p	1.0 DCMP C9H12N3O7P → 1.0 DCMP C9H12N3O7P	phoE, ompF, ompN, ompC
 DGMPtex	DGMP transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 dgmp_e → 1.0 dgmp_p	1.0 DGMP C10H12N5O7P → 1.0 DGMP C10H12N5O7P	phoE, ompF, ompN, ompC
@@ -779,7 +519,6 @@ ALAALAtex	D-alanyl-D-alanine (DalaDala) transport via diffusion (extracellular t
 2AGPG141tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpg141_p → 1.0 2agpg141_c	1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1) → 1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)	lplT
 2AGPG161tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpg161_p → 1.0 2agpg161_c	1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1) → 1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)	lplT
 2AGPG181tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpg181_p → 1.0 2agpg181_c	1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) → 1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)	lplT
-EX_cys__L_e	L-Cysteine exchange	Extracellular exchange	1.0 cys__L_e → 	1.0 L-Cysteine → 	Unknown
 PG161abcpp	Phosphatidylglycerol transport via ABC system (n-C16:1, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pg161_c → 1.0 adp_c + 1.0 h_c + 1.0 pg161_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) + 1.0 Phosphate	msbA
 PGP120abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C12:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pgp120_c → 1.0 adp_c + 1.0 h_c + 1.0 pgp120_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) + 1.0 Phosphate	msbA
 MALtex	Malate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 mal__L_e → 1.0 mal__L_p	1.0 L-Malate → 1.0 L-Malate	phoE, ompF, ompN, ompC
@@ -788,10 +527,8 @@ PGP161abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C16:1, peri
 PGP181abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C18:1, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pgp181_c → 1.0 adp_c + 1.0 h_c + 1.0 pgp181_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) + 1.0 Phosphate	msbA
 PA120abcpp	Phosphatidate transport via ABC system (n-C12:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pa120_c → 1.0 adp_c + 1.0 h_c + 1.0 pa120_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 1,2-didodecanoyl-sn-glycerol 3-phosphate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 1,2-didodecanoyl-sn-glycerol 3-phosphate + 1.0 Phosphate	msbA
 URAt2pp	Uracil transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 ura_p → 1.0 h_c + 1.0 ura_c	1.0 H+ + 1.0 Uracil → 1.0 H+ + 1.0 Uracil	uraA, rutG
-EX_gsn_e	Guanosine exchange	Extracellular exchange	1.0 gsn_e → 	1.0 Guanosine → 	Unknown
 TTDCEAtexi	Tetradecenoate transport via facilitated irreversible diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 ttdcea_e → 1.0 ttdcea_p	1.0 Tetradecenoate (n-C14:1) → 1.0 Tetradecenoate (n-C14:1)	fadL
 HDCEAtexi	Hexadecenoate transport via facilitated irreversible diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 hdcea_e → 1.0 hdcea_p	1.0 Hexadecenoate (n-C16:1) → 1.0 Hexadecenoate (n-C16:1)	fadL
-EX_orot_e	Orotate exchange	Extracellular exchange	1.0 orot_e → 	1.0 Orotate C5H3N2O4 → 	Unknown
 PA160abcpp	Phosphatidate transport via ABC system (n-C16:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pa160_c → 1.0 adp_c + 1.0 h_c + 1.0 pa160_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 1,2-dihexadecanoyl-sn-glycerol 3-phosphate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 1,2-dihexadecanoyl-sn-glycerol 3-phosphate + 1.0 Phosphate	msbA
 ALAALAabcpp	D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 alaala_p + 1.0 atp_c + 1.0 h2o_c → 1.0 adp_c + 1.0 alaala_c + 1.0 h_c + 1.0 pi_c	1.0 D-Alanyl-D-alanine + 1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 D-Alanyl-D-alanine + 1.0 H+ + 1.0 Phosphate	dppA, dppC, dppB, dppF, dppD, ddpA, ddpB, ddpF, ddpC, ddpD
 HEXt2rpp	Hexanoate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 hxa_p → 1.0 h_c + 1.0 hxa_c	1.0 H+ + 1.0 Hexanoate (n-C6:0) → 1.0 H+ + 1.0 Hexanoate (n-C6:0)	atoE
@@ -807,43 +544,28 @@ D_LACt2pp	D-lactate transport via proton symport (periplasm)	Transport, Inner Me
 RIBtex	Ribose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 rib__D_e → 1.0 rib__D_p	1.0 D-Ribose → 1.0 D-Ribose	phoE, ompF, ompN, ompC
 THMtex	Thiamine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 thm_e → 1.0 thm_p	1.0 Thiamin → 1.0 Thiamin	phoE, ompF, ompN, ompC
 XYLUtex	L-xylulose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 xylu__L_e → 1.0 xylu__L_p	1.0 L-Xylulose → 1.0 L-Xylulose	phoE, ompF, ompN, ompC
-EX_manglyc_e	2(alpha-D-Mannosyl)-D-glycerate exchange	Extracellular exchange	1.0 manglyc_e → 	1.0 2(alpha-D-Mannosyl)-D-glycerate → 	Unknown
 ALLtex	Allose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 all__D_e → 1.0 all__D_p	1.0 D-Allose → 1.0 D-Allose	ompF, phoE, ompN, ompC
 PG160abcpp	Phosphatidylglycerol transport via ABC system (n-C16:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pg160_c → 1.0 adp_c + 1.0 h_c + 1.0 pg160_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) + 1.0 Phosphate	msbA
 FRUpts2pp	Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)	Transport, Inner Membrane	1.0 fru_p + 1.0 pep_c → 1.0 f6p_c + 1.0 pyr_c	1.0 D-Fructose + 1.0 Phosphoenolpyruvate → 1.0 D-Fructose 6-phosphate + 1.0 Pyruvate	manY, manX, ptsI, manZ, ptsH
 PGP140abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C14:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pgp140_c → 1.0 adp_c + 1.0 h_c + 1.0 pgp140_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) + 1.0 Phosphate	msbA
-EX_metsox_R__L_e	L-methionine-R-sulfoxide exchange	Extracellular exchange	1.0 metsox_R__L_e → 	1.0 L-methionine-R-sulfoxide → 	Unknown
 34dhpactex	Dihydroxyphenylacetaldehyde transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 34dhpac_e → 1.0 34dhpac_p	1.0 3,4-Dihydroxyphenylacetaldehyde → 1.0 3,4-Dihydroxyphenylacetaldehyde	phoE, ompF, ompN, ompC
 G6Pt6_2pp	Glucose-6-phosphate transport via phosphate antiport (periplasm)	Transport, Inner Membrane	1.0 g6p_p + 2.0 pi_c → 1.0 g6p_c + 2.0 pi_p	1.0 D-Glucose 6-phosphate + 2.0 Phosphate → 1.0 D-Glucose 6-phosphate + 2.0 Phosphate	uhpT
 MALTHXtexi	Maltohexaose transport via diffusion (extracellular to periplasm) irreversible	Transport, Outer Membrane	1.0 malthx_e → 1.0 malthx_p	1.0 Maltohexaose → 1.0 Maltohexaose	lamB
 12PPDStpp	(S)-Propane-1,2-diol facilitated transport (periplasm)	Transport, Inner Membrane	1.0 12ppd__S_p → 1.0 12ppd__S_c	1.0 (S)-Propane-1,2-diol → 1.0 (S)-Propane-1,2-diol	Unknown
 PROtex	L-proline transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 pro__L_e → 1.0 pro__L_p	1.0 L-Proline → 1.0 L-Proline	ompN, ompC, phoE, ompF
 FE3HOXUtex	Fe(III)hydroxamate unloaded secretion	Inorganic Ion Transport and Metabolism	1.0 fe3hox_un_c + 1.0 h_p → 1.0 fe3hox_un_p + 1.0 h_c	1.0 Fe(III)hydoxamate, unloaded + 1.0 H+ → 1.0 Fe(III)hydoxamate, unloaded + 1.0 H+	Unknown
-EX_cl_e	Chloride exchange	Extracellular exchange	1.0 cl_e → 	1.0 Chloride → 	Unknown
 FE3DHBZStonex	Ferric 2,3-dihydroxybenzoylserine transport via ton system (extracellular)	Transport, Outer Membrane	1.0 fe3dhbzs_e + 1.0 h_p → 1.0 fe3dhbzs_p + 1.0 h_c	1.0 Ferric 2,3-dihydroxybenzoylserine + 1.0 H+ → 1.0 Ferric 2,3-dihydroxybenzoylserine + 1.0 H+	tonB, exbD, exbB, fiu, tonB, exbD, exbB, cirA
 H2tpp	Hydrogen transport diffusion (periplasm)	Transport, Inner Membrane	1.0 h2_p → 1.0 h2_c	1.0 Hydrogen → 1.0 Hydrogen	
 23DAPPAtex	2,3-diaminopropionate transport via diffusion	Transport, Outer Membrane Porin	1.0 23dappa_e → 1.0 23dappa_p	1.0 2,3-diaminopropionate → 1.0 2,3-diaminopropionate	phoE, ompF, ompN, ompC
 FEOXAMtonex	Ferroxamine transport via ton system (extracellular)	Transport, Outer Membrane	1.0 feoxam_e + 1.0 h_p → 1.0 feoxam_p + 1.0 h_c	1.0 Generic ferrioxamine-Fe-III + 1.0 H+ → 1.0 Generic ferrioxamine-Fe-III + 1.0 H+	fhuA, tonB, exbD, exbB
-EX_dgmp_e	DGMP exchange	Extracellular exchange	1.0 dgmp_e → 	1.0 DGMP C10H12N5O7P → 	Unknown
 GAMptspp	D-glucosamine transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 gam_p + 1.0 pep_c → 1.0 gam6p_c + 1.0 pyr_c	1.0 D-Glucosamine + 1.0 Phosphoenolpyruvate → 1.0 D-Glucosamine 6-phosphate + 1.0 Pyruvate	ptsH, ptsI, manZ, manX, manY
 GSNt2pp	Guanosine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 gsn_p + 1.0 h_p → 1.0 gsn_c + 1.0 h_c	1.0 Guanosine + 1.0 H+ → 1.0 Guanosine + 1.0 H+	nupG
-EX_4hoxpacd_e	4-Hydroxyphenylacetaldehyde exchange	Extracellular exchange	1.0 4hoxpacd_e → 	1.0 4-Hydroxyphenylacetaldehyde → 	Unknown
-EX_3hpppn_e	3-(3-hydroxy-phenyl)propionate exchange	Extracellular exchange	1.0 3hpppn_e → 	1.0 3-(3-hydroxy-phenyl)propionate → 	Unknown
-EX_man6p_e	D-Mannose 6-phosphate exchange	Extracellular exchange	1.0 man6p_e → 	1.0 D-Mannose 6-phosphate → 	Unknown
 GSNtex	Guanosine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gsn_e → 1.0 gsn_p	1.0 Guanosine → 1.0 Guanosine	phoE, ompF, ompN, ompC
 SBTtex	D-sorbitol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 sbt__D_e → 1.0 sbt__D_p	1.0 D-Sorbitol → 1.0 D-Sorbitol	phoE, ompF, ompN, ompC
 FORtex	Formate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 for_e → 1.0 for_p	1.0 Formate → 1.0 Formate	phoE, ompF, ompN, ompC
-EX_tsul_e	Thiosulfate exchange	Extracellular exchange	1.0 tsul_e → 	1.0 Thiosulfate → 	Unknown
 PHEt2rpp	L-phenylalanine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 phe__L_p → 1.0 h_c + 1.0 phe__L_c	1.0 H+ + 1.0 L-Phenylalanine → 1.0 H+ + 1.0 L-Phenylalanine	pheP, aroP
-EX_n2o_e	Nitrous oxide exchange	Extracellular exchange	1.0 n2o_e → 	1.0 Nitrous oxide → 	Unknown
 HG2t3pp	Mercury (Hg+2) transport out via proton antiport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 h_p + 1.0 hg2_c → 1.0 h_c + 1.0 hg2_p	1.0 H+ + 1.0 Mercury  charged 2  Hg → 1.0 H+ + 1.0 Mercury  charged 2  Hg	fieF
-EX_maltttr_e	Maltotetraose exchange	Extracellular exchange	1.0 maltttr_e → 	1.0 Maltotetraose → 	Unknown
 MELIBt3ipp	Melibiose transport in via antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 melib_c → 1.0 h_c + 1.0 melib_p	1.0 H+ + 1.0 Melibiose C12H22O11 → 1.0 H+ + 1.0 Melibiose C12H22O11	ydeA
-EX_alaala_e	D-Alanyl-D-alanine exchange	Extracellular exchange	1.0 alaala_e → 	1.0 D-Alanyl-D-alanine → 	Unknown
-EX_dtmp_e	DTMP exchange	Extracellular exchange	1.0 dtmp_e → 	1.0 DTMP C10H13N2O8P → 	Unknown
-EX_lipoate_e	Lipoate exchange	Extracellular exchange	1.0 lipoate_e → 	1.0 Lipoate → 	Unknown
-EX_pydx_e	Pyridoxal exchange	Extracellular exchange	1.0 pydx_e → 	1.0 Pyridoxal → 	Unknown
-EX_g1p_e	D-Glucose 1-phosphate exchange	Extracellular exchange	1.0 g1p_e → 	1.0 D-Glucose 1-phosphate → 	Unknown
 GLCtex_copy2	Glucose transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 glc__D_e → 1.0 glc__D_p	1.0 D-Glucose → 1.0 D-Glucose	phoE, ompF, ompN, ompC
 NAt3pp	Sodium transport out via proton antiport (cytoplasm to periplasm)	Inorganic Ion Transport and Metabolism	1.0 h_p + 1.0 na1_c → 1.0 h_c + 1.0 na1_p	1.0 H+ + 1.0 Sodium → 1.0 H+ + 1.0 Sodium	mdfA, chaA
 MINOHPtexi	Myo-inositol phosphate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 minohp_e → 1.0 minohp_p	1.0 Myo-Inositol hexakisphosphate → 1.0 Myo-Inositol hexakisphosphate	Unknown
@@ -862,12 +584,9 @@ CA2tex	Calcium (Ca+2) transport via diffusion (extracellular to periplasm)	Trans
 CUtex	Copper (Cu+1) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cu_e → 1.0 cu_p	1.0 Cu+ → 1.0 Cu+	phoE, ompF, ompN, ompC
 CU1Opp	Cuprous Oxidase (Cu+1)	Inorganic Ion Transport and Metabolism	4.0 cu_p + 4.0 h_p + 1.0 o2_p → 4.0 cu2_p + 2.0 h2o_p	4.0 Cu+ + 4.0 H+ + 1.0 O2 O2 → 4.0 Copper + 2.0 H2O H2O	cueO
 12PPDRtex	(R)-Propane-1,2-diol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 12ppd__R_e → 1.0 12ppd__R_p	1.0 (R)-Propane-1,2-diol → 1.0 (R)-Propane-1,2-diol	phoE, ompF, ompN, ompC
-EX_o2_e	O2 exchange	Extracellular exchange	1.0 o2_e → 	1.0 O2 O2 → 	Unknown
 PROGLYtex	L-Prolinylglycine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 progly_e → 1.0 progly_p	1.0 L-Prolinylglycine → 1.0 L-Prolinylglycine	phoE, ompF, ompN, ompC
-EX_progly_e	L-Prolinylglycine exchange	Extracellular exchange	1.0 progly_e → 	1.0 L-Prolinylglycine → 	Unknown
 F6Ptex	Fructose 6-phosphate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 f6p_e → 1.0 f6p_p	1.0 D-Fructose 6-phosphate → 1.0 D-Fructose 6-phosphate	phoE, ompF, ompN, ompC
 GAMAN6Ptex	D-glucosamine 6-phosphate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gam6p_e → 1.0 gam6p_p	1.0 D-Glucosamine 6-phosphate → 1.0 D-Glucosamine 6-phosphate	phoE, ompF, ompN, ompC
-EX_gal_bD_e	Beta D-Galactose exchange	Extracellular exchange	1.0 gal_bD_e → 	1.0 Beta D-Galactose → 	Unknown
 PE141abcpp	Phosphatidylethanolamine transport via ABC system (n-C14:1, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe141_c → 1.0 adp_c + 1.0 h_c + 1.0 pe141_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1) + 1.0 Phosphate	msbA
 PE160abcpp	Phosphatidylethanolamine transport via ABC system (n-C16:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe160_c → 1.0 adp_c + 1.0 h_c + 1.0 pe160_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (dihexadecanoyl, n-C16:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (dihexadecanoyl, n-C16:0) + 1.0 Phosphate	msbA
 PE161abcpp	Phosphatidylethanolamine transport via ABC system (n-C16:1, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe161_c → 1.0 adp_c + 1.0 h_c + 1.0 pe161_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1) + 1.0 Phosphate	msbA
@@ -881,21 +600,15 @@ PGP141abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C14:1, peri
 PGP160abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C16:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pgp160_c → 1.0 adp_c + 1.0 h_c + 1.0 pgp160_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) + 1.0 Phosphate	msbA
 12DGR180tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:0)	Transport, Inner Membrane	1.0 12dgr180_p → 1.0 12dgr180_c	1.0 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) → 1.0 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)	Unknown
 PGP180abcpp	Phosphatidylglycerophosphate transport via ABC system (n-C18:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pgp180_c → 1.0 adp_c + 1.0 h_c + 1.0 pgp180_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0) + 1.0 Phosphate	msbA
-EX_dump_e	DUMP exchange	Extracellular exchange	1.0 dump_e → 	1.0 DUMP C9H11N2O8P → 	Unknown
 PA140abcpp	Phosphatidate transport via ABC system (n-C14:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pa140_c → 1.0 adp_c + 1.0 h_c + 1.0 pa140_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 1,2-ditetradecanoyl-sn-glycerol 3-phosphate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 1,2-ditetradecanoyl-sn-glycerol 3-phosphate + 1.0 Phosphate	msbA
-EX_12ppd__R_e	(R)-Propane-1,2-diol exchange	Extracellular exchange	1.0 12ppd__R_e → 	1.0 (R)-Propane-1,2-diol → 	Unknown
 12DGR120tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C12:0)	Transport, Inner Membrane	1.0 12dgr120_p → 1.0 12dgr120_c	1.0 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0) → 1.0 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)	Unknown
-EX_o2s_e	Superoxide anion exchange	Extracellular exchange	1.0 o2s_e → 	1.0 Superoxide anion → 	Unknown
 PG120abcpp	Phosphatidylglycerol transport via ABC system (n-C12:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pg120_c → 1.0 adp_c + 1.0 h_c + 1.0 pg120_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylglycerol (didodecanoyl, n-C12:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylglycerol (didodecanoyl, n-C12:0) + 1.0 Phosphate	msbA
-EX_gal1p_e	Alpha-D-Galactose 1-phosphate exchange	Extracellular exchange	1.0 gal1p_e → 	1.0 Alpha-D-Galactose 1-phosphate → 	Unknown
 PE140abcpp	Phosphatidylethanolamine transport via ABC system (n-C14:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe140_c → 1.0 adp_c + 1.0 h_c + 1.0 pe140_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (ditetradecanoyl, n-C14:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (ditetradecanoyl, n-C14:0) + 1.0 Phosphate	msbA
-EX_dcmp_e	DCMP exchange	Extracellular exchange	1.0 dcmp_e → 	1.0 DCMP C9H12N3O7P → 	Unknown
 2AGPE140tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpe140_p → 1.0 2agpe140_c	1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0) → 1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)	lplT
 2AGPE160tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpe160_p → 1.0 2agpe160_c	1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0) → 1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)	lplT
 2AGPE180tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpe180_p → 1.0 2agpe180_c	1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0) → 1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)	lplT
 2AGPE141tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpe141_p → 1.0 2agpe141_c	1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1) → 1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)	lplT
 2AGPE161tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpe161_p → 1.0 2agpe161_c	1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1) → 1.0 2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)	lplT
-EX_23ccmp_e	2',3'-Cyclic CMP exchange	Extracellular exchange	1.0 23ccmp_e → 	1.0 2',3'-Cyclic CMP → 	Unknown
 2AGPA161tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C16:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2hdec9eg3p_p → 1.0 2hdec9eg3p_c	1.0 2-hexadec-9-enoyl-sn-glycerol 3-phosphate → 1.0 2-hexadec-9-enoyl-sn-glycerol 3-phosphate	lplT
 2AGPA181tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C18:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2odec11eg3p_p → 1.0 2odec11eg3p_c	1.0 2-octadec-11-enoyl-sn-glycerol 3-phosphate → 1.0 2-octadec-11-enoyl-sn-glycerol 3-phosphate	lplT
 2AGPG120tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2agpg120_p → 1.0 2agpg120_c	1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0) → 1.0 2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)	lplT
@@ -904,7 +617,6 @@ PA161abcpp	Phosphatidate transport via ABC system (n-C16:1, periplasm)	Transport
 PA180abcpp	Phosphatidate transport via ABC system (n-C18:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pa180_c → 1.0 adp_c + 1.0 h_c + 1.0 pa180_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 1,2-dioctadecanoyl-sn-glycerol 3-phosphate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 1,2-dioctadecanoyl-sn-glycerol 3-phosphate + 1.0 Phosphate	msbA
 PE120abcpp	Phosphatidylethanolamine transport via ABC system (n-C12:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe120_c → 1.0 adp_c + 1.0 h_c + 1.0 pe120_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (didodecanoyl, n-C12:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (didodecanoyl, n-C12:0) + 1.0 Phosphate	msbA
 PE180abcpp	Phosphatidylethanolamine transport via ABC system (n-C18:0, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe180_c → 1.0 adp_c + 1.0 h_c + 1.0 pe180_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (dioctadecanoyl, n-C18:0) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (dioctadecanoyl, n-C18:0) + 1.0 Phosphate	msbA
-EX_3cmp_e	3'-cmp exchange	Extracellular exchange	1.0 3cmp_e → 	1.0 3  CMP C9H12N3O8P → 	Unknown
 CGLYtex	L-Cysteinylglycine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 cgly_e → 1.0 cgly_p	1.0 Cys Gly C5H10N2O3S → 1.0 Cys Gly C5H10N2O3S	phoE, ompF, ompN, ompC
 GTHOXtex	Glutathione (ox) transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gthox_e → 1.0 gthox_p	1.0 Oxidized glutathione → 1.0 Oxidized glutathione	phoE, ompF, ompN, ompC
 TDSR1	Thiol:disulfide reductase (DsbC)	Transport, Inner Membrane	1.0 dsbcox_p + 1.0 dsbdrd_c → 1.0 dsbcrd_p + 1.0 dsbdox_c	1.0 Protein disulfide isomerase II (oxidized) + 1.0 Fused thiol:disulfide interchange protein (reduced) → 1.0 Protein disulfide isomerase II (reduced) + 1.0 Fused thiol:disulfide interchange protein (oxidized)	dsbC, dsbD
@@ -914,61 +626,42 @@ CGLYabcpp	L-Cysteinylglycine (Cys-Gly) transport via ABC system (periplasm)	Tran
 2AGPA160tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C16:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2hdecg3p_p → 1.0 2hdecg3p_c	1.0 2-hexadecanoyl-sn-glycerol 3-phosphate → 1.0 2-hexadecanoyl-sn-glycerol 3-phosphate	lplT
 2AGPA180tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C18:0) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2odecg3p_p → 1.0 2odecg3p_c	1.0 2-octadecanoyl-sn-glycerol 3-phosphate → 1.0 2-octadecanoyl-sn-glycerol 3-phosphate	lplT
 2AGPA141tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C14:1) transporter via facilitated diffusion (periplasm)	Transport, Inner Membrane	1.0 2tdec7eg3p_p → 1.0 2tdec7eg3p_c	1.0 2-tetradec-7-enoyl-sn-glycerol 3-phosphate → 1.0 2-tetradec-7-enoyl-sn-glycerol 3-phosphate	lplT
-EX_urate_e	Urate exchange	Extracellular exchange	1.0 urate_e → 	1.0 Urate C5H4N4O3 → 	Unknown
-EX_skm_e	Shikimate exchange	Extracellular exchange	1.0 skm_e → 	1.0 Shikimate → 	Unknown
-EX_cpgn_un_e	Coprogen unloaded (no Fe(III)) exchange	Extracellular exchange	1.0 cpgn_un_e → 	1.0 Coprogen unloaded (no Fe(III)) → 	Unknown
-EX_ag_e	Silver exchange	Extracellular exchange	1.0 ag_e → 	1.0 Silver → 	Unknown
-EX_cys__D_e	D-Cysteine exchange	Extracellular exchange	1.0 cys__D_e → 	1.0 D-Cysteine → 	Unknown
 PE181abcpp	Phosphatidylethanolamine transport via ABC system (n-C18:1, periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 pe181_c → 1.0 adp_c + 1.0 h_c + 1.0 pe181_p + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1) → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1) + 1.0 Phosphate	msbA
 12DGR161tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C16:1)	Transport, Inner Membrane	1.0 12dgr161_p → 1.0 12dgr161_c	1.0 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) → 1.0 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)	Unknown
 12DGR181tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:1)	Transport, Inner Membrane	1.0 12dgr181_p → 1.0 12dgr181_c	1.0 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) → 1.0 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)	Unknown
 TDSR2	Thiol:disulfide reductase (DsbG)	Transport, Inner Membrane	1.0 dsbdrd_c + 1.0 dsbgox_p → 1.0 dsbdox_c + 1.0 dsbgrd_p	1.0 Fused thiol:disulfide interchange protein (reduced) + 1.0 Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized) → 1.0 Fused thiol:disulfide interchange protein (oxidized) + 1.0 Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced)	dsbG, dsbD
-EX_acser_e	O-Acetyl-L-serine exchange	Extracellular exchange	1.0 acser_e → 	1.0 O-Acetyl-L-serine → 	Unknown
 GTHRDtex	Glutathione transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 gthrd_e → 1.0 gthrd_p	1.0 Reduced glutathione → 1.0 Reduced glutathione	phoE, ompF, ompN, ompC
 GTHRDabc2pp	Glutathione export via ABC system (cytoplasm to periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 gthrd_c + 1.0 h2o_c → 1.0 adp_c + 1.0 gthrd_p + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Reduced glutathione + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Reduced glutathione + 1.0 H+ + 1.0 Phosphate	cydC, cydD
-EX_cu_e	Cu+ exchange	Extracellular exchange	1.0 cu_e → 	1.0 Cu+ → 	Unknown
 ZN2tpp	Zinc transport in via permease (no H+)	Inorganic Ion Transport and Metabolism	1.0 zn2_p → 1.0 zn2_c	1.0 Zinc → 1.0 Zinc	zupT
 NI2tpp	Nickel (+2) transport in via permease (no H+)	Inorganic Ion Transport and Metabolism	1.0 ni2_p → 1.0 ni2_c	1.0 Nickel → 1.0 Nickel	corA
-EX_arbtn_e	Aerobactin minus Fe3 exchange	Extracellular exchange	1.0 arbtn_e → 	1.0 Aerobactin minus Fe3 → 	Unknown
 COBALT2t3pp	Cobalt (Co+2) transport out via proton antiport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 cobalt2_c + 1.0 h_p → 1.0 cobalt2_p + 1.0 h_c	1.0 Co2+ + 1.0 H+ → 1.0 Co2+ + 1.0 H+	zitB, fieF
 23DAPPAt2pp	2,3-diaminopropionate transport in via proton symport	Transport, Inner Membrane	1.0 23dappa_p + 1.0 h_p → 1.0 23dappa_c + 1.0 h_c	1.0 2,3-diaminopropionate + 1.0 H+ → 1.0 2,3-diaminopropionate + 1.0 H+	Unknown
-EX_dopa_e	Dopamine exchange	Extracellular exchange	1.0 dopa_e → 	1.0 Dopamine → 	Unknown
 CAt6pp	Calcium / sodium antiporter (1:1)	Inorganic Ion Transport and Metabolism	1.0 ca2_c + 1.0 na1_p → 1.0 ca2_p + 1.0 na1_c	1.0 Calcium + 1.0 Sodium → 1.0 Calcium + 1.0 Sodium	yrbG
-EX_tartr__D_e	D-tartrate exchange	Extracellular exchange	1.0 tartr__D_e → 	1.0 D-tartrate → 	Unknown
 GLYBt2pp	Glycine betaine transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 glyb_p + 1.0 h_p → 1.0 glyb_c + 1.0 h_c	1.0 Glycine betaine + 1.0 H+ → 1.0 Glycine betaine + 1.0 H+	yeaV, proP
 5DGLCNt2rpp	5-Dehydro-D-gluconate transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 5dglcn_p + 1.0 h_p → 1.0 5dglcn_c + 1.0 h_c	1.0 5-Dehydro-D-gluconate + 1.0 H+ → 1.0 5-Dehydro-D-gluconate + 1.0 H+	idnT
 GALCTNt2pp	D-galactonate transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 galctn__D_p + 1.0 h_p → 1.0 galctn__D_c + 1.0 h_c	1.0 D-Galactonate + 1.0 H+ → 1.0 D-Galactonate + 1.0 H+	dgoT
 GALCTNLtex	L-galactonate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 galctn__L_e → 1.0 galctn__L_p	1.0 L-Galactonate → 1.0 L-Galactonate	ompC, ompN, ompF, phoE
-EX_galctn__L_e	L-Galactonate exchange	Extracellular exchange	1.0 galctn__L_e → 	1.0 L-Galactonate → 	Unknown
 DSERt2pp	D-serine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 ser__D_p → 1.0 h_c + 1.0 ser__D_c	1.0 H+ + 1.0 D-Serine → 1.0 H+ + 1.0 D-Serine	cycA
-EX_hom__L_e	L-Homoserine exchange	Extracellular exchange	1.0 hom__L_e → 	1.0 L-Homoserine → 	Unknown
 ALAt4pp	L-alanine transport in via sodium symport (periplasm)	Transport, Inner Membrane	1.0 ala__L_p + 1.0 na1_p → 1.0 ala__L_c + 1.0 na1_c	1.0 L-Alanine + 1.0 Sodium → 1.0 L-Alanine + 1.0 Sodium	yaaJ
 LYSt3pp	L-lysine transport out via proton antiport (cytoplasm to periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 lys__L_c → 1.0 h_c + 1.0 lys__L_p	1.0 H+ + 1.0 L-Lysine → 1.0 H+ + 1.0 L-Lysine	argO, ybjE
-EX_tungs_e	Tungstate exchange	Extracellular exchange	1.0 tungs_e → 	1.0 Tungstate → 	Unknown
 CA2t3pp	Calcium (Ca+2) transport out via proton antiport (periplasm)	Inorganic Ion Transport and Metabolism	1.0 ca2_c + 1.0 h_p → 1.0 ca2_p + 1.0 h_c	1.0 Calcium + 1.0 H+ → 1.0 Calcium + 1.0 H+	chaA
 THRt2pp	L-threonine efflux transport via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 thr__L_c → 1.0 h_c + 1.0 thr__L_p	1.0 H+ + 1.0 L-Threonine → 1.0 H+ + 1.0 L-Threonine	rhtA, rhtC
 ARGt3pp	L-arginine transport out via proton antiport (cytoplasm to periplasm)	Transport, Inner Membrane	1.0 arg__L_c + 1.0 h_p → 1.0 arg__L_p + 1.0 h_c	1.0 L-Arginine + 1.0 H+ → 1.0 L-Arginine + 1.0 H+	argO
 MALDtex	D-Malate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 mal__D_e → 1.0 mal__D_p	1.0 D-Malate → 1.0 D-Malate	ompN, ompC, phoE, ompF
 OROTtex	Orotate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 orot_e → 1.0 orot_p	1.0 Orotate C5H3N2O4 → 1.0 Orotate C5H3N2O4	ompN, ompF, ompC, phoE
-EX_crn__D_e	D-carnitine exchange	Extracellular exchange	1.0 crn__D_e → 	1.0 D-Carnitine → 	Unknown
 PPAt4pp	Na+/Propionate symporter (periplasm)	Transport, Inner Membrane	1.0 na1_p + 1.0 ppa_p → 1.0 na1_c + 1.0 ppa_c	1.0 Sodium + 1.0 Propionate (n-C3:0) → 1.0 Sodium + 1.0 Propionate (n-C3:0)	putP
 OROTt2_2pp	Orotate transport via proton symport (2 H) (periplasm)	Transport, Inner Membrane	2.0 h_p + 1.0 orot_p → 2.0 h_c + 1.0 orot_c	2.0 H+ + 1.0 Orotate C5H3N2O4 → 2.0 H+ + 1.0 Orotate C5H3N2O4	dctA
 MALDt2_2pp	D-Malate transport via proton symport (2 H) (periplasm)	Transport, Inner Membrane	2.0 h_p + 1.0 mal__D_p → 2.0 h_c + 1.0 mal__D_c	2.0 H+ + 1.0 D-Malate → 2.0 H+ + 1.0 D-Malate	dctA
 5DGLCNtex	5-Dehydro-D-gluconate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 5dglcn_e → 1.0 5dglcn_p	1.0 5-Dehydro-D-gluconate → 1.0 5-Dehydro-D-gluconate	ompN, phoE, ompF, ompC
-EX_LalaDgluMdapDala_e	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine exchange	Extracellular exchange	1.0 LalaDgluMdapDala_e → 	1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine → 	Unknown
-EX_5dglcn_e	5-Dehydro-D-gluconate exchange	Extracellular exchange	1.0 5dglcn_e → 	1.0 5-Dehydro-D-gluconate → 	Unknown
 CHLt2pp	Choline transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 chol_p + 1.0 h_p → 1.0 chol_c + 1.0 h_c	1.0 Choline C5H14NO + 1.0 H+ → 1.0 Choline C5H14NO + 1.0 H+	betT, yeaV
 GLYt4pp	Glycine transport in via sodium symport (periplasm)	Transport, Inner Membrane	1.0 gly_p + 1.0 na1_p → 1.0 gly_c + 1.0 na1_c	1.0 Glycine + 1.0 Sodium → 1.0 Glycine + 1.0 Sodium	yaaJ
 FRULYSt2pp	Fructoselysine transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 frulys_p + 1.0 h_p → 1.0 frulys_c + 1.0 h_c	1.0 Fructoselysine + 1.0 H+ → 1.0 Fructoselysine + 1.0 H+	frlA
-EX_LalaDgluMdap_e	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate exchange	Extracellular exchange	1.0 LalaDgluMdap_e → 	1.0 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate → 	Unknown
-EX_psclys_e	Psicoselysine exchange	Extracellular exchange	1.0 psclys_e → 	1.0 Psicoselysine → 	Unknown
 TUNGStex	Tungstate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tungs_e → 1.0 tungs_p	1.0 Tungstate → 1.0 Tungstate	ompF, ompC, ompN, phoE
 PSCLYSt2pp	Psicoselysine transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 psclys_p → 1.0 h_c + 1.0 psclys_c	1.0 H+ + 1.0 Psicoselysine → 1.0 H+ + 1.0 Psicoselysine	frlA
 LYSt2pp	L-lysine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 lys__L_p → 1.0 h_c + 1.0 lys__L_c	1.0 H+ + 1.0 L-Lysine → 1.0 H+ + 1.0 L-Lysine	lysP
 COBALT2tpp	Cobalt transport in via permease (no H+)	Inorganic Ion Transport and Metabolism	1.0 cobalt2_p → 1.0 cobalt2_c	1.0 Co2+ → 1.0 Co2+	zupT, corA
 GLYt2pp	Glycine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 gly_p + 1.0 h_p → 1.0 gly_c + 1.0 h_c	1.0 Glycine + 1.0 H+ → 1.0 Glycine + 1.0 H+	yeaV, cycA
 ALAt2pp	L-alanine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 ala__L_p + 1.0 h_p → 1.0 ala__L_c + 1.0 h_c	1.0 L-Alanine + 1.0 H+ → 1.0 L-Alanine + 1.0 H+	cycA, dtpC
-EX_anhgm_e	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid exchange	Extracellular exchange	1.0 anhgm_e → 	1.0 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid → 	Unknown
 BALAt2pp	Beta-alanine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 ala_B_p + 1.0 h_p → 1.0 ala_B_c + 1.0 h_c	1.0 Beta-Alanine + 1.0 H+ → 1.0 Beta-Alanine + 1.0 H+	cycA
 DALAt2pp	D-alanine transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 ala__D_p + 1.0 h_p → 1.0 ala__D_c + 1.0 h_c	1.0 D-Alanine + 1.0 H+ → 1.0 D-Alanine + 1.0 H+	cycA
 FE2tpp	Iron (+2) transport in via permease (no H+)	Inorganic Ion Transport and Metabolism	1.0 fe2_p → 1.0 fe2_c	1.0 Fe2+ mitochondria → 1.0 Fe2+ mitochondria	zupT
@@ -980,10 +673,8 @@ PPAtex	Propionate transport via diffusion	Transport, Outer Membrane Porin	1.0 pp
 GALCTNLt2pp	L-galactonate transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 galctn__L_p + 1.0 h_p → 1.0 galctn__L_c + 1.0 h_c	1.0 L-Galactonate + 1.0 H+ → 1.0 L-Galactonate + 1.0 H+	lgoT
 THYMt3pp	Thymine transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 thym_c → 1.0 h_c + 1.0 thym_p	1.0 H+ + 1.0 Thymine C5H6N2O2 → 1.0 H+ + 1.0 Thymine C5H6N2O2	Unknown
 CLt3_2pp	Chloride transport out via proton antiport (2:1) (periplasm)	Inorganic Ion Transport and Metabolism	2.0 cl_p + 1.0 h_c → 2.0 cl_c + 1.0 h_p	2.0 Chloride + 1.0 H+ → 2.0 Chloride + 1.0 H+	clcA
-EX_ppal_e	Propanal exchange	Extracellular exchange	1.0 ppal_e → 	1.0 Propanal → 	Unknown
 SELGTHR	Selenate glutathione reductase	Inorganic Ion Transport and Metabolism	4.0 gthrd_c + 2.0 h_c + 1.0 slnt_c → 1.0 dgslnt_c + 1.0 gthox_c + 3.0 h2o_c	4.0 Reduced glutathione + 2.0 H+ + 1.0 Selenite → 1.0 Selenodiglutathione + 1.0 Oxidized glutathione + 3.0 H2O H2O	Unknown
 SELGTHR3	Selenate glutathione reductase III	Inorganic Ion Transport and Metabolism	1.0 gslnt_c + 1.0 nadph_c → 1.0 gthrd_c + 1.0 nadp_c + 1.0 seln_c	1.0 Glutathiolselenolate + 1.0 Nicotinamide adenine dinucleotide phosphate - reduced → 1.0 Reduced glutathione + 1.0 Nicotinamide adenine dinucleotide phosphate + 1.0 Selenide	Unknown
-EX_slnt_e	Selenite exchange	Extracellular exchange	1.0 slnt_e → 	1.0 Selenite → 	Unknown
 PSCLYStex	Psicoselysine transporter via diffusion (extracellular)	Transport, Outer Membrane Porin	1.0 psclys_e → 1.0 psclys_p	1.0 Psicoselysine → 1.0 Psicoselysine	ompF, ompC, ompN, phoE
 THYMtex	Thymine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 thym_e → 1.0 thym_p	1.0 Thymine C5H6N2O2 → 1.0 Thymine C5H6N2O2	phoE, ompN, ompC, ompF
 CU2tpp	Copper transport in via permease (no H+)	Inorganic Ion Transport and Metabolism	1.0 cu2_p → 1.0 cu2_c	1.0 Copper → 1.0 Copper	zupT
@@ -1002,14 +693,12 @@ RFAMPtex	Rifampin transport via diffusion (extracellular to periplasm)	Transport
 MINCYCtex	Minocycline transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 mincyc_e → 1.0 mincyc_p	1.0 Minocycline → 1.0 Minocycline	ompN, phoE, ompF, ompC
 MINCYCtpp	Minocycline transport via TolC system	Transport, Outer Membrane	1.0 h_p + 1.0 mincyc_p → 1.0 h_c + 1.0 mincyc_e	1.0 H+ + 1.0 Minocycline → 1.0 H+ + 1.0 Minocycline	acrA, tolC, acrD, acrA, tolC, acrB
 MEOHtrpp	Methanol reversible transport via diffusion (periplasm)	Transport, Inner Membrane	1.0 meoh_p → 1.0 meoh_c	1.0 Methanol → 1.0 Methanol	
-EX_LalaDglu_e	L-alanine-D-glutamate exchange	Extracellular exchange	1.0 LalaDglu_e → 	1.0 L-alanine-D-glutamate → 	Unknown
 DOXRBCNtex	Doxorubicin transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 doxrbcn_e → 1.0 doxrbcn_p	1.0 Doxorubicin → 1.0 Doxorubicin	ompF, ompC, ompN, phoE
 DOXRBCNtpp	Doxorubicin transport via TolC system	Transport, Outer Membrane	1.0 doxrbcn_p + 1.0 h_p → 1.0 doxrbcn_e + 1.0 h_c	1.0 Doxorubicin + 1.0 H+ → 1.0 Doxorubicin + 1.0 H+	acrA, tolC, acrB, acrA, tolC, acrD
 SELtex	Selenate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 sel_e → 1.0 sel_p	1.0 Selenate → 1.0 Selenate	ompN, ompF, ompC, phoE
 SELR	Selenate reductase	Inorganic Ion Transport and Metabolism	1.0 mql8_c + 1.0 sel_c → 1.0 h2o_c + 1.0 mqn8_c + 1.0 slnt_c	1.0 Menaquinol 8 + 1.0 Selenate → 1.0 H2O H2O + 1.0 Menaquinone 8 + 1.0 Selenite	ynfG, ynfH, ynfF, ynfE
 ETOHtrpp	Ethanol reversible transport via diffusion (periplasm)	Transport, Inner Membrane	1.0 etoh_p → 1.0 etoh_c	1.0 Ethanol → 1.0 Ethanol	
 MEOHtex	Methanol transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 meoh_e → 1.0 meoh_p	1.0 Methanol → 1.0 Methanol	ompF, ompN, ompC, phoE
-EX_5mtr_e	5-Methylthio-D-ribose exchange	Extracellular exchange	1.0 5mtr_e → 	1.0 5-Methylthio-D-ribose → 	Unknown
 5MTRtpp	5-Methylthio-D-ribose transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 5mtr_c + 1.0 h_c → 1.0 5mtr_p + 1.0 h_p	1.0 5-Methylthio-D-ribose + 1.0 H+ → 1.0 5-Methylthio-D-ribose + 1.0 H+	Unknown
 TTRCYCtex	Tetracycline transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 ttrcyc_e → 1.0 ttrcyc_p	1.0 Tetracycline → 1.0 Tetracycline	ompF, phoE, ompN, ompC
 NOVBCNtpp	Novobiocin transport via TolC system	Transport, Outer Membrane	1.0 h_p + 1.0 novbcn_p → 1.0 h_c + 1.0 novbcn_e	1.0 H+ + 1.0 Novobiocin → 1.0 H+ + 1.0 Novobiocin	acrA, tolC, acrD, acrA, tolC, acrB
@@ -1019,13 +708,10 @@ LALALGLUtex	L-alanyl-L-glutamate transport via diffusion (extracellular to perip
 LALADGLUtpp	L-alanyl-D-glutamate transport in via proton symport (periplasm)	Transport, Inner Membrane	1.0 LalaDglu_p + 1.0 h_p → 1.0 LalaDglu_c + 1.0 h_c	1.0 L-alanine-D-glutamate + 1.0 H+ → 1.0 L-alanine-D-glutamate + 1.0 H+	dtpD, dtpA, dtpB, dtpC
 SLNTtex	Selenite transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 slnt_e → 1.0 slnt_p	1.0 Selenite → 1.0 Selenite	ompN, ompF, ompC, phoE
 SELGTHR2	Selenate glutathione reductase II	Inorganic Ion Transport and Metabolism	1.0 dgslnt_c + 1.0 h_c + 1.0 nadph_c → 1.0 gslnt_c + 1.0 gthrd_c + 1.0 nadp_c	1.0 Selenodiglutathione + 1.0 H+ + 1.0 Nicotinamide adenine dinucleotide phosphate - reduced → 1.0 Glutathiolselenolate + 1.0 Reduced glutathione + 1.0 Nicotinamide adenine dinucleotide phosphate	Unknown
-EX_LalaLglu_e	L-alanine-L-glutamate exchange	Extracellular exchange	1.0 LalaLglu_e → 	1.0 L-alanine-L-glutamate → 	Unknown
 3HPPtpp	3-hydroxypropionate transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 3hpp_c + 1.0 h_c → 1.0 3hpp_p + 1.0 h_p	1.0 3-Hydroxypropanoate + 1.0 H+ → 1.0 3-Hydroxypropanoate + 1.0 H+	Unknown
 RFAMPtpp	Rifampin transport via TolC system	Transport, Outer Membrane	1.0 h_p + 1.0 rfamp_p → 1.0 h_c + 1.0 rfamp_e	1.0 H+ + 1.0 Rifampin → 1.0 H+ + 1.0 Rifampin	acrA, tolC, acrB, acrA, tolC, acrD
-EX_ttrcyc_e	Tetracycline exchange	Extracellular exchange	1.0 ttrcyc_e → 	1.0 Tetracycline → 	Unknown
 ALAtpp	L-alanine export via facilited diffusion	Transport, Inner Membrane	1.0 ala__L_c → 1.0 ala__L_p	1.0 L-Alanine → 1.0 L-Alanine	alaE
 CH4tex	Methane Transport(extracellular via diffusion)	Transport, Outer Membrane	1.0 ch4_e → 1.0 ch4_p	1.0 Methane → 1.0 Methane	Unknown
-EX_mincyc_e	Minocycline exchange	Extracellular exchange	1.0 mincyc_e → 	1.0 Minocycline → 	Unknown
 TARTRDtex	D-tartrate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 tartr__D_e → 1.0 tartr__D_p	1.0 D-tartrate → 1.0 D-tartrate	ompN, ompC, phoE, ompF
 BTNt2ipp	Biotin transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 btn_p + 1.0 h_p → 1.0 btn_c + 1.0 h_c	1.0 Biotin + 1.0 H+ → 1.0 Biotin + 1.0 H+	Unknown
 BTNtex	Biotin transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 btn_e → 1.0 btn_p	1.0 Biotin → 1.0 Biotin	ompC, ompN, phoE, ompF
@@ -1035,7 +721,6 @@ DXYLONtpp	D-xylonate reversible tranposrt (periplasm)	Transport, Inner Membrane	
 2DGLCptspp	2-Deoxy-D-glucose transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 2dglc_p + 1.0 pep_c → 1.0 2doxg6p_c + 1.0 pyr_c	1.0 2 Deoxy D glucose C6H12O5 + 1.0 Phosphoenolpyruvate → 1.0 2 Deoxy D glucose 6 phosphate C6H11O8P + 1.0 Pyruvate	ptsH, manX, manZ, ptsI, manY
 ARBTptspp	Arbutin transport via PEP:Pyr PTS (periplasm)	Transport, Inner Membrane	1.0 arbt_p + 1.0 pep_c → 1.0 arbt6p_c + 1.0 pyr_c	1.0 Arbutin C12H16O7 + 1.0 Phosphoenolpyruvate → 1.0 Arbutin 6-phosphate + 1.0 Pyruvate	bglF, ptsI, ptsH, ascF, ptsI, ptsH
 ARBTtex	Arbutin transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 arbt_e → 1.0 arbt_p	1.0 Arbutin C12H16O7 → 1.0 Arbutin C12H16O7	ompC, ompF, ompN, phoE
-EX_arbt_e	Arbutin exchange	Extracellular exchange	1.0 arbt_e → 	1.0 Arbutin C12H16O7 → 	Unknown
 DMSOtpp	Dimethyl sulfoxide transport via diffusion (periplasm)	Transport, Inner Membrane	1.0 dmso_p → 1.0 dmso_c	1.0 Dimethyl sulfoxide → 1.0 Dimethyl sulfoxide	
 PYDXtex	Pyridoxal transport via diffusion (extracellular)	Transport, Outer Membrane Porin	1.0 pydx_e → 1.0 pydx_p	1.0 Pyridoxal → 1.0 Pyridoxal	ompC, ompF, ompN, phoE
 PYDXtpp	Pyridoxal import	Transport, Inner Membrane	1.0 pydx_p → 1.0 pydx_c	1.0 Pyridoxal → 1.0 Pyridoxal	Unknown
@@ -1066,7 +751,6 @@ SQtr	Sulfoquinovose transporter	Transport, Inner Membrane	1.0 sq_p → 1.0 sq_c	
 DHPStex	2,3-dihydroxypropane 1-sulfonate transport via diffusion	Transport, Outer Membrane	1.0 dhps_e → 1.0 dhps_p	1.0 2,3-Dihydroxypropane-1-sulfonate → 1.0 2,3-Dihydroxypropane-1-sulfonate	ompL
 SPMDt3pp	Spermidine transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 spmd_c → 1.0 h_c + 1.0 spmd_p	1.0 H+ + 1.0 Spermidine → 1.0 H+ + 1.0 Spermidine	mdtJ, mdtI
 FMNtex	FMN transport, outer membrane	Transport, Outer Membrane	1.0 fmn_p → 1.0 fmn_e	1.0 FMN C17H19N4O9P → 1.0 FMN C17H19N4O9P	ompF, phoE, ompC, ompN
-EX_dxylnt_e	D-Xylonate exchange	Extracellular exchange	1.0 dxylnt_e → 	1.0 D-Xylonate → 	Unknown
 PHEtipp	L-phenylalanine transport out (periplasm)	Transport, Inner Membrane	1.0 phe__L_c → 1.0 phe__L_p	1.0 L-Phenylalanine → 1.0 L-Phenylalanine	yddG
 MALt3pp	L-malate transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 mal__L_c → 1.0 h_c + 1.0 mal__L_p	1.0 H+ + 1.0 L-Malate → 1.0 H+ + 1.0 L-Malate	Unknown
 CITt3pp	Citrate transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 cit_c + 1.0 h_p → 1.0 cit_p + 1.0 h_c	1.0 Citrate + 1.0 H+ → 1.0 Citrate + 1.0 H+	Unknown
@@ -1074,7 +758,6 @@ QUIN2tpp	Quinate transport (periplasm)	Transport, Inner Membrane	1.0 quin_p → 
 GLYC2Pabcpp	Sn-Glycerol 2-phosphate transport via ABC system (periplasm)	Transport, Inner Membrane	1.0 atp_c + 1.0 glyc2p_p + 1.0 h2o_c → 1.0 adp_c + 1.0 glyc2p_c + 1.0 h_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 Glycerol 2-phosphate + 1.0 H2O H2O → 1.0 ADP C10H12N5O10P2 + 1.0 Glycerol 2-phosphate + 1.0 H+ + 1.0 Phosphate	ugpC, ugpB, ugpE, ugpA
 CRNDtex	D-carnitine transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 crn__D_e → 1.0 crn__D_p	1.0 D-Carnitine → 1.0 D-Carnitine	ompN, ompC, phoE, ompF
 CLBtex	Cellobiose transport transport via diffusion extracellular to periplasm 	Transport, Outer Membrane	1.0 cellb_e → 1.0 cellb_p	1.0 Cellobiose → 1.0 Cellobiose	phoE, ompN, ompF, ompC
-EX_mththf_e	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran exchange	Extracellular exchange	1.0 mththf_e → 	1.0 (2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran → 	Unknown
 CHOLATEtpp	Cholate transport via proton antiport	Transport, Inner Membrane	1.0 cholate_c + 1.0 h_p → 1.0 cholate_p + 1.0 h_c	1.0 Cholate c + 1.0 H+ → 1.0 Cholate c + 1.0 H+	mdtM
 4ABZGLUtr	P-aminobenzoyl glutamate:H+ symporter	Transport, Inner Membrane	1.0 4abzglu_p + 1.0 h_p → 1.0 4abzglu_c + 1.0 h_c	1.0 4-aminobenzoyl-glutamate + 1.0 H+ → 1.0 4-aminobenzoyl-glutamate + 1.0 H+	abgT
 SELabcpp	Selenatenate transport via ABC system (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 h2o_c + 1.0 sel_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 sel_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Selenate → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Selenate	cysW, cysA, cysP, cysU, cysW, cysA, sbp, cysU
@@ -1093,25 +776,18 @@ GSNt3pp	Guanosine transport out via proton antiport (periplasm)	Transport, Inner
 CLtipp	Chloride ion transport in via diffusion (periplasm)	Inorganic Ion Transport and Metabolism	1.0 cl_p → 1.0 cl_c	1.0 Chloride → 1.0 Chloride	clcB
 2DGLCtex	2-Deoxy-D-glucose transport via diffusion (extracellular)	Transport, Outer Membrane	1.0 2dglc_e → 1.0 2dglc_p	1.0 2 Deoxy D glucose C6H12O5 → 1.0 2 Deoxy D glucose C6H12O5	ompN, phoE, ompC, ompF
 PItpp	Phosphate export via facillated diffusion (periplasm)	Inorganic Ion Transport and Metabolism	1.0 pi_c → 1.0 pi_p	1.0 Phosphate → 1.0 Phosphate	yjbB
-EX_doxrbcn_e	Doxorubicin exchange	Extracellular exchange	1.0 doxrbcn_e → 	1.0 Doxorubicin → 	Unknown
 LEUt3pp	L-leucine transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 leu__L_c → 1.0 h_c + 1.0 leu__L_p	1.0 H+ + 1.0 L-Leucine → 1.0 H+ + 1.0 L-Leucine	leuE, yjeH
 INSt3pp	Inosine transport out via proton antiport (perisplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 ins_c → 1.0 h_c + 1.0 ins_p	1.0 H+ + 1.0 Inosine → 1.0 H+ + 1.0 Inosine	nepI
 INDOLEt2rpp	Indole transport via proton symport, reversible (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 indole_p → 1.0 h_c + 1.0 indole_c	1.0 H+ + 1.0 Indole → 1.0 H+ + 1.0 Indole	mtr
 SQtex	Sulphoquinovose transport via diffusion	Transport, Outer Membrane	1.0 sq_e → 1.0 sq_p	1.0 Sulphoquinovose → 1.0 Sulphoquinovose	ompL
 ILEt2rpp	L-isoleucine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 ile__L_p → 1.0 h_c + 1.0 ile__L_c	1.0 H+ + 1.0 L-Isoleucine → 1.0 H+ + 1.0 L-Isoleucine	brnQ
 GLYtpp	Glycine transport via facillitated diffusion	Transport, Inner Membrane	1.0 gly_c → 1.0 gly_p	1.0 Glycine → 1.0 Glycine	glpF
-EX_dhps_e	2,3-Dihydroxypropane-1-sulfonate exchange	Extracellular exchange	1.0 dhps_e → 	1.0 2,3-Dihydroxypropane-1-sulfonate → 	Unknown
 URATEtex	Uric acid transport	Transport, Outer Membrane Porin	1.0 urate_e → 1.0 urate_p	1.0 Urate C5H4N4O3 → 1.0 Urate C5H4N4O3	ompC, phoE, ompF, ompN
-EX_cs1_e	Cesium ion exchange	Extracellular exchange	1.0 cs1_e → 	1.0 Cesium ion → 	Unknown
-EX_fusa_e	Fusidic acid exchange	Extracellular exchange	1.0 fusa_e → 	1.0 Fusidic acid → 	Unknown
 CBL1tonex	Cob(1)alamin transport via ton system (extermal)	Transport, Outer Membrane	1.0 cbl1_e + 1.0 h_p → 1.0 cbl1_p + 1.0 h_c	1.0 Cob(I)alamin + 1.0 H+ → 1.0 Cob(I)alamin + 1.0 H+	tonB, exbD, exbB, btuB
 CBItonex	Cobinamide transport via ton system (extermal)	Transport, Outer Membrane	1.0 cbi_e + 1.0 h_p → 1.0 cbi_p + 1.0 h_c	1.0 Cobinamide + 1.0 H+ → 1.0 Cobinamide + 1.0 H+	tonB, exbD, exbB, btuB
-EX_mepn_e	Methylphosphonic acid exchange	Extracellular exchange	1.0 mepn_e → 	1.0 Methylphosphonic acid → 	Unknown
 PSURItpp	Pseudouridine transport via permease	Transport, Inner Membrane	1.0 psuri_p → 1.0 psuri_c	1.0 Pseudouridine → 1.0 Pseudouridine	psuT
 FE3DCITR5	Ferric-dicitrate reductase via nadph	Inorganic Ion Transport and Metabolism	2.0 fe3dcit_c + 1.0 nadph_c → 4.0 cit_c + 2.0 fe2_c + 1.0 h_c + 1.0 nadp_c	2.0 Fe(III)dicitrate + 1.0 Nicotinamide adenine dinucleotide phosphate - reduced → 4.0 Citrate + 2.0 Fe2+ mitochondria + 1.0 H+ + 1.0 Nicotinamide adenine dinucleotide phosphate	yqjH
 CH4t2pp	Methane Transport(periplasm)	Transport, Inner Membrane	1.0 ch4_c → 1.0 ch4_p	1.0 Methane → 1.0 Methane	Unknown
-EX_cm_e	Chloramphenicol exchange	Extracellular exchange	1.0 cm_e → 	1.0 Chloramphenicol → 	Unknown
-EX_novbcn_e	Novobiocin exchange	Extracellular exchange	1.0 novbcn_e → 	1.0 Novobiocin → 	Unknown
 METGLCURt2pp	1-O-methyl-Beta-D-glucuronate transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 metglcur_p → 1.0 h_c + 1.0 metglcur_c	1.0 H+ + 1.0 1-O-methyl-Beta-D-glucuronate → 1.0 H+ + 1.0 1-O-methyl-Beta-D-glucuronate	uidB
 METGLCURtex	1-O-methyl-Beta-D-glucuronate via diffusion (extracellular)	Transport, Outer Membrane	1.0 metglcur_e → 1.0 metglcur_p	1.0 1-O-methyl-Beta-D-glucuronate → 1.0 1-O-methyl-Beta-D-glucuronate	ompN, phoE, ompC, ompF
 FMNt	FMN transporter, periplasm	Transport, Inner Membrane	1.0 fmn_c → 1.0 fmn_p	1.0 FMN C17H19N4O9P → 1.0 FMN C17H19N4O9P	yeeO
@@ -1120,11 +796,9 @@ CUt2pp	Copper transport out via permease (no H+)	Transport, Inner Membrane	1.0 c
 Ftex	Fluoride transport via diffusion	Transport, Outer Membrane Porin	1.0 f_p → 1.0 f_e	1.0 Fluoride → 1.0 Fluoride	phoE, ompF, ompC, ompN
 CYSItex	L cystine transport via diffusion extracellular to periplasm 	Transport, Outer Membrane Porin	1.0 cysi__L_e → 1.0 cysi__L_p	1.0 L Cystine C6H12N2O4S2 → 1.0 L Cystine C6H12N2O4S2	ompF, phoE, ompN, ompC
 SERtpp	L-serine export via facilitated transport	Transport, Inner Membrane	1.0 ser__L_c → 1.0 ser__L_p	1.0 L-Serine → 1.0 L-Serine	eamA
-EX_2dglc_e	2-Deoxy-D-glucose exchange	Extracellular exchange	1.0 2dglc_e → 	1.0 2 Deoxy D glucose C6H12O5 → 	Unknown
 THRt2rpp	L-threonine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 thr__L_p → 1.0 h_c + 1.0 thr__L_c	1.0 H+ + 1.0 L-Threonine → 1.0 H+ + 1.0 L-Threonine	tdcC
 SERt2rpp	L-serine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 ser__L_p → 1.0 h_c + 1.0 ser__L_c	1.0 H+ + 1.0 L-Serine → 1.0 H+ + 1.0 L-Serine	sdaC, tdcC
 AMPNTAT	Aminoalkylphosphonate N-acetyltransferase	Inorganic Ion Transport and Metabolism	1.0 accoa_c + 1.0 ampnt_c → 1.0 acampnt_c + 1.0 coa_c	1.0 Acetyl-CoA + 1.0 Aminomethylphosphonate → 1.0 2-N-acetamidomethylphosphonate + 1.0 Coenzyme A	phnO
-EX_sq_e	Sulphoquinovose exchange	Extracellular exchange	1.0 sq_e → 	1.0 Sulphoquinovose → 	Unknown
 URATEtpp	Uric acid transporter	Transport, Inner Membrane	1.0 h_p + 1.0 urate_p → 1.0 h_c + 1.0 urate_c	1.0 H+ + 1.0 Urate C5H4N4O3 → 1.0 H+ + 1.0 Urate C5H4N4O3	uacT
 CS1tex	Cesium transport via diffusion	Transport, Outer Membrane	1.0 cs1_e → 1.0 cs1_p	1.0 Cesium ion → 1.0 Cesium ion	ompF, ompC, phoE, ompN
 ADOCBLtonex	Adenosylcobalimin transport via ton system (extermal)	Transport, Outer Membrane	1.0 adocbl_e + 1.0 h_p → 1.0 adocbl_p + 1.0 h_c	1.0 Adenosylcobalamin + 1.0 H+ → 1.0 Adenosylcobalamin + 1.0 H+	tonB, exbD, exbB, btuB
@@ -1136,14 +810,9 @@ FUSAtex	Fusidic acid transport via diffusion (extracellular to periplasm)	Transp
 MEPNtex	Methylphosphonic acid transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 mepn_e → 1.0 mepn_p	1.0 Methylphosphonic acid → 1.0 Methylphosphonic acid	ompF, phoE, ompC, ompN
 MEPNabcpp	Methylpshophonic acid abc transporter	Transport, Inner Membrane	1.0 atp_c + 1.0 h2o_c + 1.0 mepn_p → 1.0 adp_c + 1.0 h_c + 1.0 mepn_c + 1.0 pi_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Methylphosphonic acid → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Methylphosphonic acid + 1.0 Phosphate	phnE, phnD, phnC
 NOVBCNtex	Novobiocin transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 novbcn_e → 1.0 novbcn_p	1.0 Novobiocin → 1.0 Novobiocin	
-EX_4abzglu_e	4-aminobenzoyl-glutamate exchange	Extracellular exchange	1.0 4abzglu_e → 	1.0 4-aminobenzoyl-glutamate → 	Unknown
-EX_rfamp_e	Rifampin exchange	Extracellular exchange	1.0 rfamp_e → 	1.0 Rifampin → 	Unknown
 4ABZGLUtex	P-aminobenzoyl glutamate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane	1.0 4abzglu_e → 1.0 4abzglu_p	1.0 4-aminobenzoyl-glutamate → 1.0 4-aminobenzoyl-glutamate	phoE, ompN, ompC, ompF
 QUIN2tex	Quinate transport via diffusion (extracellular to periplasm)	Transport, Outer Membrane Porin	1.0 quin_e → 1.0 quin_p	1.0 Quinate → 1.0 Quinate	ompC, ompN, phoE, ompF
-EX_metglcur_e	1-O-methyl-Beta-D-glucuronate exchange	Extracellular exchange	1.0 metglcur_e → 	1.0 1-O-methyl-Beta-D-glucuronate → 	Unknown
-EX_quin_e	Quinate exchange	Extracellular exchange	1.0 quin_e → 	1.0 Quinate → 	Unknown
 SLNTabcpp	Selenite ABC transporter (periplasm)	Inorganic Ion Transport and Metabolism	1.0 atp_c + 1.0 h2o_c + 1.0 slnt_p → 1.0 adp_c + 1.0 h_c + 1.0 pi_c + 1.0 slnt_c	1.0 ATP C10H12N5O13P3 + 1.0 H2O H2O + 1.0 Selenite → 1.0 ADP C10H12N5O10P2 + 1.0 H+ + 1.0 Phosphate + 1.0 Selenite	cysW, cysA, cysP, cysU, cysW, cysA, sbp, cysU
 VALt2rpp	L-valine reversible transport via proton symport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 val__L_p → 1.0 h_c + 1.0 val__L_c	1.0 H+ + 1.0 L-Valine → 1.0 H+ + 1.0 L-Valine	brnQ
 VALt3pp	L-valine transport out via proton antiport (periplasm)	Transport, Inner Membrane	1.0 h_p + 1.0 val__L_c → 1.0 h_c + 1.0 val__L_p	1.0 H+ + 1.0 L-Valine → 1.0 H+ + 1.0 L-Valine	ygaH, ygaZ, yjeH
 MN2tipp	Manganese transport in via permease (no H+)	Transport, Inner Membrane	1.0 mn2_c → 1.0 mn2_p	1.0 Manganese → 1.0 Manganese	mntP
-EX_3hpp_e	3-Hydroxypropanoate exchange	Extracellular exchange	1.0 3hpp_e → 	1.0 3-Hydroxypropanoate → 	Unknown
