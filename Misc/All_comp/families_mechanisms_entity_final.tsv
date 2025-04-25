@@ -36,7 +36,8 @@ Family	Mechanism	Acting Entity
 1.C.85	Small molecules (in) â‡Œ Small molecules (out)	Small molecules
 1.C.1	Ions (in) â‡Œ Ions (out)	Ions
 2.A.1	S (out) â‡Œ S (in)	S
-2.A.1	S (out) + H+/Na+ (out) â‡Œ S (in) + H+/Na+ (in)	S
+2.A.1	S (out) + H+ (out) â‡Œ S (in) + H+ (in)	S
+2.A.1  	S (out) + Na+ (out) â‡Œ S (in) + Na+ (in)	S
 2.A.1	S1 (out) + S2 (in) â‡Œ S1 (in) + S2 (out)	S1
 2.A.7		
 2.A.6	substrate (in) + n H+ (out) â†’ substrate (out) + n H+ (in)	substrate
@@ -51,12 +52,15 @@ Family	Mechanism	Acting Entity
 3.A.1	solute (in) + ATP â†’ solute (out) + ADP + Pi	solute
 3.A.1	substrate (out) + ATP â†’ substrate (in) + ADP + Pi	substrate
 3.A.7	(Nucleo)protein (donor cytoplasm) + ATP (in) â†’ (Nucleo)protein (recipient cytoplasm or medium) + ADP (in) + Pi (in)	(Nucleo)protein
-3.A.2	n H+/Na+ (in) + ATP â‡Œ n H+/Na+ (out) + ADP + Pi	nH+/Na+
+3.A.2	n H+ (in) + ATP â‡Œ n H+ (out) + ADP + Pi	H+
+3.A.2	n Na+ (in) + ATP ⇌ n Na+ (out) + ADP + Pi	Na+
 3.A.3	n Me1 (out) + m Me2 (in) + ATP â†’ n Me1 (in) + m Me2 (out) + ADP + Pi	Me1
 3.A.3	Phospholipid (outer leaflet of the membrane) + ATP â†’ Phospholipid (inner leaflet) + ADP + Pi	Phospholipid
 3.A.5	ATP + unfolded protein (cytoplasm) â‡Œ(pmf) ADP + Pi + unfolded protein (periplasm or cytoplasmic membrane)	unfolded protein
 3.A.16	misfolded protein (ER) â†’ misfolded protein (cytosol)	misfolded protein
 3.A.23	Protein and_or DNA (cytoplasm of the donor) â†’ Protein and_or DNA (cytoplasm of the recipient)	Protein and_or DNA
 3.A.20	protein (cytoplasm) â†’ protein (peroxisomal matrix/membrane)	protein
-3.A.6	Protein (bacterial cytoplasm) + ATP + H+/Na+ (out) â†’(pmf/smf) Protein (out or in the host cell cytoplasm) + ADP + Pi + H+/Na+ (in)	Protein
+3.A.6	Protein (bacterial cytoplasm) + ATP + H+ (out) â†’(pmf/smf) Protein (out or in the host cell cytoplasm) + ADP + Pi + H+ (in)	Protein
+3.A.6	Protein (bacterial cytoplasm) + ATP + Na+ (out) â†’(pmf/smf) Protein (out or in the host cell cytoplasm) + ADP + Pi + Na+ (in)	Protein
+
 3.A.31		
