@@ -5,59 +5,53 @@ apped over towhich reactions these genes facilitate
 according to the BLAST. Are they similar?
 
 --- Reaction Set 1 ---
-Substrates (BiGG IDs): adp, atp, h, h2o, mso3, pi
-Reactions: None
+Substrates (BiGG IDs): h, pppn
+Reactions:
+  - hydratropic acid  = hydratropic acid  |  CHEBI:48526 = CHEBI:48526
+  - hydratropic acid  + H+  = hydratropic acid  + H+  |  CHEBI:48526 + CHEBI:15378 = CHEBI:48526 + CHEBI:15378
 
 --- Reaction Set 2 ---
-Substrates (BiGG IDs): 23camp
-Reactions: None
-
---- Reaction Set 3 ---
-Substrates (BiGG IDs): ni2
-Reactions:
-  - Mn(2+) = Mn(2+)  |  CHEBI:29035 = CHEBI:29035
-  - Co(2+) = Co(2+)  |  CHEBI:48828 = CHEBI:48828
-  - Mg(2+) = Mg(2+)  |  CHEBI:18420 = CHEBI:18420
-
---- Reaction Set 4 ---
-Substrates (BiGG IDs): 3hpppn
-Reactions: None
-
---- Reaction Set 5 ---
-Substrates (BiGG IDs): h, mal__L
-Reactions:
-  - no_reaction_identified  |  no_reaction_identified
-
---- Reaction Set 6 ---
-Substrates (BiGG IDs): adp, atp, h, h2o, pg141, pi
+Substrates (BiGG IDs): adp, atp, h, h2o, pg180, pi
 Reactions:
   - phospholipid  + ATP = phospholipid  + ADP + Pi  |  CHEBI:8150 + CHEBI:15422 = CHEBI:8150 + CHEBI:16761 + CHEBI:18367
   - lipid As  + ATP = lipid As  + ADP + Pi  |  CHEBI:25051 + CHEBI:15422 = CHEBI:25051 + CHEBI:16761 + CHEBI:18367
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 7 ---
-Substrates (BiGG IDs): succ
-Reactions:
-  - succinate + 2 H(+) = succinate + 2 H(+)  |  CHEBI:30031 + 2 CHEBI:15378 = CHEBI:30031 + 2 CHEBI:15378
-  - L-aspartate + 2 H(+) = L-aspartate + 2 H(+)  |  CHEBI:29991 + 2 CHEBI:15378 = CHEBI:29991 + 2 CHEBI:15378
-  - fumarate + 2 H(+) = fumarate + 2 H(+)  |  CHEBI:29806 + 2 CHEBI:15378 = CHEBI:29806 + 2 CHEBI:15378
-
---- Reaction Set 8 ---
-Substrates (BiGG IDs): ethso3
+--- Reaction Set 3 ---
+Substrates (BiGG IDs): pep, pyr, sbt6p, sbt__D
 Reactions: None
 
---- Reaction Set 9 ---
-Substrates (BiGG IDs): rib__D
+--- Reaction Set 4 ---
+Substrates (BiGG IDs): ser__D
 Reactions: None
 
---- Reaction Set 10 ---
-Substrates (BiGG IDs): 2agpg141
+--- Reaction Set 5 ---
+Substrates (BiGG IDs): 2agpe141
 Reactions:
   - 1-O-acylglycerophosphoethanolamine  = 1-O-acylglycerophosphoethanolamine  |  CHEBI:55493 = CHEBI:55493
   - 1-O-acylglycerophosphoethanolamine  + H+  = 1-O-acylglycerophosphoethanolamine  + H+  |  CHEBI:55493 + CHEBI:15378 = CHEBI:55493 + CHEBI:15378
-  - 1-O-acylglycerophosphoethanolamine  + S2  = 1-O-acylglycerophosphoethanolamine  + S2  |  CHEBI:55493 + S2 = CHEBI:55493 + S2
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
-  - 2-monolysocardiolipin  + S2  = 2-monolysocardiolipin  + S2  |  CHEBI:60430 + S2 = CHEBI:60430 + S2
+
+--- Reaction Set 6 ---
+Substrates (BiGG IDs): 6pgg, cellb, pep, pyr
+Reactions: None
+
+--- Reaction Set 7 ---
+Substrates (BiGG IDs): h, hxa
+Reactions:
+  - no_reaction_identified  |  no_reaction_identified
+
+--- Reaction Set 8 ---
+Substrates (BiGG IDs): acgam
+Reactions: None
+
+--- Reaction Set 9 ---
+Substrates (BiGG IDs): ala__D
+Reactions: None
+
+--- Reaction Set 10 ---
+Substrates (BiGG IDs): feenter, h
+Reactions: None
 
