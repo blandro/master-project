@@ -14,10 +14,6 @@ def run_blast(user_fasta, evalue, identity, num_threads=8):
     os.makedirs(output_dir, exist_ok=True)
 
     # Run BLASTp and capture stdout
-    # blast_process = subprocess.run(
-    #     ["blastp", "-query", user_fasta, "-db", db_path, "-outfmt", "6", 
-    #      "-evalue", str(evalue), "-num_threads", str(num_threads)],
-    #     check=True, text=True, capture_output=True)
     try:
         blast_process = subprocess.run(["blastp", "-query", user_fasta, "-db", db_path, "-outfmt", "6", 
      "-evalue", str(evalue), "-num_threads", str(num_threads)], check=True, text=True, capture_output=True)

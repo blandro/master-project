@@ -38,12 +38,10 @@ Family	Mechanism	Acting Entity
 2.A.1	S (out) â‡Œ S (in)	S
 2.A.1	S (out) + H+ (out) â‡Œ S (in) + H+ (in)	S
 2.A.1  	S (out) + Na+ (out) â‡Œ S (in) + Na+ (in)	S
-2.A.1	S1 (out) + S2 (in) â‡Œ S1 (in) + S2 (out)	S1
 2.A.7		
 2.A.6	substrate (in) + n H+ (out) â†’ substrate (out) + n H+ (in)	substrate
 2.A.29	S1 (out) + S2 (in) â‡Œ S1 (in) + S2 (out)	S1
 2.A.3	S (out) + n H+ (out) â†’ S (in) + n H+ (in)	S
-2.A.3	S1 (out) + S2 (in) â‡Œ S1 (in) + S2 (out)	S1
 2.A.66		
 2.A.5	Me2+ (out) â†’(pmf) Me2+ (in)	Me2+
 2.A.18	substrate (out) + n H+ (out) â†’ substrate (in) + n H+ (in)	substrate
@@ -54,7 +52,6 @@ Family	Mechanism	Acting Entity
 3.A.7	(Nucleo)protein (donor cytoplasm) + ATP (in) â†’ (Nucleo)protein (recipient cytoplasm or medium) + ADP (in) + Pi (in)	(Nucleo)protein
 3.A.2	n H+ (in) + ATP â‡Œ n H+ (out) + ADP + Pi	H+
 3.A.2	n Na+ (in) + ATP ⇌ n Na+ (out) + ADP + Pi	Na+
-3.A.3	n Me1 (out) + m Me2 (in) + ATP â†’ n Me1 (in) + m Me2 (out) + ADP + Pi	Me1
 3.A.3	Phospholipid (outer leaflet of the membrane) + ATP â†’ Phospholipid (inner leaflet) + ADP + Pi	Phospholipid
 3.A.5	ATP + unfolded protein (cytoplasm) â‡Œ(pmf) ADP + Pi + unfolded protein (periplasm or cytoplasmic membrane)	unfolded protein
 3.A.16	misfolded protein (ER) â†’ misfolded protein (cytosol)	misfolded protein
@@ -62,5 +59,3 @@ Family	Mechanism	Acting Entity
 3.A.20	protein (cytoplasm) â†’ protein (peroxisomal matrix/membrane)	protein
 3.A.6	Protein (bacterial cytoplasm) + ATP + H+ (out) â†’(pmf/smf) Protein (out or in the host cell cytoplasm) + ADP + Pi + H+ (in)	Protein
 3.A.6	Protein (bacterial cytoplasm) + ATP + Na+ (out) â†’(pmf/smf) Protein (out or in the host cell cytoplasm) + ADP + Pi + Na+ (in)	Protein
-
-3.A.31		
