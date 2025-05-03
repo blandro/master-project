@@ -51,7 +51,8 @@ def save_venn3_plot(set1, set2, set3, labels, title, filepath):
             if label:
                 label.set_fontsize(14)
     plt.title(title, fontsize=20)
-    plt.savefig(filepath)
+    plt.tight_layout()
+    plt.savefig(filepath, bbox_inches='tight')
     plt.close()
 
 def save_venn2_plot(set1, set2, labels, title, filepath):
@@ -62,7 +63,8 @@ def save_venn2_plot(set1, set2, labels, title, filepath):
     for t in out.subset_labels:
         t.set_fontsize(14)
     plt.title(title, fontsize=18)
-    plt.savefig(filepath)
+    plt.tight_layout()
+    plt.savefig(filepath, bbox_inches='tight')
     plt.close()
 
 
