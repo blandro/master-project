@@ -3,8 +3,8 @@ that do not exist in the BLAST results.
 A mapping of the corresponding genes was done, and then 
 mapped over to the reactions these genes facilitate
 according to TDB.
-E-value: 10e-5
-Identity: 20
+E-value: 10e-8
+Identity: 30
 
 Distinct genes not found in TDB: [32]
 P0ABD1, P0AAI1, P0ABD3, P23857, P0AA80, P02921, P16691, P80645, P0AFK2, P24180
@@ -6409,6 +6409,18 @@ Reactions from TDB:
 Gene: Unknown
 
 --- Reaction Set 282 ---
+Substrates (BiGG IDs): pheme
+
+Genes facilitating this reaction according to iML1515:
+Unknown
+
+Reactions from iML1515:
+  - 1.0 Protoheme C34H30FeN4O4 = 1.0 Protoheme C34H30FeN4O4  |  1.0 CHEBI:60344 = 1.0 CHEBI:60344
+
+Reactions from TDB:
+Gene: Unknown
+
+--- Reaction Set 283 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pi, thr__L
 
 Genes facilitating this reaction according to iML1515:
@@ -6453,7 +6465,7 @@ Gene: P22731
   - phenylalanine  + ATP = phenylalanine  + ADP + Pi  |  CHEBI:28044 + CHEBI:15422 = CHEBI:28044 + CHEBI:16761 + CHEBI:18367
   - tyrosine  + ATP = tyrosine  + ADP + Pi  |  CHEBI:18186 + CHEBI:15422 = CHEBI:18186 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 283 ---
+--- Reaction Set 284 ---
 Substrates (BiGG IDs): duri, h
 
 Genes facilitating this reaction according to iML1515:
@@ -6484,7 +6496,7 @@ Gene: P0AFF2
   - uridine + H(+) = uridine + H(+)  |  CHEBI:16704 + CHEBI:15378 = CHEBI:16704 + CHEBI:15378
   - thymidine + H(+) = thymidine + H(+)  |  CHEBI:17748 + CHEBI:15378 = CHEBI:17748 + CHEBI:15378
 
---- Reaction Set 284 ---
+--- Reaction Set 285 ---
 Substrates (BiGG IDs): man6p, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -6498,7 +6510,7 @@ Gene: P0AGC0
   - phospho sugar  = phospho sugar  |  CHEBI:33447 = CHEBI:33447
   - phospho sugar  + H+  = phospho sugar  + H+  |  CHEBI:33447 + CHEBI:15378 = CHEBI:33447 + CHEBI:15378
 
---- Reaction Set 285 ---
+--- Reaction Set 286 ---
 Substrates (BiGG IDs): adp, arab__L, atp, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -6520,7 +6532,7 @@ Gene: P0AE26
   - arabinose  + ATP = arabinose  + ADP + Pi  |  CHEBI:22599 + CHEBI:15422 = CHEBI:22599 + CHEBI:16761 + CHEBI:18367
   - L-arabinose + ATP + H2O = L-arabinose + ADP + phosphate + H(+)  |  CHEBI:17535 + CHEBI:30616 + CHEBI:15377 = CHEBI:17535 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 286 ---
+--- Reaction Set 287 ---
 Substrates (BiGG IDs): 23camp
 
 Genes facilitating this reaction according to iML1515:
@@ -6548,7 +6560,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 287 ---
+--- Reaction Set 288 ---
 Substrates (BiGG IDs): duri
 
 Genes facilitating this reaction according to iML1515:
@@ -6561,7 +6573,7 @@ Reactions from TDB:
 Gene: P0A927
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 288 ---
+--- Reaction Set 289 ---
 Substrates (BiGG IDs): gam6p, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -6575,7 +6587,7 @@ Gene: P0AGC0
   - phospho sugar  = phospho sugar  |  CHEBI:33447 = CHEBI:33447
   - phospho sugar  + H+  = phospho sugar  + H+  |  CHEBI:33447 + CHEBI:15378 = CHEBI:33447 + CHEBI:15378
 
---- Reaction Set 289 ---
+--- Reaction Set 290 ---
 Substrates (BiGG IDs): fe3dhbzs, h
 
 Genes facilitating this reaction according to iML1515:
@@ -6600,7 +6612,7 @@ Gene: P02929
 Gene: P75780
   - dihydroxybenzoate  =(pmf) dihydroxybenzoate (periplasm)  |  CHEBI:36084 =(pmf) CHEBI:36084 (periplasm)
 
---- Reaction Set 290 ---
+--- Reaction Set 291 ---
 Substrates (BiGG IDs): g6p
 
 Genes facilitating this reaction according to iML1515:
@@ -6628,7 +6640,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 291 ---
+--- Reaction Set 292 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pe160, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -6644,7 +6656,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 292 ---
+--- Reaction Set 293 ---
 Substrates (BiGG IDs): 2agpe140
 
 Genes facilitating this reaction according to iML1515:
@@ -6660,7 +6672,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 293 ---
+--- Reaction Set 294 ---
 Substrates (BiGG IDs): etha
 
 Genes facilitating this reaction according to iML1515:
@@ -6688,7 +6700,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 294 ---
+--- Reaction Set 295 ---
 Substrates (BiGG IDs): h, lipoate
 
 Genes facilitating this reaction according to iML1515:
@@ -6700,7 +6712,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 295 ---
+--- Reaction Set 296 ---
 Substrates (BiGG IDs): acmum
 
 Genes facilitating this reaction according to iML1515:
@@ -6728,7 +6740,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 296 ---
+--- Reaction Set 297 ---
 Substrates (BiGG IDs): enter, fe2, feenter, fmn, fmnh2, h
 
 Genes facilitating this reaction according to iML1515:
@@ -6740,7 +6752,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 297 ---
+--- Reaction Set 298 ---
 Substrates (BiGG IDs): pydx
 
 Genes facilitating this reaction according to iML1515:
@@ -6771,7 +6783,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 298 ---
+--- Reaction Set 299 ---
 Substrates (BiGG IDs): 2odecg3p
 
 Genes facilitating this reaction according to iML1515:
@@ -6787,7 +6799,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 299 ---
+--- Reaction Set 300 ---
 Substrates (BiGG IDs): mal__D
 
 Genes facilitating this reaction according to iML1515:
@@ -6815,7 +6827,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 300 ---
+--- Reaction Set 301 ---
 Substrates (BiGG IDs): gthrd
 
 Genes facilitating this reaction according to iML1515:
@@ -6843,7 +6855,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 301 ---
+--- Reaction Set 302 ---
 Substrates (BiGG IDs): h, thym
 
 Genes facilitating this reaction according to iML1515:
@@ -6855,7 +6867,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 302 ---
+--- Reaction Set 303 ---
 Substrates (BiGG IDs): btal, butso3, fmn, fmnh2, h, h2o, o2, so3
 
 Genes facilitating this reaction according to iML1515:
@@ -6868,7 +6880,7 @@ Reactions from TDB:
 Gene: P80645
   - Gene not in TDB
 
---- Reaction Set 303 ---
+--- Reaction Set 304 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pi, spmd
 
 Genes facilitating this reaction according to iML1515:
@@ -6918,7 +6930,7 @@ Gene: P77795
   - putrescine  + ATP = putrescine  + ADP + Pi  |  CHEBI:17148 + CHEBI:15422 = CHEBI:17148 + CHEBI:16761 + CHEBI:18367
   - double-stranded DNA  + ATP = double-stranded DNA  + ADP + Pi  |  CHEBI:4705 + CHEBI:15422 = CHEBI:4705 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 304 ---
+--- Reaction Set 305 ---
 Substrates (BiGG IDs): hxan
 
 Genes facilitating this reaction according to iML1515:
@@ -6953,7 +6965,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 305 ---
+--- Reaction Set 306 ---
 Substrates (BiGG IDs): adp, atp, g3ps, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -6983,7 +6995,7 @@ Gene: P10905
   - glycerol 2-phosphate + ATP + H2O = glycerol 2-phosphate + ADP + phosphate + H(+)  |  CHEBI:58083 + CHEBI:30616 + CHEBI:15377 = CHEBI:58083 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - sn-glycerol 3-phosphate + ATP + H2O = sn-glycerol 3-phosphate + ADP + phosphate + H(+)  |  CHEBI:57597 + CHEBI:30616 + CHEBI:15377 = CHEBI:57597 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 306 ---
+--- Reaction Set 307 ---
 Substrates (BiGG IDs): fe2, fecrm, fecrm_un, fmn, fmnh2, h
 
 Genes facilitating this reaction according to iML1515:
@@ -6995,7 +7007,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 307 ---
+--- Reaction Set 308 ---
 Substrates (BiGG IDs): ura
 
 Genes facilitating this reaction according to iML1515:
@@ -7026,7 +7038,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 308 ---
+--- Reaction Set 309 ---
 Substrates (BiGG IDs): gam, gam6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -7051,7 +7063,7 @@ Gene: P0AA04
 Gene: P69805
   - D-mannose + N(pros)-phospho-L-histidyl-[protein] = D-mannose 6-phosphate + L-histidyl-[protein]  |  CHEBI:4208 + CHEBI:64837 = CHEBI:58735 + CHEBI:29979
 
---- Reaction Set 309 ---
+--- Reaction Set 310 ---
 Substrates (BiGG IDs): acmum, acmum6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -7073,7 +7085,7 @@ Gene: P69783
 Gene: P77272
   - N-acetyl-beta-D-muramate + N(pros)-phospho-L-histidyl-[protein] = N-acetyl-beta-D-muramate 6-phosphate + L-histidyl-[protein]  |  CHEBI:64848 + CHEBI:64837 = CHEBI:58721 + CHEBI:29979
 
---- Reaction Set 310 ---
+--- Reaction Set 311 ---
 Substrates (BiGG IDs): hg2
 
 Genes facilitating this reaction according to iML1515:
@@ -7101,7 +7113,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 311 ---
+--- Reaction Set 312 ---
 Substrates (BiGG IDs): fum
 
 Genes facilitating this reaction according to iML1515:
@@ -7135,7 +7147,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 312 ---
+--- Reaction Set 313 ---
 Substrates (BiGG IDs): h, hg2
 
 Genes facilitating this reaction according to iML1515:
@@ -7150,7 +7162,7 @@ Gene: P69380
   - Fe(2+) + H(+) = Fe(2+) + H(+)  |  CHEBI:29033 + CHEBI:15378 = CHEBI:29033 + CHEBI:15378
   - Cd(2+) + H(+) = Cd(2+) + H(+)  |  CHEBI:48775 + CHEBI:15378 = CHEBI:48775 + CHEBI:15378
 
---- Reaction Set 313 ---
+--- Reaction Set 314 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pi, tungs
 
 Genes facilitating this reaction according to iML1515:
@@ -7172,7 +7184,7 @@ Gene: P09833
   - molybdate + ATP + H2O = molybdate + ADP + phosphate + H(+)  |  CHEBI:36264 + CHEBI:30616 + CHEBI:15377 = CHEBI:36264 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - molybdate  + ATP = molybdate  + ADP + Pi  |  CHEBI:36264 + CHEBI:15422 = CHEBI:36264 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 314 ---
+--- Reaction Set 315 ---
 Substrates (BiGG IDs): ttdca
 
 Genes facilitating this reaction according to iML1515:
@@ -7185,7 +7197,7 @@ Reactions from TDB:
 Gene: P10384
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 315 ---
+--- Reaction Set 316 ---
 Substrates (BiGG IDs): mobd
 
 Genes facilitating this reaction according to iML1515:
@@ -7213,7 +7225,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 316 ---
+--- Reaction Set 317 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pe141, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7229,7 +7241,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 317 ---
+--- Reaction Set 318 ---
 Substrates (BiGG IDs): mincyc
 
 Genes facilitating this reaction according to iML1515:
@@ -7257,7 +7269,7 @@ Gene: P06996
   - orobol  = orobol  |  CHEBI:69437 = CHEBI:69437
   - antimicrobial agent  = antimicrobial agent  |  CHEBI:22582 = CHEBI:22582
 
---- Reaction Set 318 ---
+--- Reaction Set 319 ---
 Substrates (BiGG IDs): acac, h
 
 Genes facilitating this reaction according to iML1515:
@@ -7270,7 +7282,7 @@ Reactions from TDB:
 Gene: P76460
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 319 ---
+--- Reaction Set 320 ---
 Substrates (BiGG IDs): 5mtr, h
 
 Genes facilitating this reaction according to iML1515:
@@ -7282,7 +7294,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 320 ---
+--- Reaction Set 321 ---
 Substrates (BiGG IDs): ala__D
 
 Genes facilitating this reaction according to iML1515:
@@ -7310,7 +7322,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 321 ---
+--- Reaction Set 322 ---
 Substrates (BiGG IDs): etha, h
 
 Genes facilitating this reaction according to iML1515:
@@ -7322,7 +7334,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 322 ---
+--- Reaction Set 323 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, malthx, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7352,7 +7364,7 @@ Gene: P68183
   - maltose  + ATP = maltose  + ADP + Pi  |  CHEBI:17306 + CHEBI:15422 = CHEBI:17306 + CHEBI:16761 + CHEBI:18367
   - D-maltose + ATP + H2O = D-maltose + ADP + phosphate + H(+)  |  CHEBI:17306 + CHEBI:30616 + CHEBI:15377 = CHEBI:17306 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 323 ---
+--- Reaction Set 324 ---
 Substrates (BiGG IDs): adp, atp, glc__D, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7380,7 +7392,7 @@ Gene: P0AEE5
   - glucose  + ATP = glucose  + ADP + Pi  |  CHEBI:5418 + CHEBI:15422 = CHEBI:5418 + CHEBI:16761 + CHEBI:18367
   - galactose  + ATP = galactose  + ADP + Pi  |  CHEBI:5256 + CHEBI:15422 = CHEBI:5256 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 324 ---
+--- Reaction Set 325 ---
 Substrates (BiGG IDs): man, man6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -7405,7 +7417,7 @@ Gene: P0AA04
 Gene: P69805
   - D-mannose + N(pros)-phospho-L-histidyl-[protein] = D-mannose 6-phosphate + L-histidyl-[protein]  |  CHEBI:4208 + CHEBI:64837 = CHEBI:58735 + CHEBI:29979
 
---- Reaction Set 325 ---
+--- Reaction Set 326 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, ile__L, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7450,7 +7462,7 @@ Gene: P22731
   - phenylalanine  + ATP = phenylalanine  + ADP + Pi  |  CHEBI:28044 + CHEBI:15422 = CHEBI:28044 + CHEBI:16761 + CHEBI:18367
   - tyrosine  + ATP = tyrosine  + ADP + Pi  |  CHEBI:18186 + CHEBI:15422 = CHEBI:18186 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 326 ---
+--- Reaction Set 327 ---
 Substrates (BiGG IDs): rfamp
 
 Genes facilitating this reaction according to iML1515:
@@ -7462,7 +7474,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 327 ---
+--- Reaction Set 328 ---
 Substrates (BiGG IDs): arbtn_fe3, h
 
 Genes facilitating this reaction according to iML1515:
@@ -7474,7 +7486,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 328 ---
+--- Reaction Set 329 ---
 Substrates (BiGG IDs): tartr__D
 
 Genes facilitating this reaction according to iML1515:
@@ -7502,7 +7514,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 329 ---
+--- Reaction Set 330 ---
 Substrates (BiGG IDs): 23cump
 
 Genes facilitating this reaction according to iML1515:
@@ -7530,7 +7542,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 330 ---
+--- Reaction Set 331 ---
 Substrates (BiGG IDs): so2
 
 Genes facilitating this reaction according to iML1515:
@@ -7561,7 +7573,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 331 ---
+--- Reaction Set 332 ---
 Substrates (BiGG IDs): h, rfamp
 
 Genes facilitating this reaction according to iML1515:
@@ -7602,7 +7614,7 @@ Gene: P31224
   - drug  + n H+  = drug  + n H+  |  CHEBI:23888 + n CHEBI:15378 = CHEBI:23888 + n CHEBI:15378
   - dye  + n H+  = dye  + n H+  |  CHEBI:37958 + n CHEBI:15378 = CHEBI:37958 + n CHEBI:15378
 
---- Reaction Set 332 ---
+--- Reaction Set 333 ---
 Substrates (BiGG IDs): fruur, h
 
 Genes facilitating this reaction according to iML1515:
@@ -7615,7 +7627,7 @@ Reactions from TDB:
 Gene: P0AC94
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 333 ---
+--- Reaction Set 334 ---
 Substrates (BiGG IDs): pnto__R
 
 Genes facilitating this reaction according to iML1515:
@@ -7643,7 +7655,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 334 ---
+--- Reaction Set 335 ---
 Substrates (BiGG IDs): aso3
 
 Genes facilitating this reaction according to iML1515:
@@ -7671,7 +7683,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 335 ---
+--- Reaction Set 336 ---
 Substrates (BiGG IDs): alaala
 
 Genes facilitating this reaction according to iML1515:
@@ -7699,7 +7711,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 336 ---
+--- Reaction Set 337 ---
 Substrates (BiGG IDs): f6p, fru, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -7724,7 +7736,7 @@ Gene: P0AA04
 Gene: P69805
   - D-mannose + N(pros)-phospho-L-histidyl-[protein] = D-mannose 6-phosphate + L-histidyl-[protein]  |  CHEBI:4208 + CHEBI:64837 = CHEBI:58735 + CHEBI:29979
 
---- Reaction Set 337 ---
+--- Reaction Set 338 ---
 Substrates (BiGG IDs): f1p, fru, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -7746,7 +7758,7 @@ Gene: P08839
 Gene: P69811
   - D-fructose + N(pros)-phospho-L-histidyl-[protein] = D-fructose 1-phosphate + L-histidyl-[protein]  |  CHEBI:37721 + CHEBI:64837 = CHEBI:58674 + CHEBI:29979
 
---- Reaction Set 338 ---
+--- Reaction Set 339 ---
 Substrates (BiGG IDs): adp, atp, g3pi, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7776,7 +7788,7 @@ Gene: P10905
   - glycerol 2-phosphate + ATP + H2O = glycerol 2-phosphate + ADP + phosphate + H(+)  |  CHEBI:58083 + CHEBI:30616 + CHEBI:15377 = CHEBI:58083 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - sn-glycerol 3-phosphate + ATP + H2O = sn-glycerol 3-phosphate + ADP + phosphate + H(+)  |  CHEBI:57597 + CHEBI:30616 + CHEBI:15377 = CHEBI:57597 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 339 ---
+--- Reaction Set 340 ---
 Substrates (BiGG IDs): ca2
 
 Genes facilitating this reaction according to iML1515:
@@ -7804,7 +7816,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 340 ---
+--- Reaction Set 341 ---
 Substrates (BiGG IDs): 2ddecg3p
 
 Genes facilitating this reaction according to iML1515:
@@ -7820,7 +7832,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 341 ---
+--- Reaction Set 342 ---
 Substrates (BiGG IDs): h, rmn
 
 Genes facilitating this reaction according to iML1515:
@@ -7835,7 +7847,7 @@ Gene: P27125
   - L-lyxopyranose + H(+) = L-lyxopyranose + H(+)  |  CHEBI:62321 + CHEBI:15378 = CHEBI:62321 + CHEBI:15378
   - L-rhamnopyranose + H(+) = L-rhamnopyranose + H(+)  |  CHEBI:62346 + CHEBI:15378 = CHEBI:62346 + CHEBI:15378
 
---- Reaction Set 342 ---
+--- Reaction Set 343 ---
 Substrates (BiGG IDs): 2agpg120
 
 Genes facilitating this reaction according to iML1515:
@@ -7851,7 +7863,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 343 ---
+--- Reaction Set 344 ---
 Substrates (BiGG IDs): dad_2
 
 Genes facilitating this reaction according to iML1515:
@@ -7864,7 +7876,7 @@ Reactions from TDB:
 Gene: P0A927
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 344 ---
+--- Reaction Set 345 ---
 Substrates (BiGG IDs): dcyt
 
 Genes facilitating this reaction according to iML1515:
@@ -7877,7 +7889,7 @@ Reactions from TDB:
 Gene: P0A927
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 345 ---
+--- Reaction Set 346 ---
 Substrates (BiGG IDs): thrp
 
 Genes facilitating this reaction according to iML1515:
@@ -7905,7 +7917,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 346 ---
+--- Reaction Set 347 ---
 Substrates (BiGG IDs): h, mmet
 
 Genes facilitating this reaction according to iML1515:
@@ -7919,7 +7931,7 @@ Gene: Q47689
   - N-methyl-L-methionine  + n H+  = N-methyl-L-methionine  + n H+  |  CHEBI:44003 + n CHEBI:15378 = CHEBI:44003 + n CHEBI:15378
   - S-methyl-L-methionine  + n H+  = S-methyl-L-methionine  + n H+  |  CHEBI:17728 + n CHEBI:15378 = CHEBI:17728 + n CHEBI:15378
 
---- Reaction Set 347 ---
+--- Reaction Set 348 ---
 Substrates (BiGG IDs): pep, pyr, sbt6p, sbt__D
 
 Genes facilitating this reaction according to iML1515:
@@ -7944,7 +7956,7 @@ Gene: P0AA04
 Gene: P56580
   - D-sorbitol + N(pros)-phospho-L-histidyl-[protein] = D-sorbitol 6-phosphate + L-histidyl-[protein]  |  CHEBI:17924 + CHEBI:64837 = CHEBI:60084 + CHEBI:29979
 
---- Reaction Set 348 ---
+--- Reaction Set 349 ---
 Substrates (BiGG IDs): adp, atp, gal, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -7988,7 +8000,7 @@ Gene: P39328
   - UDP-sugar  + ATP = UDP-sugar  + ADP + Pi  |  CHEBI:9840 + CHEBI:15422 = CHEBI:9840 + CHEBI:16761 + CHEBI:18367
   - D-galactofuranose + ATP + H2O = D-galactofuranose + ADP + phosphate + H(+)  |  CHEBI:143624 + CHEBI:30616 + CHEBI:15377 = CHEBI:143624 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 349 ---
+--- Reaction Set 350 ---
 Substrates (BiGG IDs): h, mincyc
 
 Genes facilitating this reaction according to iML1515:
@@ -8029,7 +8041,7 @@ Gene: P31224
   - drug  + n H+  = drug  + n H+  |  CHEBI:23888 + n CHEBI:15378 = CHEBI:23888 + n CHEBI:15378
   - dye  + n H+  = dye  + n H+  |  CHEBI:37958 + n CHEBI:15378 = CHEBI:37958 + n CHEBI:15378
 
---- Reaction Set 350 ---
+--- Reaction Set 351 ---
 Substrates (BiGG IDs): orot
 
 Genes facilitating this reaction according to iML1515:
@@ -8057,7 +8069,7 @@ Gene: P06996
 Gene: P02932
   - phosphate(3-)  = phosphate(3-)  |  CHEBI:18367 = CHEBI:18367
 
---- Reaction Set 351 ---
+--- Reaction Set 352 ---
 Substrates (BiGG IDs): cit, fe2, fe3dcit, h, nadp, nadph
 
 Genes facilitating this reaction according to iML1515:
@@ -8070,7 +8082,7 @@ Reactions from TDB:
 Gene: Q46871
   - Gene not in TDB
 
---- Reaction Set 352 ---
+--- Reaction Set 353 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, mepn, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -8092,7 +8104,7 @@ Gene: P16677
   - phosphonate + ATP + H2O = phosphonate + ADP + phosphate + H(+)  |  CHEBI:16215 + CHEBI:30616 + CHEBI:15377 = CHEBI:16215 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - iron(3+)  + ATP = iron(3+)  + ADP + Pi  |  CHEBI:29034 + CHEBI:15422 = CHEBI:29034 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 353 ---
+--- Reaction Set 354 ---
 Substrates (BiGG IDs): udpacgal
 
 Genes facilitating this reaction according to iML1515:
@@ -8120,7 +8132,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 354 ---
+--- Reaction Set 355 ---
 Substrates (BiGG IDs): ala_B, h
 
 Genes facilitating this reaction according to iML1515:
@@ -8144,7 +8156,7 @@ Gene: P0AAE0
   - serine  + n H+  = serine  + n H+  |  CHEBI:17822 + n CHEBI:15378 = CHEBI:17822 + n CHEBI:15378
   - D-cycloserine  + n H+  = D-cycloserine  + n H+  |  CHEBI:40009 + n CHEBI:15378 = CHEBI:40009 + n CHEBI:15378
 
---- Reaction Set 355 ---
+--- Reaction Set 356 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pg180, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -8160,7 +8172,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 356 ---
+--- Reaction Set 357 ---
 Substrates (BiGG IDs): pser__L
 
 Genes facilitating this reaction according to iML1515:
@@ -8188,7 +8200,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 357 ---
+--- Reaction Set 358 ---
 Substrates (BiGG IDs): 12dgr161
 
 Genes facilitating this reaction according to iML1515:
@@ -8200,7 +8212,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 358 ---
+--- Reaction Set 359 ---
 Substrates (BiGG IDs): glcur
 
 Genes facilitating this reaction according to iML1515:
@@ -8228,7 +8240,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 359 ---
+--- Reaction Set 360 ---
 Substrates (BiGG IDs): chol
 
 Genes facilitating this reaction according to iML1515:
@@ -8256,7 +8268,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 360 ---
+--- Reaction Set 361 ---
 Substrates (BiGG IDs): h, pppn
 
 Genes facilitating this reaction according to iML1515:
@@ -8270,7 +8282,7 @@ Gene: Q47142
   - hydratropic acid  = hydratropic acid  |  CHEBI:48526 = CHEBI:48526
   - hydratropic acid  + H+  = hydratropic acid  + H+  |  CHEBI:48526 + CHEBI:15378 = CHEBI:48526 + CHEBI:15378
 
---- Reaction Set 361 ---
+--- Reaction Set 362 ---
 Substrates (BiGG IDs): fe2, fe3, h, h2o, o2
 
 Genes facilitating this reaction according to iML1515:
@@ -8286,7 +8298,7 @@ Gene: P36649
 Gene: P0ABD3
   - Gene not in TDB
 
---- Reaction Set 362 ---
+--- Reaction Set 363 ---
 Substrates (BiGG IDs): acald
 
 Genes facilitating this reaction according to iML1515:
@@ -8317,7 +8329,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 363 ---
+--- Reaction Set 364 ---
 Substrates (BiGG IDs): fad
 
 Genes facilitating this reaction according to iML1515:
@@ -8349,7 +8361,7 @@ Gene: P77747
 Gene: P76352
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 364 ---
+--- Reaction Set 365 ---
 Substrates (BiGG IDs): 23cgmp
 
 Genes facilitating this reaction according to iML1515:
@@ -8377,7 +8389,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 365 ---
+--- Reaction Set 366 ---
 Substrates (BiGG IDs): dtmp
 
 Genes facilitating this reaction according to iML1515:
@@ -8405,7 +8417,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 366 ---
+--- Reaction Set 367 ---
 Substrates (BiGG IDs): glcur1p
 
 Genes facilitating this reaction according to iML1515:
@@ -8433,7 +8445,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 367 ---
+--- Reaction Set 368 ---
 Substrates (BiGG IDs): dha
 
 Genes facilitating this reaction according to iML1515:
@@ -8464,7 +8476,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 368 ---
+--- Reaction Set 369 ---
 Substrates (BiGG IDs): nac
 
 Genes facilitating this reaction according to iML1515:
@@ -8495,7 +8507,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 369 ---
+--- Reaction Set 370 ---
 Substrates (BiGG IDs): dgmp
 
 Genes facilitating this reaction according to iML1515:
@@ -8523,7 +8535,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 370 ---
+--- Reaction Set 371 ---
 Substrates (BiGG IDs): h, urate
 
 Genes facilitating this reaction according to iML1515:
@@ -8536,7 +8548,7 @@ Reactions from TDB:
 Gene: Q46821
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 371 ---
+--- Reaction Set 372 ---
 Substrates (BiGG IDs): mmet
 
 Genes facilitating this reaction according to iML1515:
@@ -8564,7 +8576,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 372 ---
+--- Reaction Set 373 ---
 Substrates (BiGG IDs): man6pglyc, manglyc, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -8583,7 +8595,7 @@ Gene: P54745
 Gene: P08839
   - L-histidyl-[protein] + phosphoenolpyruvate = N(pros)-phospho-L-histidyl-[protein] + pyruvate  |  CHEBI:29979 + CHEBI:58702 = CHEBI:64837 + CHEBI:15361
 
---- Reaction Set 373 ---
+--- Reaction Set 374 ---
 Substrates (BiGG IDs): fe3, fecrm, fecrm_un
 
 Genes facilitating this reaction according to iML1515:
@@ -8595,7 +8607,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 374 ---
+--- Reaction Set 375 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pgp161, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -8611,7 +8623,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 375 ---
+--- Reaction Set 376 ---
 Substrates (BiGG IDs): so4
 
 Genes facilitating this reaction according to iML1515:
@@ -8639,7 +8651,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 376 ---
+--- Reaction Set 377 ---
 Substrates (BiGG IDs): 26dap__M
 
 Genes facilitating this reaction according to iML1515:
@@ -8667,7 +8679,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 377 ---
+--- Reaction Set 378 ---
 Substrates (BiGG IDs): metglcur
 
 Genes facilitating this reaction according to iML1515:
@@ -8695,7 +8707,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 378 ---
+--- Reaction Set 379 ---
 Substrates (BiGG IDs): h, his__L
 
 Genes facilitating this reaction according to iML1515:
@@ -8713,7 +8725,7 @@ Gene: P15993
   - tryptophan  + n H+  = tryptophan  + n H+  |  CHEBI:27897 + n CHEBI:15378 = CHEBI:27897 + n CHEBI:15378
   - tyrosine  + n H+  = tyrosine  + n H+  |  CHEBI:18186 + n CHEBI:15378 = CHEBI:18186 + n CHEBI:15378
 
---- Reaction Set 379 ---
+--- Reaction Set 380 ---
 Substrates (BiGG IDs): h, melib
 
 Genes facilitating this reaction according to iML1515:
@@ -8753,7 +8765,7 @@ Gene: P02920
 Gene: P02921
   - Gene not in TDB
 
---- Reaction Set 380 ---
+--- Reaction Set 381 ---
 Substrates (BiGG IDs): 3ump
 
 Genes facilitating this reaction according to iML1515:
@@ -8781,7 +8793,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 381 ---
+--- Reaction Set 382 ---
 Substrates (BiGG IDs): h2s
 
 Genes facilitating this reaction according to iML1515:
@@ -8812,7 +8824,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 382 ---
+--- Reaction Set 383 ---
 Substrates (BiGG IDs): h, leu__L
 
 Genes facilitating this reaction according to iML1515:
@@ -8836,7 +8848,7 @@ Gene: P39277
 Gene: P0AD99
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 383 ---
+--- Reaction Set 384 ---
 Substrates (BiGG IDs): 2agpe180
 
 Genes facilitating this reaction according to iML1515:
@@ -8852,7 +8864,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 384 ---
+--- Reaction Set 385 ---
 Substrates (BiGG IDs): melib
 
 Genes facilitating this reaction according to iML1515:
@@ -8880,7 +8892,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 385 ---
+--- Reaction Set 386 ---
 Substrates (BiGG IDs): ppal
 
 Genes facilitating this reaction according to iML1515:
@@ -8911,7 +8923,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 386 ---
+--- Reaction Set 387 ---
 Substrates (BiGG IDs): 12ppd__R
 
 Genes facilitating this reaction according to iML1515:
@@ -8942,7 +8954,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 387 ---
+--- Reaction Set 388 ---
 Substrates (BiGG IDs): succ
 
 Genes facilitating this reaction according to iML1515:
@@ -8976,7 +8988,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 388 ---
+--- Reaction Set 389 ---
 Substrates (BiGG IDs): galct__D, h
 
 Genes facilitating this reaction according to iML1515:
@@ -8992,7 +9004,7 @@ Gene: P0AA80
 Gene: Q46916
   - Gene not in TDB
 
---- Reaction Set 389 ---
+--- Reaction Set 390 ---
 Substrates (BiGG IDs): butso3
 
 Genes facilitating this reaction according to iML1515:
@@ -9020,7 +9032,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 390 ---
+--- Reaction Set 391 ---
 Substrates (BiGG IDs): puacgam
 
 Genes facilitating this reaction according to iML1515:
@@ -9036,7 +9048,7 @@ Gene: P69432
 Gene: P75905
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 391 ---
+--- Reaction Set 392 ---
 Substrates (BiGG IDs): ppa
 
 Genes facilitating this reaction according to iML1515:
@@ -9064,7 +9076,7 @@ Gene: P06996
   - orobol  = orobol  |  CHEBI:69437 = CHEBI:69437
   - antimicrobial agent  = antimicrobial agent  |  CHEBI:22582 = CHEBI:22582
 
---- Reaction Set 392 ---
+--- Reaction Set 393 ---
 Substrates (BiGG IDs): fe2, fe3hox, fe3hox_un, h, rbflvrd, ribflv
 
 Genes facilitating this reaction according to iML1515:
@@ -9076,7 +9088,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 393 ---
+--- Reaction Set 394 ---
 Substrates (BiGG IDs): csn
 
 Genes facilitating this reaction according to iML1515:
@@ -9104,7 +9116,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 394 ---
+--- Reaction Set 395 ---
 Substrates (BiGG IDs): adp, atp, cobalt2, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9126,7 +9138,7 @@ Gene: P37617
   - nickel(2+) (outer leaflet of the membrane) + ATP = nickel(2+) (inner leaflet) + ADP + Pi  |  CHEBI:49786 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:49786 (inner leaflet) + CHEBI:16761 + CHEBI:18367
   - zinc(2+) (outer leaflet of the membrane) + ATP = zinc(2+) (inner leaflet) + ADP + Pi  |  CHEBI:29105 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:29105 (inner leaflet) + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 395 ---
+--- Reaction Set 396 ---
 Substrates (BiGG IDs): csn, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9139,7 +9151,7 @@ Reactions from TDB:
 Gene: P0AA82
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 396 ---
+--- Reaction Set 397 ---
 Substrates (BiGG IDs): h, mn2
 
 Genes facilitating this reaction according to iML1515:
@@ -9161,7 +9173,7 @@ Gene: P69380
   - Fe(2+) + H(+) = Fe(2+) + H(+)  |  CHEBI:29033 + CHEBI:15378 = CHEBI:29033 + CHEBI:15378
   - Cd(2+) + H(+) = Cd(2+) + H(+)  |  CHEBI:48775 + CHEBI:15378 = CHEBI:48775 + CHEBI:15378
 
---- Reaction Set 397 ---
+--- Reaction Set 398 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pg120, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9177,7 +9189,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 398 ---
+--- Reaction Set 399 ---
 Substrates (BiGG IDs): indole
 
 Genes facilitating this reaction according to iML1515:
@@ -9205,7 +9217,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 399 ---
+--- Reaction Set 400 ---
 Substrates (BiGG IDs): chtbs, chtbs6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -9230,7 +9242,7 @@ Gene: P0AA04
 Gene: P69791
   - N,N'-diacetylchitobiose + N(pros)-phospho-L-histidyl-[protein] = diacetylchitobiose-6'-phosphate + L-histidyl-[protein]  |  CHEBI:28681 + CHEBI:64837 = CHEBI:64883 + CHEBI:29979
 
---- Reaction Set 400 ---
+--- Reaction Set 401 ---
 Substrates (BiGG IDs): gam
 
 Genes facilitating this reaction according to iML1515:
@@ -9258,7 +9270,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 401 ---
+--- Reaction Set 402 ---
 Substrates (BiGG IDs): glyc__R
 
 Genes facilitating this reaction according to iML1515:
@@ -9286,7 +9298,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 402 ---
+--- Reaction Set 403 ---
 Substrates (BiGG IDs): xan
 
 Genes facilitating this reaction according to iML1515:
@@ -9317,7 +9329,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 403 ---
+--- Reaction Set 404 ---
 Substrates (BiGG IDs): acmana, acmanap, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -9342,7 +9354,7 @@ Gene: P0AA04
 Gene: P69805
   - D-mannose + N(pros)-phospho-L-histidyl-[protein] = D-mannose 6-phosphate + L-histidyl-[protein]  |  CHEBI:4208 + CHEBI:64837 = CHEBI:58735 + CHEBI:29979
 
---- Reaction Set 404 ---
+--- Reaction Set 405 ---
 Substrates (BiGG IDs): cpgn, cpgn_un, fe2, h, rbflvrd, ribflv
 
 Genes facilitating this reaction according to iML1515:
@@ -9354,7 +9366,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 405 ---
+--- Reaction Set 406 ---
 Substrates (BiGG IDs): arbtn, arbtn_fe3, fe2, fmn, fmnh2, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9366,7 +9378,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 406 ---
+--- Reaction Set 407 ---
 Substrates (BiGG IDs): gal1p
 
 Genes facilitating this reaction according to iML1515:
@@ -9394,7 +9406,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 407 ---
+--- Reaction Set 408 ---
 Substrates (BiGG IDs): tmao
 
 Genes facilitating this reaction according to iML1515:
@@ -9422,7 +9434,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 408 ---
+--- Reaction Set 409 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pgp140, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9438,7 +9450,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 409 ---
+--- Reaction Set 410 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pi, sel
 
 Genes facilitating this reaction according to iML1515:
@@ -9478,7 +9490,7 @@ Gene: P0AG78
   - sulfate + ATP + H2O = sulfate + ADP + phosphate + H(+)  |  CHEBI:16189 + CHEBI:30616 + CHEBI:15377 = CHEBI:16189 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - thiosulfate + ATP + H2O = thiosulfate + ADP + phosphate + H(+)  |  CHEBI:33542 + CHEBI:30616 + CHEBI:15377 = CHEBI:33542 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 410 ---
+--- Reaction Set 411 ---
 Substrates (BiGG IDs): cmp
 
 Genes facilitating this reaction according to iML1515:
@@ -9506,7 +9518,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 411 ---
+--- Reaction Set 412 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pg140, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9522,7 +9534,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 412 ---
+--- Reaction Set 413 ---
 Substrates (BiGG IDs): 3hpp
 
 Genes facilitating this reaction according to iML1515:
@@ -9550,7 +9562,7 @@ Gene: P06996
 Gene: P02932
   - phosphate(3-)  = phosphate(3-)  |  CHEBI:18367 = CHEBI:18367
 
---- Reaction Set 413 ---
+--- Reaction Set 414 ---
 Substrates (BiGG IDs): imp
 
 Genes facilitating this reaction according to iML1515:
@@ -9578,7 +9590,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 414 ---
+--- Reaction Set 415 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pa160, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9594,7 +9606,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 415 ---
+--- Reaction Set 416 ---
 Substrates (BiGG IDs): cs1
 
 Genes facilitating this reaction according to iML1515:
@@ -9622,7 +9634,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 416 ---
+--- Reaction Set 417 ---
 Substrates (BiGG IDs): 4abzglu
 
 Genes facilitating this reaction according to iML1515:
@@ -9650,7 +9662,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 417 ---
+--- Reaction Set 418 ---
 Substrates (BiGG IDs): arbtn, arbtn_fe3, fe2, h, rbflvrd, ribflv
 
 Genes facilitating this reaction according to iML1515:
@@ -9662,7 +9674,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 418 ---
+--- Reaction Set 419 ---
 Substrates (BiGG IDs): xmp
 
 Genes facilitating this reaction according to iML1515:
@@ -9690,7 +9702,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 419 ---
+--- Reaction Set 420 ---
 Substrates (BiGG IDs): feoxam, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9714,7 +9726,7 @@ Gene: P06971
 Gene: P02929
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 420 ---
+--- Reaction Set 421 ---
 Substrates (BiGG IDs): adp, atp, feoxam, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -9736,7 +9748,7 @@ Gene: P06972
   - iron(III) hydroxamate  + ATP = iron(III) hydroxamate  + ADP + Pi  |  CHEBI:28163 + CHEBI:15422 = CHEBI:28163 + CHEBI:16761 + CHEBI:18367
   - elaiophylin  + ATP = elaiophylin  + ADP + Pi  |  CHEBI:77879 + CHEBI:15422 = CHEBI:77879 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 421 ---
+--- Reaction Set 422 ---
 Substrates (BiGG IDs): fe3dcit, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9758,7 +9770,7 @@ Gene: P02929
 Gene: P13036
   - Fe(III)-complexed siderophore  =(pmf) Fe(III)-complexed siderophore (periplasm)  |  CHEBI:84734 =(pmf) CHEBI:84734 (periplasm)
 
---- Reaction Set 422 ---
+--- Reaction Set 423 ---
 Substrates (BiGG IDs): crn, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9792,7 +9804,7 @@ Gene: P0C0L7
   - 3-pyridylacetic acid  = 3-pyridylacetic acid  |  CHEBI:86390 = CHEBI:86390
   - 3-pyridylacetic acid  + H+  = 3-pyridylacetic acid  + H+  |  CHEBI:86390 + CHEBI:15378 = CHEBI:86390 + CHEBI:15378
 
---- Reaction Set 423 ---
+--- Reaction Set 424 ---
 Substrates (BiGG IDs): acgam, acgam6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -9817,7 +9829,7 @@ Gene: P69783
 Gene: P0AA04
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 424 ---
+--- Reaction Set 425 ---
 Substrates (BiGG IDs): gal_bD
 
 Genes facilitating this reaction according to iML1515:
@@ -9845,7 +9857,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 425 ---
+--- Reaction Set 426 ---
 Substrates (BiGG IDs): dcmp
 
 Genes facilitating this reaction according to iML1515:
@@ -9873,7 +9885,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 426 ---
+--- Reaction Set 427 ---
 Substrates (BiGG IDs): thm
 
 Genes facilitating this reaction according to iML1515:
@@ -9901,7 +9913,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 427 ---
+--- Reaction Set 428 ---
 Substrates (BiGG IDs): h, h2s, o2, so4
 
 Genes facilitating this reaction according to iML1515:
@@ -9913,7 +9925,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 428 ---
+--- Reaction Set 429 ---
 Substrates (BiGG IDs): fe2, fe3hox, fe3hox_un, fmn, fmnh2, h
 
 Genes facilitating this reaction according to iML1515:
@@ -9925,7 +9937,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 429 ---
+--- Reaction Set 430 ---
 Substrates (BiGG IDs): pacald
 
 Genes facilitating this reaction according to iML1515:
@@ -9953,7 +9965,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 430 ---
+--- Reaction Set 431 ---
 Substrates (BiGG IDs): inost, na1
 
 Genes facilitating this reaction according to iML1515:
@@ -9966,7 +9978,7 @@ Reactions from TDB:
 Gene: P31448
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 431 ---
+--- Reaction Set 432 ---
 Substrates (BiGG IDs): cyan
 
 Genes facilitating this reaction according to iML1515:
@@ -9994,7 +10006,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 432 ---
+--- Reaction Set 433 ---
 Substrates (BiGG IDs): no
 
 Genes facilitating this reaction according to iML1515:
@@ -10025,7 +10037,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 433 ---
+--- Reaction Set 434 ---
 Substrates (BiGG IDs): 2tdecg3p
 
 Genes facilitating this reaction according to iML1515:
@@ -10041,7 +10053,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 434 ---
+--- Reaction Set 435 ---
 Substrates (BiGG IDs): sulfac
 
 Genes facilitating this reaction according to iML1515:
@@ -10069,7 +10081,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 435 ---
+--- Reaction Set 436 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, isetac, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10100,7 +10112,7 @@ Gene: Q47539
   - taurine  + ATP = taurine  + ADP + Pi  |  CHEBI:15891 + CHEBI:15422 = CHEBI:15891 + CHEBI:16761 + CHEBI:18367
   - taurine + ATP + H2O = taurine + ADP + phosphate + H(+)  |  CHEBI:507393 + CHEBI:30616 + CHEBI:15377 = CHEBI:507393 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 436 ---
+--- Reaction Set 437 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, maltttr, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10130,7 +10142,7 @@ Gene: P02916
   - maltose  + ATP = maltose  + ADP + Pi  |  CHEBI:17306 + CHEBI:15422 = CHEBI:17306 + CHEBI:16761 + CHEBI:18367
   - D-maltose + ATP + H2O = D-maltose + ADP + phosphate + H(+)  |  CHEBI:17306 + CHEBI:30616 + CHEBI:15377 = CHEBI:17306 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 437 ---
+--- Reaction Set 438 ---
 Substrates (BiGG IDs): metsox_R__L
 
 Genes facilitating this reaction according to iML1515:
@@ -10158,7 +10170,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 438 ---
+--- Reaction Set 439 ---
 Substrates (BiGG IDs): 34dhpac
 
 Genes facilitating this reaction according to iML1515:
@@ -10186,7 +10198,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 439 ---
+--- Reaction Set 440 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pa180, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10202,7 +10214,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 440 ---
+--- Reaction Set 441 ---
 Substrates (BiGG IDs): cit, fe3, fe3dcit
 
 Genes facilitating this reaction according to iML1515:
@@ -10214,7 +10226,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 441 ---
+--- Reaction Set 442 ---
 Substrates (BiGG IDs): udpglcur
 
 Genes facilitating this reaction according to iML1515:
@@ -10242,7 +10254,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 442 ---
+--- Reaction Set 443 ---
 Substrates (BiGG IDs): 2agpg140
 
 Genes facilitating this reaction according to iML1515:
@@ -10258,7 +10270,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 443 ---
+--- Reaction Set 444 ---
 Substrates (BiGG IDs): dmso
 
 Genes facilitating this reaction according to iML1515:
@@ -10289,7 +10301,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 444 ---
+--- Reaction Set 445 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pgp181, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10305,7 +10317,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 445 ---
+--- Reaction Set 446 ---
 Substrates (BiGG IDs): man6p
 
 Genes facilitating this reaction according to iML1515:
@@ -10333,7 +10345,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 446 ---
+--- Reaction Set 447 ---
 Substrates (BiGG IDs): fecrm_un, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10346,7 +10358,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 447 ---
+--- Reaction Set 448 ---
 Substrates (BiGG IDs): arbtn, arbtn_fe3, fe3
 
 Genes facilitating this reaction according to iML1515:
@@ -10358,7 +10370,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 448 ---
+--- Reaction Set 449 ---
 Substrates (BiGG IDs): arbtn, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10371,7 +10383,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 449 ---
+--- Reaction Set 450 ---
 Substrates (BiGG IDs): g3pg
 
 Genes facilitating this reaction according to iML1515:
@@ -10399,7 +10411,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 450 ---
+--- Reaction Set 451 ---
 Substrates (BiGG IDs): asn__L
 
 Genes facilitating this reaction according to iML1515:
@@ -10427,7 +10439,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 451 ---
+--- Reaction Set 452 ---
 Substrates (BiGG IDs): glyclt
 
 Genes facilitating this reaction according to iML1515:
@@ -10455,7 +10467,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 452 ---
+--- Reaction Set 453 ---
 Substrates (BiGG IDs): fe2, feoxam, feoxam_un, fmn, fmnh2, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10468,7 +10480,7 @@ Reactions from TDB:
 Gene: P39405
   - Gene not in TDB
 
---- Reaction Set 453 ---
+--- Reaction Set 454 ---
 Substrates (BiGG IDs): 2agpg161
 
 Genes facilitating this reaction according to iML1515:
@@ -10484,7 +10496,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 454 ---
+--- Reaction Set 455 ---
 Substrates (BiGG IDs): damp
 
 Genes facilitating this reaction according to iML1515:
@@ -10512,7 +10524,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 455 ---
+--- Reaction Set 456 ---
 Substrates (BiGG IDs): ocdca
 
 Genes facilitating this reaction according to iML1515:
@@ -10525,7 +10537,7 @@ Reactions from TDB:
 Gene: P10384
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 456 ---
+--- Reaction Set 457 ---
 Substrates (BiGG IDs): dgsn, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10549,7 +10561,7 @@ Gene: P0AFF4
   - thymidine  = thymidine  |  CHEBI:17748 = CHEBI:17748
   - inosine  = inosine  |  CHEBI:17596 = CHEBI:17596
 
---- Reaction Set 457 ---
+--- Reaction Set 458 ---
 Substrates (BiGG IDs): arab__L
 
 Genes facilitating this reaction according to iML1515:
@@ -10577,7 +10589,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 458 ---
+--- Reaction Set 459 ---
 Substrates (BiGG IDs): cys__D
 
 Genes facilitating this reaction according to iML1515:
@@ -10605,7 +10617,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 459 ---
+--- Reaction Set 460 ---
 Substrates (BiGG IDs): slnt
 
 Genes facilitating this reaction according to iML1515:
@@ -10633,7 +10645,7 @@ Gene: P06996
 Gene: P02932
   - phosphate(3-)  = phosphate(3-)  |  CHEBI:18367 = CHEBI:18367
 
---- Reaction Set 460 ---
+--- Reaction Set 461 ---
 Substrates (BiGG IDs): adp, atp, g3pe, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10663,7 +10675,7 @@ Gene: P10905
   - glycerol 2-phosphate + ATP + H2O = glycerol 2-phosphate + ADP + phosphate + H(+)  |  CHEBI:58083 + CHEBI:30616 + CHEBI:15377 = CHEBI:58083 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - sn-glycerol 3-phosphate + ATP + H2O = sn-glycerol 3-phosphate + ADP + phosphate + H(+)  |  CHEBI:57597 + CHEBI:30616 + CHEBI:15377 = CHEBI:57597 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 461 ---
+--- Reaction Set 462 ---
 Substrates (BiGG IDs): psuri
 
 Genes facilitating this reaction according to iML1515:
@@ -10695,7 +10707,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 462 ---
+--- Reaction Set 463 ---
 Substrates (BiGG IDs): gthox
 
 Genes facilitating this reaction according to iML1515:
@@ -10723,7 +10735,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 463 ---
+--- Reaction Set 464 ---
 Substrates (BiGG IDs): 2agpe160
 
 Genes facilitating this reaction according to iML1515:
@@ -10739,7 +10751,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 464 ---
+--- Reaction Set 465 ---
 Substrates (BiGG IDs): acgam1p
 
 Genes facilitating this reaction according to iML1515:
@@ -10767,7 +10779,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 465 ---
+--- Reaction Set 466 ---
 Substrates (BiGG IDs): spmd
 
 Genes facilitating this reaction according to iML1515:
@@ -10795,7 +10807,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 466 ---
+--- Reaction Set 467 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, mththf, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10817,7 +10829,7 @@ Gene: P0AFS1
 Gene: P76142
   - autoinducer-2  + ATP = autoinducer-2  + ADP + Pi  |  CHEBI:40646 + CHEBI:15422 = CHEBI:40646 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 467 ---
+--- Reaction Set 468 ---
 Substrates (BiGG IDs): 2tdec7eg3p
 
 Genes facilitating this reaction according to iML1515:
@@ -10833,7 +10845,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 468 ---
+--- Reaction Set 469 ---
 Substrates (BiGG IDs): feenter, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10856,7 +10868,7 @@ Gene: P02929
 Gene: P0ABU7
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 469 ---
+--- Reaction Set 470 ---
 Substrates (BiGG IDs): fad, fadh2, fe2, fecrm, fecrm_un, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10868,7 +10880,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 470 ---
+--- Reaction Set 471 ---
 Substrates (BiGG IDs): lac__L
 
 Genes facilitating this reaction according to iML1515:
@@ -10896,7 +10908,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 471 ---
+--- Reaction Set 472 ---
 Substrates (BiGG IDs): malttr
 
 Genes facilitating this reaction according to iML1515:
@@ -10909,7 +10921,7 @@ Reactions from TDB:
 Gene: P02943
   - beta-maltose = beta-maltose  |  CHEBI:18147 = CHEBI:18147
 
---- Reaction Set 472 ---
+--- Reaction Set 473 ---
 Substrates (BiGG IDs): urea
 
 Genes facilitating this reaction according to iML1515:
@@ -10943,7 +10955,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 473 ---
+--- Reaction Set 474 ---
 Substrates (BiGG IDs): cholate, h
 
 Genes facilitating this reaction according to iML1515:
@@ -10961,7 +10973,7 @@ Gene: P39386
   - puromycin  = puromycin  |  CHEBI:17939 = CHEBI:17939
   - puromycin  + H+  = puromycin  + H+  |  CHEBI:17939 + CHEBI:15378 = CHEBI:17939 + CHEBI:15378
 
---- Reaction Set 474 ---
+--- Reaction Set 475 ---
 Substrates (BiGG IDs): adp, atp, cu2, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -10983,7 +10995,7 @@ Gene: P37617
   - nickel(2+) (outer leaflet of the membrane) + ATP = nickel(2+) (inner leaflet) + ADP + Pi  |  CHEBI:49786 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:49786 (inner leaflet) + CHEBI:16761 + CHEBI:18367
   - zinc(2+) (outer leaflet of the membrane) + ATP = zinc(2+) (inner leaflet) + ADP + Pi  |  CHEBI:29105 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:29105 (inner leaflet) + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 475 ---
+--- Reaction Set 476 ---
 Substrates (BiGG IDs): xylu__L
 
 Genes facilitating this reaction according to iML1515:
@@ -11011,7 +11023,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 476 ---
+--- Reaction Set 477 ---
 Substrates (BiGG IDs): 12dgr120
 
 Genes facilitating this reaction according to iML1515:
@@ -11023,7 +11035,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 477 ---
+--- Reaction Set 478 ---
 Substrates (BiGG IDs): adp, atp, ethso3, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11042,7 +11054,7 @@ Gene: P75851
 Gene: P75853
   - sulfonate  + ATP = sulfonate  + ADP + Pi  |  CHEBI:33543 + CHEBI:15422 = CHEBI:33543 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 478 ---
+--- Reaction Set 479 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, kdo2lipid4, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11058,7 +11070,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 479 ---
+--- Reaction Set 480 ---
 Substrates (BiGG IDs): crn__D
 
 Genes facilitating this reaction according to iML1515:
@@ -11086,7 +11098,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 480 ---
+--- Reaction Set 481 ---
 Substrates (BiGG IDs): h, orot
 
 Genes facilitating this reaction according to iML1515:
@@ -11099,7 +11111,7 @@ Reactions from TDB:
 Gene: P0A830
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 481 ---
+--- Reaction Set 482 ---
 Substrates (BiGG IDs): adp, atp, ctbt, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11133,7 +11145,7 @@ Gene: P0AFM2
   - glycine betaine  + ATP = glycine betaine  + ADP + Pi  |  CHEBI:17750 + CHEBI:15422 = CHEBI:17750 + CHEBI:16761 + CHEBI:18367
   - proline  + ATP = proline  + ADP + Pi  |  CHEBI:26271 + CHEBI:15422 = CHEBI:26271 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 482 ---
+--- Reaction Set 483 ---
 Substrates (BiGG IDs): acmana
 
 Genes facilitating this reaction according to iML1515:
@@ -11161,7 +11173,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 483 ---
+--- Reaction Set 484 ---
 Substrates (BiGG IDs): agm
 
 Genes facilitating this reaction according to iML1515:
@@ -11189,7 +11201,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 484 ---
+--- Reaction Set 485 ---
 Substrates (BiGG IDs): fe3, feoxam, feoxam_un
 
 Genes facilitating this reaction according to iML1515:
@@ -11201,7 +11213,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 485 ---
+--- Reaction Set 486 ---
 Substrates (BiGG IDs): nh4
 
 Genes facilitating this reaction according to iML1515:
@@ -11235,7 +11247,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 486 ---
+--- Reaction Set 487 ---
 Substrates (BiGG IDs): crn, crn__D
 
 Genes facilitating this reaction according to iML1515:
@@ -11248,7 +11260,7 @@ Reactions from TDB:
 Gene: P31553
   - 4-(trimethylamino)butanoate + (R)-carnitine = 4-(trimethylamino)butanoate + (R)-carnitine  |  CHEBI:16244 + CHEBI:16347 = CHEBI:16244 + CHEBI:16347
 
---- Reaction Set 487 ---
+--- Reaction Set 488 ---
 Substrates (BiGG IDs): g6p, glc__D, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -11282,7 +11294,7 @@ Gene: P0AA04
 Gene: P69805
   - D-mannose + N(pros)-phospho-L-histidyl-[protein] = D-mannose 6-phosphate + L-histidyl-[protein]  |  CHEBI:4208 + CHEBI:64837 = CHEBI:58735 + CHEBI:29979
 
---- Reaction Set 488 ---
+--- Reaction Set 489 ---
 Substrates (BiGG IDs): cgly
 
 Genes facilitating this reaction according to iML1515:
@@ -11310,7 +11322,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 489 ---
+--- Reaction Set 490 ---
 Substrates (BiGG IDs): adp, atp, fecrm, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11332,7 +11344,7 @@ Gene: P07822
   - iron(III) hydroxamate  + ATP = iron(III) hydroxamate  + ADP + Pi  |  CHEBI:28163 + CHEBI:15422 = CHEBI:28163 + CHEBI:16761 + CHEBI:18367
   - elaiophylin  + ATP = elaiophylin  + ADP + Pi  |  CHEBI:77879 + CHEBI:15422 = CHEBI:77879 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 490 ---
+--- Reaction Set 491 ---
 Substrates (BiGG IDs): aso3, aso4, gthox, gthrd, h2o
 
 Genes facilitating this reaction according to iML1515:
@@ -11348,7 +11360,7 @@ Gene: P0AB96
 Gene: P0AC59
   - Gene not in TDB
 
---- Reaction Set 491 ---
+--- Reaction Set 492 ---
 Substrates (BiGG IDs): adp, arbtn_fe3, atp, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11370,7 +11382,7 @@ Gene: P07821
   - iron(III) hydroxamate  + ATP = iron(III) hydroxamate  + ADP + Pi  |  CHEBI:28163 + CHEBI:15422 = CHEBI:28163 + CHEBI:16761 + CHEBI:18367
   - elaiophylin  + ATP = elaiophylin  + ADP + Pi  |  CHEBI:77879 + CHEBI:15422 = CHEBI:77879 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 492 ---
+--- Reaction Set 493 ---
 Substrates (BiGG IDs): 23doguln, na1
 
 Genes facilitating this reaction according to iML1515:
@@ -11389,7 +11401,7 @@ Gene: P37675
 Gene: P37676
   - 2,3-diketogulonate  + n H+  = 2,3-diketogulonate  + n H+  |  CHEBI:57441 + n CHEBI:15378 = CHEBI:57441 + n CHEBI:15378
 
---- Reaction Set 493 ---
+--- Reaction Set 494 ---
 Substrates (BiGG IDs): so3
 
 Genes facilitating this reaction according to iML1515:
@@ -11417,7 +11429,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 494 ---
+--- Reaction Set 495 ---
 Substrates (BiGG IDs): dgslnt, gthox, gthrd, h, h2o, slnt
 
 Genes facilitating this reaction according to iML1515:
@@ -11429,7 +11441,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 495 ---
+--- Reaction Set 496 ---
 Substrates (BiGG IDs): asp__L
 
 Genes facilitating this reaction according to iML1515:
@@ -11463,7 +11475,7 @@ Gene: P06996
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 496 ---
+--- Reaction Set 497 ---
 Substrates (BiGG IDs): h2o, mql8, mqn8, sel, slnt
 
 Genes facilitating this reaction according to iML1515:
@@ -11485,7 +11497,7 @@ Gene: P76173
 Gene: P0AAJ1
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 497 ---
+--- Reaction Set 498 ---
 Substrates (BiGG IDs): adp, atp, gln__L, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11504,7 +11516,7 @@ Gene: P0AEQ3
 Gene: P0AEQ6
   - glutamine  + ATP = glutamine  + ADP + Pi  |  CHEBI:28300 + CHEBI:15422 = CHEBI:28300 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 498 ---
+--- Reaction Set 499 ---
 Substrates (BiGG IDs): gtp
 
 Genes facilitating this reaction according to iML1515:
@@ -11532,7 +11544,7 @@ Gene: P02931
   - ceftriaxone  = ceftriaxone  |  CHEBI:29007 = CHEBI:29007
   - ceftazidime  = ceftazidime  |  CHEBI:3508 = CHEBI:3508
 
---- Reaction Set 499 ---
+--- Reaction Set 500 ---
 Substrates (BiGG IDs): all__D
 
 Genes facilitating this reaction according to iML1515:
@@ -11560,7 +11572,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 500 ---
+--- Reaction Set 501 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, pe140, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11576,7 +11588,7 @@ Gene: P60752
   - lipopolysaccharide  + ATP = lipopolysaccharide  + ADP + Pi  |  CHEBI:6494 + CHEBI:15422 = CHEBI:6494 + CHEBI:16761 + CHEBI:18367
   - drug  + ATP = drug  + ADP + Pi  |  CHEBI:23888 + CHEBI:15422 = CHEBI:23888 + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 501 ---
+--- Reaction Set 502 ---
 Substrates (BiGG IDs): arbt, arbt6p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -11598,7 +11610,7 @@ Gene: P08839
 Gene: P24241
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 502 ---
+--- Reaction Set 503 ---
 Substrates (BiGG IDs): dca
 
 Genes facilitating this reaction according to iML1515:
@@ -11626,7 +11638,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 503 ---
+--- Reaction Set 504 ---
 Substrates (BiGG IDs): ala__L
 
 Genes facilitating this reaction according to iML1515:
@@ -11658,7 +11670,7 @@ Gene: P77747
 Gene: P64550
   - Gene not in TDB
 
---- Reaction Set 504 ---
+--- Reaction Set 505 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, orn, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -11709,7 +11721,7 @@ Gene: P52094
   - L-histidine + ATP + H2O = L-histidine + ADP + phosphate + H(+)  |  CHEBI:57595 + CHEBI:30616 + CHEBI:15377 = CHEBI:57595 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
   - L-arginine + ATP + H2O = L-arginine + ADP + phosphate + H(+)  |  CHEBI:32682 + CHEBI:30616 + CHEBI:15377 = CHEBI:32682 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 505 ---
+--- Reaction Set 506 ---
 Substrates (BiGG IDs): adocbl, h
 
 Genes facilitating this reaction according to iML1515:
@@ -11731,7 +11743,7 @@ Gene: P02929
 Gene: P06129
   - cyanocob(III)alamin  =(pmf) cyanocob(III)alamin (periplasm)  |  CHEBI:17439 =(pmf) CHEBI:17439 (periplasm)
 
---- Reaction Set 506 ---
+--- Reaction Set 507 ---
 Substrates (BiGG IDs): mso3
 
 Genes facilitating this reaction according to iML1515:
@@ -11759,7 +11771,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 507 ---
+--- Reaction Set 508 ---
 Substrates (BiGG IDs): met__D
 
 Genes facilitating this reaction according to iML1515:
@@ -11787,7 +11799,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 508 ---
+--- Reaction Set 509 ---
 Substrates (BiGG IDs): 14glucan
 
 Genes facilitating this reaction according to iML1515:
@@ -11800,7 +11812,7 @@ Reactions from TDB:
 Gene: P02943
   - beta-maltose = beta-maltose  |  CHEBI:18147 = CHEBI:18147
 
---- Reaction Set 509 ---
+--- Reaction Set 510 ---
 Substrates (BiGG IDs): galt, galt1p, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -11825,7 +11837,7 @@ Gene: P0AA04
 Gene: P69831
   - galactitol + N(pros)-phospho-L-histidyl-[protein] = galactitol 1-phosphate + L-histidyl-[protein]  |  CHEBI:16813 + CHEBI:64837 = CHEBI:60083 + CHEBI:29979
 
---- Reaction Set 510 ---
+--- Reaction Set 511 ---
 Substrates (BiGG IDs): cpgn_un, h
 
 Genes facilitating this reaction according to iML1515:
@@ -11838,7 +11850,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 511 ---
+--- Reaction Set 512 ---
 Substrates (BiGG IDs): h, metglcur
 
 Genes facilitating this reaction according to iML1515:
@@ -11851,7 +11863,7 @@ Reactions from TDB:
 Gene: P0CE44
   - Gene not in TDB
 
---- Reaction Set 512 ---
+--- Reaction Set 513 ---
 Substrates (BiGG IDs): crn
 
 Genes facilitating this reaction according to iML1515:
@@ -11879,7 +11891,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 513 ---
+--- Reaction Set 514 ---
 Substrates (BiGG IDs): fald, fmn, fmnh2, h, h2o, mso3, o2, so3
 
 Genes facilitating this reaction according to iML1515:
@@ -11892,7 +11904,7 @@ Reactions from TDB:
 Gene: P80645
   - Gene not in TDB
 
---- Reaction Set 514 ---
+--- Reaction Set 515 ---
 Substrates (BiGG IDs): h, h2o, ncam, nmn, r5p
 
 Genes facilitating this reaction according to iML1515:
@@ -11904,7 +11916,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 515 ---
+--- Reaction Set 516 ---
 Substrates (BiGG IDs): ca2, na1
 
 Genes facilitating this reaction according to iML1515:
@@ -11917,7 +11929,7 @@ Reactions from TDB:
 Gene: P45394
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 516 ---
+--- Reaction Set 517 ---
 Substrates (BiGG IDs): fmn, fmnh2, glx, h, h2o, o2, so3, sulfac
 
 Genes facilitating this reaction according to iML1515:
@@ -11930,7 +11942,7 @@ Reactions from TDB:
 Gene: P80645
   - Gene not in TDB
 
---- Reaction Set 517 ---
+--- Reaction Set 518 ---
 Substrates (BiGG IDs): enter, fe2, feenter, h, rbflvrd, ribflv
 
 Genes facilitating this reaction according to iML1515:
@@ -11942,7 +11954,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 518 ---
+--- Reaction Set 519 ---
 Substrates (BiGG IDs): tre
 
 Genes facilitating this reaction according to iML1515:
@@ -11970,7 +11982,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 519 ---
+--- Reaction Set 520 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, maltpt, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -12000,7 +12012,7 @@ Gene: P0AEX9
   - maltose  + ATP = maltose  + ADP + Pi  |  CHEBI:17306 + CHEBI:15422 = CHEBI:17306 + CHEBI:16761 + CHEBI:18367
   - D-maltose + ATP + H2O = D-maltose + ADP + phosphate + H(+)  |  CHEBI:17306 + CHEBI:30616 + CHEBI:15377 = CHEBI:17306 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 520 ---
+--- Reaction Set 521 ---
 Substrates (BiGG IDs): ptrc
 
 Genes facilitating this reaction according to iML1515:
@@ -12028,7 +12040,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 521 ---
+--- Reaction Set 522 ---
 Substrates (BiGG IDs): arbt
 
 Genes facilitating this reaction according to iML1515:
@@ -12056,7 +12068,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 522 ---
+--- Reaction Set 523 ---
 Substrates (BiGG IDs): adp, atp, cd2, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -12078,7 +12090,7 @@ Gene: P37617
   - nickel(2+) (outer leaflet of the membrane) + ATP = nickel(2+) (inner leaflet) + ADP + Pi  |  CHEBI:49786 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:49786 (inner leaflet) + CHEBI:16761 + CHEBI:18367
   - zinc(2+) (outer leaflet of the membrane) + ATP = zinc(2+) (inner leaflet) + ADP + Pi  |  CHEBI:29105 (outer leaflet of the membrane) + CHEBI:15422 = CHEBI:29105 (inner leaflet) + CHEBI:16761 + CHEBI:18367
 
---- Reaction Set 523 ---
+--- Reaction Set 524 ---
 Substrates (BiGG IDs): meoh
 
 Genes facilitating this reaction according to iML1515:
@@ -12109,7 +12121,7 @@ Gene: P77747
 
 Gene: Unknown
 
---- Reaction Set 524 ---
+--- Reaction Set 525 ---
 Substrates (BiGG IDs): glyc__R, h
 
 Genes facilitating this reaction according to iML1515:
@@ -12125,7 +12137,7 @@ Gene: P0AA80
 Gene: Q46916
   - Gene not in TDB
 
---- Reaction Set 525 ---
+--- Reaction Set 526 ---
 Substrates (BiGG IDs): mal__L
 
 Genes facilitating this reaction according to iML1515:
@@ -12153,7 +12165,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 526 ---
+--- Reaction Set 527 ---
 Substrates (BiGG IDs): adp, atp, h, h2o, metsox_S__L, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -12165,7 +12177,7 @@ Reactions from iML1515:
 Reactions from TDB:
 Gene: Unknown
 
---- Reaction Set 527 ---
+--- Reaction Set 528 ---
 Substrates (BiGG IDs): ac
 
 Genes facilitating this reaction according to iML1515:
@@ -12193,7 +12205,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 528 ---
+--- Reaction Set 529 ---
 Substrates (BiGG IDs): glyc2p
 
 Genes facilitating this reaction according to iML1515:
@@ -12221,7 +12233,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 529 ---
+--- Reaction Set 530 ---
 Substrates (BiGG IDs): adp, atp, cbi, h, h2o, pi
 
 Genes facilitating this reaction according to iML1515:
@@ -12242,7 +12254,7 @@ Gene: P06611
   - cyanocob(III)alamin  + ATP = cyanocob(III)alamin  + ADP + Pi  |  CHEBI:17439 + CHEBI:15422 = CHEBI:17439 + CHEBI:16761 + CHEBI:18367
   - an R-cob(III)alamin + ATP + H2O = an R-cob(III)alamin + ADP + phosphate + H(+)  |  CHEBI:140785 + CHEBI:30616 + CHEBI:15377 = CHEBI:140785 + CHEBI:456216 + CHEBI:43474 + CHEBI:15378
 
---- Reaction Set 530 ---
+--- Reaction Set 531 ---
 Substrates (BiGG IDs): ac, h
 
 Genes facilitating this reaction according to iML1515:
@@ -12255,7 +12267,7 @@ Reactions from TDB:
 Gene: P0AC98
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 531 ---
+--- Reaction Set 532 ---
 Substrates (BiGG IDs): 2hdecg3p
 
 Genes facilitating this reaction according to iML1515:
@@ -12271,7 +12283,7 @@ Gene: P39196
   - 2-monolysocardiolipin  = 2-monolysocardiolipin  |  CHEBI:60430 = CHEBI:60430
   - 2-monolysocardiolipin  + H+  = 2-monolysocardiolipin  + H+  |  CHEBI:60430 + CHEBI:15378 = CHEBI:60430 + CHEBI:15378
 
---- Reaction Set 532 ---
+--- Reaction Set 533 ---
 Substrates (BiGG IDs): gua, h
 
 Genes facilitating this reaction according to iML1515:
@@ -12284,7 +12296,7 @@ Reactions from TDB:
 Gene: P0AGM9
   - xanthine + H(+) = xanthine + H(+)  |  CHEBI:17712 + CHEBI:15378 = CHEBI:17712 + CHEBI:15378
 
---- Reaction Set 533 ---
+--- Reaction Set 534 ---
 Substrates (BiGG IDs): 6pgg, cellb, pep, pyr
 
 Genes facilitating this reaction according to iML1515:
@@ -12312,7 +12324,7 @@ Gene: P69791
 Gene: P24241
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 534 ---
+--- Reaction Set 535 ---
 Substrates (BiGG IDs): gam6p
 
 Genes facilitating this reaction according to iML1515:
@@ -12340,7 +12352,7 @@ Gene: P02932
 Gene: P77747
   - molecule  = molecule  |  CHEBI:25367 = CHEBI:25367
 
---- Reaction Set 535 ---
+--- Reaction Set 536 ---
 Substrates (BiGG IDs): gly, na1
 
 Genes facilitating this reaction according to iML1515:
@@ -12353,7 +12365,7 @@ Reactions from TDB:
 Gene: P30143
   - no_reaction_identified  |  no_reaction_identified
 
---- Reaction Set 536 ---
+--- Reaction Set 537 ---
 Substrates (BiGG IDs): orn, ptrc
 
 Genes facilitating this reaction according to iML1515:
