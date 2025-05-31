@@ -44,6 +44,8 @@ tn_df.drop_duplicates(inplace=True)
 TN = len(tn_df)
 PR_points = []
 
+PR_points_genes = []
+
 def chunked_lines(items, chunk_size=10):
     return '\n'.join([', '.join(items[i:i+chunk_size]) for i in range(0, len(items), chunk_size)])
 
@@ -96,6 +98,20 @@ for fname in os.listdir(outp_dir):
         ("Transporter genes - BLAST", "All genes - iML1515", "Transporter genes - iML1515"),
         f"E-value: {e_val_latex}\nIdentity: {identity}%",
         resolve_path("figs", f"transport_genes_tdb_iML1515_{e_val}_{identity}.pdf"))
+    
+    TP_genes = len(e_coli_uids & model_transport_uids)
+    FN_genes = len(model_transport_uids - e_coli_uids)
+    FP_genes = len(e_coli_uids - model_transport_uids)
+
+    P_genes = TP_genes / (TP_genes + FP_genes) * 100
+    R_genes = TP_genes / (TP_genes + FN_genes) * 100
+
+    PR_points_genes.append({
+        "Evalue": e_val,
+        "Identity": identity,
+        "Precision": P_genes,
+        "Recall": R_genes,
+    })
 
     set_e_coli_bigg = set()
 
@@ -239,51 +255,75 @@ for fname in os.listdir(outp_dir):
     with open(file, "w") as f:
         f.writelines(lines)
 
-df_points = pd.DataFrame(PR_points)
-df_points["Identity"] = df_points["Identity"].astype(int)
-unique_evalues = sorted(df_points["Evalue"].unique())
-unique_identities = sorted(df_points["Identity"].unique())
+def plot_precision_recall(
+    df,
+    output_filename,
+    marker_size=150,
+    font_size=14,
+    xlabel="Recall (%)",
+    ylabel="Precision (%)"
+):
+    df = pd.DataFrame(df)
+    df["Identity"] = df["Identity"].astype(int)
+    
+    unique_evalues = sorted(df["Evalue"].unique())
+    unique_identities = sorted(df["Identity"].unique())
 
-marker_styles = ["o", "s", "D", "^", "v", ">", "<", "P", "*", "X"]
-evalue_markers = {e: marker_styles[i % len(marker_styles)] for i, e in enumerate(unique_evalues)}
-identity_colors = {id_: plt.cm.viridis(i / (len(unique_identities)-1)) for i, id_ in enumerate(unique_identities)}
+    marker_styles = ["o", "s", "D", "^", "v", ">", "<", "P", "*", "X"]
+    evalue_markers = {
+        e: marker_styles[i % len(marker_styles)]
+        for i, e in enumerate(unique_evalues)
+    }
+    identity_colors = {
+        id_: plt.cm.viridis(i / (len(unique_identities)-1))
+        for i, id_ in enumerate(unique_identities)
+    }
 
-plt.figure(figsize=(10, 7))
-for _, row in df_points.iterrows():
-    plt.scatter(
-        row["Recall"], row["Precision"],
-        label=f"E={row['Evalue']}, ID={row['Identity']}%",
-        marker=evalue_markers[row["Evalue"]],
-        color=identity_colors[row["Identity"]],
-        s=100,
-        edgecolor="black"
+    plt.figure(figsize=(10, 7))
+    for _, row in df.iterrows():
+        plt.scatter(
+            row["Recall"], row["Precision"],
+            marker=evalue_markers[row["Evalue"]],
+            color=identity_colors[row["Identity"]],
+            s=marker_size,
+            edgecolor="black"
+        )
+
+    legend_elements = []
+
+    legend_elements.append(Line2D([0], [0], linestyle='none', label=r'$\bf{E\text{-}value}$', color='white'))
+    legend_elements += [
+        Line2D([0], [0], marker=marker, linestyle='None', color='w',
+               label=f"{e}", markerfacecolor='gray', markersize=12, markeredgecolor='black')
+        for e, marker in evalue_markers.items()
+    ]
+    legend_elements.append(Line2D([0], [0], linestyle='none', label=r'$\bf{Identity}$', color='white'))
+    legend_elements += [
+        Line2D([0], [0], marker='o', linestyle='None', color='w',
+               label=f"{id_}%", markerfacecolor=color, markersize=12, markeredgecolor='black')
+        for id_, color in identity_colors.items()
+    ]
+
+    plt.legend(
+        handles=legend_elements,
+        bbox_to_anchor=(1, 1.04),
+        loc="upper left",
+        fontsize=font_size,
+        borderaxespad=1.2,
+        handlelength=2,
+        handletextpad=0.8,
+        labelspacing=0.8,
+        borderpad=1.0
     )
 
-legend_elements = []
+    plt.xlabel(xlabel, fontsize=18)
+    plt.ylabel(ylabel, fontsize=18)
+    plt.xticks(fontsize=16)
+    plt.yticks(fontsize=16)
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(resolve_path("figs", output_filename))
+    plt.close()
 
-legend_elements.append(Line2D([0], [0], linestyle='none', label='E-value', color='white'))
-
-legend_elements += [
-    Line2D([0], [0], marker=marker, linestyle='None', color='w',
-           label=f"{e}", markerfacecolor='gray', markersize=12, markeredgecolor='black')
-    for e, marker in evalue_markers.items()
-]
-
-legend_elements.append(Line2D([0], [0], linestyle='none', label='Identity', color='white'))
-
-legend_elements += [
-    Line2D([0], [0], marker='o', linestyle='None', color='w',
-           label=f"{id_}%", markerfacecolor=color, markersize=12, markeredgecolor='black')
-    for id_, color in identity_colors.items()
-]
-
-plt.legend(handles=legend_elements, bbox_to_anchor=(1.05, 1), loc="upper left")
-plt.xlabel("Recall (%)", fontsize=18)
-plt.ylabel("Precision (%)", fontsize=18)
-# plt.title("Precision-Recall of Reaction Matches\n(BLAST vs Model)", fontsize=16)
-# plt.xlim(0, 100)
-# plt.ylim(0, 100)
-plt.grid(True)
-plt.tight_layout()
-plt.savefig(resolve_path("figs", "precision_recall_reactions.pdf"))
-plt.close()
+plot_precision_recall(PR_points, "precision_recall_reactions.pdf")
+plot_precision_recall(PR_points_genes, "precision_recall_genes.pdf")
