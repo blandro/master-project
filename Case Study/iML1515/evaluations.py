@@ -20,7 +20,6 @@ tdb_path = resolve_path("transporters_df.tsv")
 json_path = resolve_path("iML1515.json")
 model_path = resolve_path("iML1515_transport_rxs.tsv")
 c2b_path = resolve_path("chebi2bigg.tsv")
-tn_path = resolve_path("iML1515_not_transport_related.tsv")
 
 outp_dir = resolve_path("outp", mkdir=True)
 figs_dir = resolve_path("figs", mkdir=True)
@@ -39,9 +38,6 @@ model_transport_uids.remove("Unknown")
 c2b_df = pd.read_csv(c2b_path, sep="\t")
 c2b = {row["CHEBI"].upper().replace("CHEBI:", "CHEBI:"): row["BIGG"] for _, row in c2b_df.iterrows()}
 
-tn_df = pd.read_csv(tn_path, sep="\t", usecols=["Substrates (BiGG)"])
-tn_df.drop_duplicates(inplace=True)
-TN = len(tn_df)
 PR_points = []
 
 PR_points_genes = []
@@ -197,8 +193,6 @@ for fname in os.listdir(outp_dir):
                         parsed_rxns.append((rx_group, ""))
                 reactions_by_set[substrate_set][uid] = parsed_rxns
 
-    transporters_not_in_tdb = []
-    transporters_wo_rx = []
 
     file = os.path.join(data_dir, f"only_reactions_in_model_comp_tdb_{e_val}_{identity}.txt")
 
@@ -232,28 +226,11 @@ for fname in os.listdir(outp_dir):
                 if isinstance(rxns, str):
                     if uid != "Unknown":
                         f.write(f"  - {rxns}\n")
-                        transporters_not_in_tdb.append(uid)
                 else:
                     for rxn in rxns:
                         f.write(f"  - {rxn[0]}  |  {rxn[1]}\n")
-                        if rxn[0] == "no_reaction_identified":
-                            transporters_wo_rx.append(uid)
                 f.write("\n")
 
-
-    insert_line = []
-    if transporters_not_in_tdb:
-        insert_line.append(f"\nDistinct genes not found in TDB: [{len(set(transporters_not_in_tdb))}]\n{chunked_lines(list(set(transporters_not_in_tdb)))}\n\n")
-    if transporters_wo_rx:
-        insert_line.append(f"Distinct genes with no identified reaction in TDB: [{len(set(transporters_wo_rx))}]\n{chunked_lines(list(set(transporters_wo_rx)))}\n\n")
-
-    with open(file, "r") as f:
-        lines = f.readlines()
-
-    lines[7:7] = insert_line
-
-    with open(file, "w") as f:
-        f.writelines(lines)
 
 def plot_precision_recall(
     df,
