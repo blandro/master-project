@@ -5,6 +5,6 @@ UniProt/Modified_queries/*
 1+2/misc_pipeline_testing/identified_proteins.tsv
 Pipeline/__pycache__
 Pipeline/blast_transporters.egg-info
-Case Study/iML1515/outp/*
-Case Study/iML1515/data/*
-Case Study/iML1515/figs/*
+Case Study/iML1515/outp
+Case Study/iML1515/data
+Case Study/iML1515/figs
