@@ -91,7 +91,7 @@ for fname in os.listdir(outp_dir):
     }
 
     save_venn3_plot(e_coli_uids, all_uids_model, model_transport_uids,
-        ("Transporter genes - BLAST", "All genes - iML1515", "Transporter genes - iML1515"),
+        ("Transporter genes - BLASTp", "All genes - iML1515", "Transporter genes - iML1515"),
         f"E-value: {e_val_latex}\nIdentity: {identity}%",
         resolve_path("figs", f"transport_genes_tdb_iML1515_{e_val}_{identity}.pdf"))
     
@@ -138,7 +138,7 @@ for fname in os.listdir(outp_dir):
     set_model_bigg = set(frozenset(r) for r in reactions_bigg_model)
 
     save_venn2_plot(set_e_coli_bigg, set_model_bigg,
-                    ("BLAST reactions", "Model reactions"),
+                    ("BLASTp reactions", "Model reactions"),
                     f"E-value: {e_val_latex}\nIdentity: {identity}%",
                     resolve_path("figs", f"reactions_tdb_iML1515_{e_val}_{identity}.pdf"))
     
@@ -176,6 +176,8 @@ for fname in os.listdir(outp_dir):
 
         uids_by_set[substrate_set] = list(uids)
 
+######## Only used for misc. identification of reactions ########
+
     reactions_by_set = defaultdict(dict)
 
     for substrate_set, uids in uids_by_set.items():
@@ -192,7 +194,6 @@ for fname in os.listdir(outp_dir):
                     except Exception:
                         parsed_rxns.append((rx_group, ""))
                 reactions_by_set[substrate_set][uid] = parsed_rxns
-
 
     file = os.path.join(data_dir, f"only_reactions_in_model_comp_tdb_{e_val}_{identity}.txt")
 
@@ -230,7 +231,7 @@ for fname in os.listdir(outp_dir):
                     for rxn in rxns:
                         f.write(f"  - {rxn[0]}  |  {rxn[1]}\n")
                 f.write("\n")
-
+#################################################################
 
 def plot_precision_recall(
     df,
